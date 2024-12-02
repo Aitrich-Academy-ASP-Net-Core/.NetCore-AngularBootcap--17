@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+#container {
+ background-color:blue;
+ height: 60px;
+ width: 200px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: x-large;
+}
+#container2 {
+    background-color:white;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+#container3 {
+    background-color: blue;
+    height: 600px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items:normal;
+    
+}
+#content {
+    background-color:aqua;
+    height: 150px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    position: absolute;left: 600px;top:0px
+}
