@@ -1,0 +1,19 @@
+body
+{
+    background-color: antiquewhite;
+    background-image:url(https://img.freepik.com/premium-photo/blank-sign-empty-chair-hiring-new-job-vacancy-concept-d-rendering_601748-4880.jpg);
+    background-position: left;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 400px;
+}
+#front{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 200px;
+    height: 300px;
+    background-color: aquamarine;
+    a
+}
