@@ -1,0 +1,26 @@
+
+#rect1
+{
+    width: 200px;
+    height:50px;
+    background-color: green;
+    position: relative;left: 400px;top: 50px;
+}
+#rect2
+{
+    width: 200px;
+    height:50px;
+    background-color: red;
+    position: relative;left: 400px;top: 52px;
+}
+#rect3
+{
+    width: 200px;
+    height:50px;
+    background-color: yellow;
+    position: relative;left: 400px;top: 54px;
+}
+.divv
+{
+    text-align: center;
+}
