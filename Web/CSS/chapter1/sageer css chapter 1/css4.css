@@ -1,0 +1,18 @@
+#h11
+{
+    font-style: italic;
+}
+#h12
+{
+    font: 2em sans-serif;
+    text-decoration: underline;
+}
+#h13
+{
+    text-decoration: solid;
+}
+#h14
+{
+    font: 1em sans-serif;
+    text-decoration: line-through;
+}
