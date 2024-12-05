@@ -1,0 +1,77 @@
+#top{
+    position: absolute;left: 60px;top: 15px;
+}
+#bell{
+
+    position: absolute;left: 1010px;top: 35px;
+}
+#leslie{
+    position: absolute;left: 1040px;top: 26px;
+
+}
+#date{
+    position: absolute;left: 64px;top: 75px;
+    font-size: small;
+    color: gray;
+
+}
+.profile{
+    border:1px solid rgb(232, 224, 224);
+   height: 320px;
+   width:26%;
+   position: absolute;left: 18%;top: 15%;
+   }
+   .skills{
+
+    border:1px solid rgb(233, 226, 226);
+    height:200px;
+    width:52%;
+    position: absolute;left: 46%;top: 15%;
+    
+    }
+    .edu{
+        border:1px solid rgb(233, 226, 226);
+    height:230px;
+    width:52%;
+    position: absolute;left: 46%;top: 46.4%;
+    
+
+    }
+    .exp{
+        border:1px solid rgb(233, 226, 226);
+    height:200px;
+    width:100%;
+    position: absolute;left: 0%;top: 100%;
+    
+
+    }
+   #aboutme{
+    border:1px solid rgb(233, 226, 226);
+    height: 255px;
+   width:350px;
+   position: absolute;left:0%;top:100%;
+
+   }
+   .footer{
+    background-image: url("images/Decoration.png");
+        background-color:skyblue;
+        height: 240px;
+        width: 1335px;
+        position: absolute;
+
+        text-align: center;
+        margin-top: 790px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+        color: white;
+  }
+  .secfooter
+    {
+        position: absolute;
+        margin-top: 1000px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: normal;
+        padding: 100px;
+    }
+
+  
