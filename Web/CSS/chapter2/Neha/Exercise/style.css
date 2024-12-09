@@ -1,0 +1,334 @@
+
+.leftbox {
+    width: 340px;
+    height: 1000px;
+    background-color: #40189D;
+}
+.items {
+    padding: 10px 10px 10px 20px;
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+    margin-top: 20px;
+  }
+
+  li img {
+    margin-left: 5px;
+    margin-top: 10px;
+  }
+  .div1 {
+    position: absolute;
+    top: 200px ;
+    left:100px;
+    background-color: white;
+    border-radius: 25px 0px 0px 25px;
+    width: 500px;
+    height: 50px;
+      }
+      .divright {
+
+        position: absolute;
+        width: 1750px;
+        height: 1008px;
+        left: 330px;
+        top: 0px;
+        background: #e3e2e2;
+        /* background: #f2f2f2; */
+        border-radius: 38px 0px 0px 38px;
+      }
+      #menu {
+        position: relative;
+        top:50px;
+        left:50px;
+      }
+      .divright h2 {
+        position: relative;
+        left:80px;
+      }
+      .divright input {
+        width: 500px;
+        height:40px;
+        border-radius: 50px;
+        background-color:rgb(222, 214, 214);
+        color:black;
+        position: absolute;
+        top: 40px;
+        left: 500px;
+        text-align: center;
+        justify-content: center;
+      }
+      .divright img {
+        position: absolute;
+        top: 50px;
+        left: 950px;
+      }
+      #imga{
+        position: absolute;
+         top: 37px;
+         left: 1110px;
+          height: 50px;
+           width: 50px;
+      }
+      .liproviders {
+        position: absolute;
+        top:300px;
+        left:100px;
+        color: white;
+      }
+      .divright h4 {
+        position: absolute;
+         top: 30px;
+         left: 1590px;
+
+      }
+      .divnew {
+        position: absolute;
+        top:380px;
+        left:100px;
+        color: white;
+      }
+      .divnew a {
+        color:white;
+        text-decoration:none;
+      }
+      .divseeker {
+        position: absolute;
+        top:460px;
+        left:100px;
+        color: white;
+      }
+      .divseeker a {
+        color:white;
+        text-decoration:none;
+      }
+      .divjobs {
+        position: absolute;
+        top:540px;
+        left:100px;
+        color: white;
+      }
+      .divjobs a {
+        color:white;
+        text-decoration:none;
+      }
+      .divprofile {
+        position: absolute;
+        top:620px;
+        left:100px;
+        color: white;
+      }
+      .divprofile a {
+        color:white;
+        text-decoration:none;
+      }
+      .divmessages {
+        position: absolute;
+        top:700px;
+        left:100px;
+        color: white;
+      }
+      .divmessages a {
+        color:white;
+        text-decoration:none;
+      }
+      .divsettings {
+        position: absolute;
+        top:780px;
+        left:100px;
+        color: white;
+      }
+      .divsettings a {
+        color:white;
+        text-decoration:none;
+      }
+      .divlogout {
+        position: absolute;
+        top:860px;
+        left:100px;
+        color: white;
+      }
+      .divlogout a {
+        color:white;
+        text-decoration:none
+      }
+      .divbox1 {
+        position: absolute;
+        left: 400px;
+        top: 200px;
+        width: 400px;
+        height: 200px;
+        background-color: #32CD32;
+      }
+      .divbox1 img {
+      width: 60px;
+      position: relative;
+      top: 50px;
+      left: 50px;
+      }
+      .divbox1 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox1 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+      .divbox2 {
+        position: absolute;
+        left: 900px;
+        top: 200px;
+        width: 400px;
+        height: 200px;
+        background-color: #1E90FF;
+      }
+      .divbox2 img {
+      width: 90px;
+      position: relative;
+      top: 60px;
+      left: 60px;
+      }
+      .divbox2 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox2 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+      .divbox3 {
+        position: absolute;
+        left: 1400px;
+        top: 200px;
+        width: 370px;
+        height: 200px;
+        background-color: blue;
+      }
+      .divbox3 img {
+      width: 60px;
+      position: relative;
+      top: 50px;
+      left: 60px;
+      }
+      .divbox3 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox3 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+      .divbox4 {
+        position: absolute;
+        left: 400px;
+        top: 500px;
+        width: 400px;
+        height: 200px;
+        background-color: blue;
+      }
+      .divbox4 img {
+      width: 60px;
+      position: relative;
+      top: 50px;
+      left: 90px;
+      }
+      .divbox4 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox4 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+      .divbox5 {
+        position: absolute;
+        left: 900px;
+        top: 500px;
+        width: 400px;
+        height: 200px;
+        background-color: #1E90FF;
+      }
+      .divbox5 img {
+      width: 60px;
+      position: relative;
+      top: 50px;
+      left: 90px;
+      }
+      .divbox5 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox5 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+      .divbox6 {
+        position: absolute;
+        left: 1400px;
+        top: 500px;
+        width: 370px;
+        height: 200px;
+        background-color: yellowgreen;
+      }
+      .divbox6 img {
+      width: 60px;
+      position: relative;
+      top: 50px;
+      left: 90px;
+      }
+      .divbox6 h3 {
+        color: white;
+        position: relative;
+      top: -40px;
+      left: 150px;
+      }
+      .divbox6 p {
+        color: white;
+        position: relative;
+      top: -60px;
+      left: 150px;
+      font-size: 35px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
