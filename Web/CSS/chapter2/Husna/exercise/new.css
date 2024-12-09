@@ -1,0 +1,221 @@
+#top {
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+
+#bell {
+
+    position: absolute;
+    left: 1010px;
+    top: 35px;
+}
+
+#leslie {
+    position: absolute;
+    left: 1040px;
+    top: 26px;
+
+}
+
+#date {
+    position: absolute;
+    left: 64px;
+    top: 75px;
+    font-size: small;
+    color: gray;
+
+}
+
+.profile {
+    border: 1px solid rgb(232, 224, 224);
+    border-radius: 8px;
+    height: 370px;
+    width: 26%;
+    position: absolute;
+    left: 18%;
+    top: 15%;
+}
+
+.skills {
+
+    border: 1px solid rgb(233, 226, 226);
+    border-radius: 8px;
+    height: 200px;
+    width: 52%;
+    position: absolute;
+    left: 46%;
+    top: 15%;
+
+}
+
+.edu {
+    border: 1px solid rgb(233, 226, 226);
+    border-radius: 8px;
+    height: 230px;
+    width: 52%;
+    position: absolute;
+    left: 46%;
+    top: 48%;
+
+
+}
+
+.exp {
+    border: 1px solid rgb(233, 226, 226);
+    border-radius: 8px;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 105%;
+
+
+}
+
+#aboutme {
+    border: 1px solid rgb(233, 226, 226);
+    border-radius: 8px;
+    height: 270px;
+    width: 350px;
+    position: absolute;
+    left: 0%;
+    top: 103%;
+
+}
+
+.footer {
+    background-image: url("images/Decoration.png");
+    background-color: skyblue;
+    height: 240px;
+    width: 1335px;
+    position: absolute;
+
+    text-align: center;
+    margin-top: 790px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color: white;
+}
+
+.secfooter {
+    position: absolute;
+    margin-top: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    padding: 100px;
+}
+
+button {
+    float: right;
+    border: 0;
+}
+
+#one {
+    position: absolute;
+    margin-top: 10px;
+    width: 150px;
+}
+
+#two {
+    position: absolute;
+    margin-top: 40px;
+    width: 150px;
+}
+
+#three {
+    position: absolute;
+    margin-top: 70px;
+    width: 150px;
+}
+
+#four {
+
+    position: absolute;
+    margin-top: 100px;
+    width: 150px;
+}
+
+.secfooter img {
+    position: absolute;
+    margin-top: 80px;
+}
+
+.subscribe {
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    height: 45px;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+.subscribe a {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 25px;
+    background-color: #159eec;
+    color: white;
+    border-radius: 5px;
+    padding: 6px;
+    width: 120px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+#out {
+    height: 25px;
+    width: 120px;
+    background: lightgray;
+    border-radius: 5px;
+    position: relative;
+    left: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header {
+    position: absolute;
+    left: 240px;
+    top: 0;
+    background-color: white;
+    height: 100px;
+    width: 1130px;
+}
+
+#resume {
+    height: 25px;
+    width: 200px;
+    background: lightblue;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.jobie:hover{
+    background-color: white;
+    color:blue;
+    border-radius: 3px;
+}
+.jobie{
+    position: relative;left: 20px;top: 10px;
+    color: white;
+}
+.applc{
+    position: relative;left: 20px;top: 35px;color: white;
+}
+.msg{
+    position: relative;left: 20px;top: 58px;color: white;
+}
+.profi{
+    position: relative;left: 20px;top: 80px;color: white;
+}
+.sett{
+    position: relative;left: 20px;top: 107px;color: white;
+}
