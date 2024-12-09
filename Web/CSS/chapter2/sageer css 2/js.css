@@ -1,0 +1,13 @@
+#divv
+{
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+img{
+    position: absolute;left: 8px;top: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

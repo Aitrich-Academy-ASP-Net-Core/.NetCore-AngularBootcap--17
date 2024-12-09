@@ -1,0 +1,10 @@
+div
+{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(211, 204, 204);
+    border: 2px solid blue;
+}
+p{
+    position: absolute;left: 20px;top: 20px;
+}
