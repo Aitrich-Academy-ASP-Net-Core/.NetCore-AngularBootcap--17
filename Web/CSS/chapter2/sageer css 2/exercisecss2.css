@@ -1,0 +1,522 @@
+body
+{
+    background-color: whitesmoke;
+}
+#leftsidebar
+{
+    width: 210px;
+    height: 450px;
+    background-color: rgb(90, 90, 244);
+    -webkit-text-fill-color: aliceblue;
+}
+#lefttab
+{
+    position: absolute;
+    top: -20px;
+    left: 30px;
+}
+#blueblank
+{
+    position: absolute;left: 8px;top: 368px;
+    width: 210px;
+    height: 200px;
+    background-color: rgb(90, 90, 244);
+}
+.lowerblue
+{
+    position: absolute;left: 8px;top: 368px;
+    width: 210px;
+    height: 550px;
+    background-color: rgb(90, 90, 244);
+}
+.lowerblue ul
+{
+    position: absolute;left: 0px;top: 100px;
+}
+#type
+{
+    position: absolute;left: 70px;top: 96px;
+}
+#exp
+{
+    position: absolute;left: 70px;top: 143px;
+}
+#sal
+{
+    position: absolute;left: 70px;top: 188px;
+}
+#loc
+{
+    position: absolute;left: 70px;top: 236px;
+}
+#header
+{
+    position: absolute;top: 8px; left: 218px;
+    width: 1300px;
+    height: 60px;
+    background-color: white;
+}
+#alljobs
+{
+    position: absolute;top: 4px; left: 30px;
+}
+#save
+{
+    position: absolute;top: 4px; left: 120px;
+}
+#bell
+{
+    position: absolute;top: 4px; left: 1070px;
+}
+#leslie
+{
+    position: absolute;top: 3px; left: 1120px;
+}
+#lesliee
+{
+    position: absolute;top: 6px; left: 1160px;
+}
+#inputline
+{
+    position: absolute;top: 106px;
+    left: 260px;
+    background-color: white;
+    width: 260px;
+    height: 50px;
+}
+#radio
+{
+    position: absolute;top: 0px;
+    left: 10px;
+}
+#checkbox
+{
+    position: absolute;top: 106px;
+    left: 580px;
+    background-color: white;
+    width: 260px;
+    height: 50px;
+}
+#check
+{
+    position: absolute; top: -10px; left: 40px;
+}
+#sortby
+{
+    position: absolute;top: 106px; left: 1260px;
+}
+#select
+{
+    position: absolute;top: 125px; left: 1320px;
+}
+#first
+{
+    background-color: white;
+    position: absolute;top: 170px; left: 260px;
+    height: 200px;
+    width: 1250px;
+    border: 1px solid black;
+}
+#trainee
+{
+    position: absolute;
+    top: 00px;
+    left: 00px;
+}
+#cyber
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des1
+{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+#fulltime
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 150px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag1
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#second
+{
+    background-color: white;
+    position: absolute;top: 400px; left: 260px;
+    height: 200px;
+    width: 1250px;
+    border: 1px solid black;
+}
+#trainee2
+{
+    position: absolute;
+    top: 00px;
+    left: 00px;
+}
+#cyber2
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des2
+{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+#fulltime2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy2
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 150px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag2
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#third
+{
+    background-color: white;
+    position: absolute;top: 630px; left: 260px;
+    height: 200px;
+    width: 1250px;
+    border: 1px solid black;
+}
+#trainee3
+{
+    position: absolute;
+    top: 00px;
+    left: 00px;
+}
+#cyber3
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des3
+{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+#fulltime3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 150px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy3
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 150px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag3
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#bluefooter
+{
+    position: absolute;top: 900px;
+    background-color: rgb(90, 90, 244);
+    width: 1505px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#editpreference
+{
+    position: absolute;left: 50px;top: 750px;
+    width: 130px;
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    -webkit-text-fill-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footh2
+{
+    position: absolute;left: 600px;top: 30px;
+    word-spacing: 5px;
+    -webkit-text-fill-color: white;
+}
+#footh31
+{
+    position: absolute;left: 530px;top: 110px;
+    -webkit-text-fill-color: white;
+}
+#footh32
+{
+    position: absolute;left: 590px;top: 130px;
+    -webkit-text-fill-color: white;
+}
+#footp
+{
+    position: absolute;top: 0px;left: 10px;
+
+}
+#typeemail
+{
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    top: 180px;
+    left: 60;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+#Subscribe
+{
+    width: 120px;
+    height: 40px;
+    position: absolute;left: 350px;
+    background-color: rgb(90, 90, 244);
+    -webkit-text-fill-color: white;
+    border: 0px;
+}
+#social
+{
+    position: absolute;left: 0px;top: 130px;
+    word-spacing: 15px;
+}
+#hiremenow
+{
+    width: 15%;
+    height: 20%;
+    position: absolute;
+    left: 80px;
+    top: 1200px;
+}
+#Aboutus
+{
+    position: absolute;
+    left: 750px;
+    top: 1200px;
+    width: 5%;
+    height: 5%;
+}
+#Aboutp
+{
+    font-size: larger;
+}
+#Company
+{
+    position: absolute;
+    left: 870px;
+    top: 1200px;
+    width: 5%;
+    height: 5%;
+}
+#support
+{
+    position: absolute;
+    left: 990px;
+    top: 1200px;
+    width: 5%;
+    height: 5%;
+}
+#Service
+{
+    position: absolute;
+    left: 1110px;
+    top: 1200px;
+    width: 5%;
+    height: 5%;
+}
+#opentowork
+{
+    width: 110px;
+    height: 20px;
+    background-color: rgb(65, 230, 65);
+    position: absolute;top: 115px;left: 60px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-radius: 5px;
+}
