@@ -1,0 +1,570 @@
+#open {
+    height: 12px;
+    width: 47px;
+    background-color: limegreen;
+    color: white;
+    font-size: 6px;
+    border-radius: 3px;
+    position: relative;
+    left: 44px;
+    top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.leftbar {
+    height: 500px;
+    width: 140px;
+    background-color: cornflowerblue;
+    color: white;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+
+
+}
+
+.hire {
+    position: relative;
+    left: 23px;
+    top: 12px;
+    background: linear-gradient(to left,red,yellow,black);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: moveGradient 2s linear infinite;
+  }
+
+  @keyframes moveGradient {
+    0% {
+      background-position: 100% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+}
+
+.leftbar img {
+    position: relative;
+    left: 50px;
+    top: 24px;
+}
+
+#name {
+    margin-top: 20px;
+    margin-left: 32px;
+    font-size: x-small;
+}
+
+#mail {
+    font-size: xx-small;
+    margin-left: 20px;
+    color: whitesmoke;
+}
+
+#jobs {
+    background-image: url(./images/job-letter.png);
+    background-size: 15px;
+
+}
+
+#applc {
+    background-image: url(./images/job-application.png);
+    background-size: 15px;
+
+}
+
+#msg {
+    background-image: url(./images/messages.png);
+    background-size: 15px;
+
+}
+
+#prof {
+    background-image: url(./images/profile.png);
+    background-size: 15px;
+
+}
+
+#sett {
+    background-image: url(./images/settings.png);
+    background-size: 15px;
+
+}
+
+.listdiv a {
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+
+
+}
+
+.listdiv:hover {
+    background-color: cyan;
+    border-radius: 7px;
+}
+
+li {
+    background-repeat: no-repeat;
+    font-size: 8px;
+    margin-top: 10px;
+    margin-left: 0px;
+    line-height: 10px;
+    padding-left: 35px;
+
+
+}
+
+.menu {
+    position: absolute;
+    left: -20px;
+}
+
+.secmenu {
+    position: absolute;
+    left: -20px;
+    top: 250px;
+
+}
+
+#emp {
+    background-image: url(./images/Group\ 1\ \(5\).png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#emp {
+    background-image: url(./images/Group\ 1\ -\ Copy.png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#exp {
+    background-image: url(./images/Group\ 1\ \(2\).png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#sal {
+    background-image: url(./images/Group\ 1\ \(1\).png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#loc {
+    background-image: url(./images/Group\ 1\ \(3\).png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#onste {
+    background-image: url(./images/Group\ 1\ \(4\).png);
+    background-size: 15px;
+    line-height: 10px;
+
+}
+
+#editpreference {
+    position: absolute;
+    left: 20px;
+    top: 420px;
+    width: 90px;
+    height: 15px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-small;
+}
+
+#header {
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    width: 532px;
+    height: 37px;
+    background-color: white;
+}
+
+#alljobs {
+    position: absolute;
+    top: 4px;
+    left: 30px;
+    color: gray;
+    font-size: x-small;
+}
+
+#save {
+    position: absolute;
+    top: 4px;
+    left: 120px;
+    font-size: x-small;
+}
+
+#bell {
+    position: absolute;
+    top: -4px;
+    left: 380px;
+}
+
+#leslie {
+    position: absolute;
+    top: -7px;
+    left: 400px;
+}
+
+#lesliee {
+    position: absolute;
+    top: 2px;
+    left: 430px;
+    font-size: x-small;
+}
+
+#search {
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    font-size: xx-small;
+    color: gray;
+    background-color: white;
+    width: 150px;
+    height: 17px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+
+#loca {
+    position: absolute;
+    left: 318px;
+    top: 51px;
+    font-size: xx-small;
+    background-color: white;
+    width: 80px;
+    height: 17px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+
+#small {
+    position: absolute;
+    left: 412px;
+    top: 52px;
+    font-size: xx-small;
+    background-color: white;
+    width: 20px;
+    height: 22px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.sorting {
+    position: absolute;
+    left: 560px;
+    top: 59px;
+    font-size: 8px;
+}
+
+.CIS {
+    width: 508px;
+    height: 90px;
+    font-size: small;
+    background-image: url(./images/MicrosoftIcon.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.CIS:hover{
+    box-shadow:  rgba(46, 175, 240, 0.4) -4px 4px, rgba(46, 175, 240, 0.3) -8px 8px, rgba(46, 175, 240, 0.2) -12px 12px, rgba(46, 175, 240, 0.1) -16px 16px, rgba(46, 175, 240, 0.05) -20px 20px;
+}
+
+#first {
+    position: absolute;
+    left: 155px;
+    top: 83px;
+}
+
+#traine {
+    font-size: xx-small;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+#note {
+    position: absolute;
+    left: 12px;
+    top: 40px;
+    font-size: xx-small;
+    color: gray;
+
+}
+
+.blocks {
+    width: 56px;
+    height: 12px;
+
+    font-size: xx-small;
+    border-radius: 5px;
+    background-color: burlywood;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#full {
+    position: absolute;
+    left: 19px;
+    top: 66px;
+}
+
+#level {
+    position: absolute;
+    left: 79px;
+    top: 66px;
+}
+
+#salar {
+    position: absolute;
+    left: 139px;
+    top: 66px;
+}
+
+#location {
+    position: absolute;
+    left: 199px;
+    top: 66px;
+}
+
+#rem {
+    position: absolute;
+    left: 259px;
+    top: 66px;
+}
+
+#group {
+    position: absolute;
+    left: 445px;
+    top: 10px;
+}
+
+#apply {
+    position: absolute;
+    left: 400px;
+    top: 59px;
+}
+
+.common {
+    font-size: xx-small;
+    background-color: cornflowerblue;
+    width: 85px;
+    height: 20px;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding-top: 3px;
+    box-sizing: border-box;
+
+}
+
+.TCS {
+    width: 508px;
+    height: 90px;
+    font-size: small;
+    background-image: url(./images/tcs.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.TCS:hover {
+    box-shadow:  rgba(46, 175, 240, 0.4) -4px 4px, rgba(46, 175, 240, 0.3) -9px 9px, rgba(46, 175, 240, 0.2) -12px 12px, rgba(46, 175, 240, 0.1) -17px 17px, rgba(46, 175, 240, 0.05) -21px 21px;
+}
+
+#second {
+    position: absolute;
+    left: 155px;
+    top: 185px;
+}
+
+.LAZ {
+    width: 508px;
+    height: 90px;
+    font-size: small;
+    background-image: url(./images/Rectangle\ 14.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.LAZ:hover{
+    box-shadow:  rgba(46, 175, 240, 0.4) -4px 4px, rgba(46, 175, 240, 0.3) -9px 9px, rgba(46, 175, 240, 0.2) -12px 12px, rgba(46, 175, 240, 0.1) -17px 17px, rgba(46, 175, 240, 0.05) -21px 21px;
+
+}
+
+
+
+#three {
+    position: absolute;
+    left: 155px;
+    top: 287px;
+}
+
+.MERZ {
+    width: 508px;
+    height: 90px;
+    font-size: small;
+    background-image: url(./images/Image\ \(1\).png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.MERZ:hover {
+    box-shadow:  rgba(46, 175, 240, 0.4) -4px 4px, rgba(46, 175, 240, 0.3) -9px 9px, rgba(46, 175, 240, 0.2) -12px 12px, rgba(46, 175, 240, 0.1) -17px 17px, rgba(46, 175, 240, 0.05) -21px 21px;
+}
+
+#four {
+    position: absolute;
+    left: 155px;
+    top: 387px;
+}
+
+.footer {
+    background-image: url("images/Decoration.png");
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 690px;
+    position: absolute;
+    top: -345px;
+    left: -20px;
+    font-size: xx-small;
+    text-align: center;
+    margin-top: 790px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    
+}
+#last {
+    position: absolute;
+    left: 210px;
+    top: 75px;
+    font-size: xx-small;
+    color: gray;
+    background-color: white;
+    width: 250px;
+    height: 17px;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+#subsc{
+    font-size: xx-small;
+    background-color: cornflowerblue;
+    width: 85px;
+    height: 15px;
+    border-radius: 3px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    position: relative;left: 160px;top: -12px;
+    
+
+       
+}
+#hiremenow
+{
+    width: 200px;
+    height: 200px;
+    position: relative;left: 40px;
+    top: 550px;
+    font-size: xx-small;
+
+}
+#Aboutus
+{
+    position: absolute;
+    left: 270px;
+    top: 550px;
+    width: 180px;
+    height: 180px;
+    font-size: xx-small;
+}
+
+#Company
+{
+    position: absolute;
+    left: 360px;
+    top: 550px;
+    width: 180px;
+    height: 180px;
+    
+    font-size: xx-small;
+}
+#support
+{
+    position: absolute;
+    left: 450px;
+    top: 550px;
+    width: 180px;
+    height: 180px;
+    font-size: xx-small;
+}
+#Service
+{
+    position: absolute;
+    left: 540px;
+    top: 550px;
+    width: 180px;
+    height: 180px;
+    font-size: xx-small;
+}
+.dividerfinal{
+    position: absolute;left: 0;top: 240px;
+}
+.footer h2{
+    background: linear-gradient(to left,red,yellow,black);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: moveGradient 2s linear infinite;
+  }
+
+  @keyframes moveGradient {
+    0% {
+      background-position: 100% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+}

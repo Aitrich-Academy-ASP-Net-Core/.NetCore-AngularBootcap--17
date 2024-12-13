@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translate Transformation</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #74ebd5;
+        }
+
+        .square {
+            width: 50px;
+            height: 50px;
+            background-color: #4caf50;
+            transition-property: transform;
+            transition-delay: 2s;
+            transition-duration: 3s;
+            transition-timing-function: linear;
+        }
+        .square:hover{
+            transform: translate(0px,100px);
+        }
+        .box2{
+            width: 50px;
+            height: 50px;
+            background-color:yellow;
+            transition-property:scale;
+            transition-delay: 5s;
+            transition-duration: 3s;
+            transition-timing-function: ease-in;
+        }
+        .box2:hover{
+            transform: scale(3,3);
+        }
+        .box3{
+            width: 50px;
+            height: 50px;
+            background-color:brown;
+            transition-property:rotate;
+            transition-duration: 5s;
+            transition-timing-function: linear;
+        }
+        .box3:hover{
+            transform: rotate(140deg);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="square"></div>
+    <div class="box2"></div>
+    <div class="box3"></div>
+</body>
+</html>
