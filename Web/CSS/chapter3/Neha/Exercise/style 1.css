@@ -1,0 +1,1057 @@
+.left {
+    position: absolute;
+    width: 308px;
+    height: 1300px;
+    top: 0px;
+    background-color: #20a6fc;
+}
+.left h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(to right,purple,yellow,blue,blue);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: blue;
+    animation: movegradient 3s infinite linear ;
+}
+@keyframes movegradient {
+   
+    0%{background-position:0% 50% ;}
+    50%{background-position:50% 100% ;}
+    100% {background-position: 100% 0%;}
+   
+}
+
+.left img {
+    position: relative;
+    left: 100px;
+    width: 90px;
+    height: 90px;
+}
+.left p
+{
+     position: absolute;
+     left: 90px;
+     top: 149px;
+     background: #4CB32B;
+     border-radius: 4px;
+     padding:6px;
+     font-size:13px;
+     font-family:Bahnschrift;
+     color: white;
+}
+.left h4 {
+    position: relative;
+    left: 80px;
+    color: white;
+}
+.left h5 {
+    position: relative;
+    left: 60px;
+    color:gray; 
+}
+.leftjob {
+    width: 200px;
+    height: 25px;
+    padding: 10px;
+    background-color:rgb(59, 184, 238);
+    border-radius: 10px;
+    position: relative;
+    left: 40px;
+}
+.leftjob img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 15px;
+}
+.leftjob h5 {
+    width: 80px;
+    height: 30px;
+    color: white;
+    position: absolute;
+    left: 90px;
+    top:-5px ;
+}
+.leftappli {
+    position: relative;
+    top: 30px;
+}
+.leftappli img {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: 50px; 
+}
+.leftappli h5 {
+    
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: -20px;
+}
+.leftmess {
+    position: relative;
+    top: 80px;
+}
+.leftmess img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 50px;
+    
+}
+.leftmess h5 {
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: -20px;
+}
+.leftprof {
+    position: relative;
+    top: 130px; 
+}
+.leftprof img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 50px;
+}
+.leftprof h5 {
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: -20px;
+}
+.leftset {
+    position: relative;
+    top: 190px;
+}
+.leftset img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 50px;
+}
+.leftset h5 {
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: -20px;
+}
+.div1 {
+    position: relative;
+    top: 30px;
+}
+.div1 img {
+    position: absolute;
+     top: 300px;
+      left: 45px;
+      width: 40px;
+      height: 40px;
+}
+.div1 p {
+   position: absolute;
+    margin-left:40px;
+     top: 290px;
+      font-family: calibri;
+       font-weight: 400;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc;
+}
+.div1 h5 {
+    position: absolute;
+    margin-left:80px;
+    top: 305px;
+      font-family: calibri;
+       font-weight: bolder;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc;  
+}
+.div2 {
+    position: relative;
+    top: 90px;
+}
+.div2 img {
+    position: absolute;
+    top: 300px;
+     left: 45px;
+     width: 40px;
+     height: 40px;
+}
+.div2 p {
+    position: absolute;
+    margin-left:40px;
+     top: 290px;
+      font-family: calibri;
+       font-weight: 400;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc; 
+}
+.div2 h5 {
+    position: absolute;
+    margin-left:80px;
+    top: 305px;
+    font-family: calibri;
+    font-weight: bolder;
+    color: white;
+    font-size: smaller;
+    background-color: #20a6fc;  
+}
+.div3 {
+    position: relative;
+    top: 150px; 
+}
+.div3 img {
+    position: absolute;
+    top: 300px;
+     left: 45px;
+     width: 40px;
+     height: 40px;
+}
+.div3 p {
+    position: absolute;
+    margin-left:40px;
+     top: 290px;
+      font-family: calibri;
+       font-weight: 400;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc;
+}
+.div3 h5 {
+    position: absolute;
+    margin-left:80px;
+    top: 305px;
+    font-family: calibri;
+    font-weight: bolder;
+    color: white;
+    font-size: smaller;
+    background-color: #20a6fc;  
+}
+.div4 {
+    position: relative;
+    top: 210px; 
+}
+.div4 img {
+    position: absolute;
+    top: 300px;
+     left: 45px;
+     width: 40px;
+     height: 40px;
+}
+.div4 p {
+    position: absolute;
+    margin-left:40px;
+     top: 290px;
+      font-family: calibri;
+       font-weight: 400;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc; 
+}
+.div4 h5 {
+    position: absolute;
+    margin-left:80px;
+    top: 305px;
+    font-family: calibri;
+    font-weight: bolder;
+    color: white;
+    font-size: smaller;
+    background-color: #20a6fc;  
+}
+.div5 {
+    position: relative;
+    top: 280px;  
+}
+.div5 img {
+    position: absolute;
+    top: 300px;
+     left: 45px;
+     width: 40px;
+     height: 40px;
+}
+.div5 p {
+    position: absolute;
+    margin-left:40px;
+     top: 290px;
+      font-family: calibri;
+       font-weight: 400;
+        color: white;
+         font-size: smaller;
+         background-color: #20a6fc;  
+}
+.div5 h5 {
+    position: absolute;
+    margin-left:80px;
+    top: 305px;
+    font-family: calibri;
+    font-weight: bolder;
+    color: white;
+    font-size: smaller;
+    background-color: #20a6fc; 
+}
+.div6 {
+    color:black;
+     position:absolute;
+     left:45px;
+      top: 990px;
+       width: 160px;
+        text-align: center; 
+        border-radius: 7.5px; 
+        padding: 10px; 
+        font-family: calibri; 
+        font-weight: 600; 
+         background-color:white;"
+}
+.box1 {
+    background-color: white;
+    width: 1100;
+    height: 10%;
+    padding: 15px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 0px;
+
+}
+.box1 h1 {
+    color: grey;
+    font-family: calibri;
+}
+.box1 h2 {
+    color: black;
+    font-family: calibri; 
+    position: absolute;
+    top: 22px;
+    left: 200px;
+    width: 200px;
+    font-size: 28px;
+}
+.box1 img {
+    position: relative;
+    top: -55px;
+    left: 700px;
+}
+.box1 h4 {
+    position: relative;
+    top: -105px;
+    left: 780px; 
+}
+#down {
+    position: relative;
+    top: -145px;
+    left: 900px;
+}
+.box2 {
+    background-color: #f6f6f6;
+    width:1000px ;
+    height: 1200px;
+    padding: 15px;
+    position: absolute;
+    margin-left: 307px;
+    margin-top: 110px;
+}
+.box2job {
+    width: 300px;
+    height: 25px;
+    padding: 10px;
+    background-color:white;
+    border-radius: 10px;
+    position: relative;
+    left: 25px;
+}
+.box2job img {
+    position: relative;
+    top: 0px;
+}
+.box2job h6 {
+    color: grey;
+    position: relative;
+    top: -45px;
+    left: 30px;
+    font-family: calibri;
+}
+.box2loc {
+    width: 160px;
+    height: 25px;
+    padding: 10px;
+    background-color:white;
+    border-radius: 10px;
+    position: relative;
+    left: 360px;
+    top: -43px; 
+}
+.box2loc img {
+    position: relative;
+    top:    0px;
+}
+.box2loc h6 {
+    color: grey;
+    position: relative;
+    top: -45px;
+    left: 30px;
+    font-family: calibri;
+}
+.box2save {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    background-color:white;
+    border-radius: 10px;
+    position: relative;
+    left: 550px;
+    top: -87px; 
+}
+.box2save h5 {
+    color: grey;
+    width: 300px;
+    position: relative;
+    left: 250px;
+    top: -40px;
+    font-size: 15px;
+}
+.box2save h6 {
+    color:black;
+    width: 200px;
+    position: relative;
+    left: 310px;
+    top: -85px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.box3:hover{
+    box-shadow: rgba(46, 175, 240, 0.5) -5px 0px, rgba(46, 175, 240, 0.3) -10px 10px, rgba(46, 175, 240, 0.2) -15px 15px, rgba(46, 175, 240, 0.1) -20px 20px, rgba(0.5, 175, 240, 0.05) -25px 25px;
+
+}
+.box4:hover {
+    box-shadow: rgba(46, 175, 240, 0.5) -5px 0px, rgba(46, 175, 240, 0.3) -10px 10px, rgba(46, 175, 240, 0.2) -15px 15px, rgba(46, 175, 240, 0.1) -20px 20px, rgba(0.5, 175, 240, 0.05) -25px 25px;
+
+}
+.box5:hover {
+    box-shadow: rgba(46, 175, 240, 0.5) -5px 0px, rgba(46, 175, 240, 0.3) -10px 10px, rgba(46, 175, 240, 0.2) -15px 15px, rgba(46, 175, 240, 0.1) -20px 20px, rgba(0.5, 175, 240, 0.05) -25px 25px;
+
+}
+.box6:hover {
+    box-shadow: rgba(46, 175, 240, 0.5) -5px 0px, rgba(46, 175, 240, 0.3) -10px 10px, rgba(46, 175, 240, 0.2) -15px 15px, rgba(46, 175, 240, 0.1) -20px 20px, rgba(0.5, 175, 240, 0.05) -25px 25px;
+
+}
+#arrow-down {
+     position: relative;
+    top: -130px;
+    left: 380px;
+}
+.box3 {
+    width:960px ;
+    height: 200px;
+    padding: 15px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: -40px; 
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.box3 img {
+    width: 65px;
+    height: 65px;
+}
+.box3 h4 {
+    position: relative;
+    top: -90px;
+    left: 80px;
+}
+.box3 p {
+    color: #20a6fc;
+    top: 10px;
+    margin-left: 80px;
+    margin-top: -100px;
+    font-size: 14px;
+}
+#loc {
+    color: gray;
+    position: relative;
+    left: 120px;
+    top: 70px;
+}
+#para {
+    color: grey;
+    font-family: calibri;
+    font-size: 16px;
+    position: relative;
+    top: 180px;
+    left: -70px;
+}
+.full {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 220px;
+}
+.mid {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 185px;
+    left: 100px;  
+}
+.mon {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+.indo {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 120px;
+    left: 330px;
+}
+.on {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 85px;
+    left: 440px;
+}
+.box4 {
+    width:970px ;
+    height: 200px;
+    padding: 15px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 220px; 
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.box4 img {
+    width: 60px;
+    height: 60px;
+}
+.box4 h4 {
+    position: relative;
+    top: -90px;
+    left: 80px;
+}
+.box4 p {
+    color: #20a6fc;
+    top: 10px;
+    margin-left: 80px;
+    margin-top: -100px;
+    font-size: 14px;
+}
+#loc2 {
+    color: gray;
+    position: relative;
+    left: 100px;
+    top: 70px;
+}
+#para {
+    color: grey;
+    font-family: calibri;
+    font-size: 16px;
+    position: relative;
+    top: 180px;
+    left: -70px;
+}
+.full {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 220px;
+}
+.mid {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 185px;
+    left: 100px;  
+}
+.mon {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+.indo {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 120px;
+    left: 330px;
+}
+.on {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 85px;
+    left: 440px;
+}
+.box5 {
+    width:970px ;
+    height: 200px;
+    padding: 15px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 480px; 
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.box5 img {
+    width: 60px;
+    height: 60px;
+}
+.box5 h4 {
+    position: relative;
+    top: -90px;
+    left: 80px;
+}
+.box5 p {
+    color: #20a6fc;
+    top: 10px;
+    margin-left: 80px;
+    margin-top: -100px;
+    font-size: 14px;
+}
+#loc3 {
+    color: gray;
+    position: relative;
+    left: 120px;
+    top: 70px;
+}
+#para {
+    color: grey;
+    font-family: calibri;
+    font-size: 16px;
+    position: relative;
+    top: 180px;
+    left: -70px;
+}
+.full {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 220px;
+}
+.mid {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 185px;
+    left: 100px;  
+}
+.mon {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+.indo {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 120px;
+    left: 330px;
+}
+.on {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 85px;
+    left: 440px;
+}
+.box6 {
+    width:970px ;
+    height: 200px;
+    padding: 15px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 740px; 
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.box6 img {
+    width: 65px;
+    height: 60px;
+}
+.box6 h4 {
+    position: relative;
+    top: -90px;
+    left: 80px;
+}
+.box6 p {
+    color: #20a6fc;
+    top: 10px;
+    margin-left: 80px;
+    margin-top: -100px;
+    font-size: 14px;
+}
+#loc4 {
+    color: gray;
+    position: relative;
+    left: 180px;
+    top: 70px;
+}
+#para {
+    color: grey;
+    font-family: calibri;
+    font-size: 16px;
+    position: relative;
+    top: 180px;
+    left: -70px;
+}
+.full {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 220px;
+}
+.mid {
+    padding: 8px;
+    background-color: gray;
+    color: white;
+    width: 70px;
+    border-radius: 20px;
+    position: relative;
+    top: 185px;
+    left: 100px;  
+}
+.mon {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+.indo {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 120px;
+    left: 330px;
+}
+.on {
+    padding: 8px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 80px;
+    border-radius: 20px;
+    position: relative;
+    top: 85px;
+    left: 440px;
+}
+.bluebox {
+    width: 1350px;
+    height: 320px;
+    background-color: #20a6fc;
+    position: relative;
+    top: 980px;
+    left: -323px;
+}
+.bluebox h1 {
+    
+    position: relative;
+    top: 80px;
+    left: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(to right,purple,yellow,blue,blue);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: blue;
+    animation: movegradient 3s linear infinite;
+}
+@keyframes movegradient {
+   
+    25%{background-position:0% 50% ;}
+    50%{background-position:50% 100% ;}
+    100% {background-position: 100% 0%;}
+    
+        }
+.bluebox p {
+    color: white;
+    position: relative;
+    top: 80px;
+    left: 440px;
+    font-size: 18px;
+    word-spacing: 4px;
+}
+.sub {
+    width: 600px;
+    height: 45px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 860px;
+    left: 80px;
+}
+.sub h6 {
+    color: gray;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.sub p {
+    width: 150px;
+    height: 35px;
+    background-color: #20a6fc;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    top: -38px;
+    left: 440px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-image: url("images/Decoration.png");
+        background-color:skyblue;
+        height: 240px;
+        width: 1335px;
+        position: absolute;
+
+        text-align: center;
+        margin-top: 790px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+        color: white;
+  }
+  .secfooter
+    {
+        position: absolute;
+        margin-top: 850px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: normal;
+        padding: 100px;
+        margin-left: -400px;
+    }
+    #you {
+        position: absolute; 
+        margin-top: 80px; 
+        margin-left: 10px;
+        height: 30px;
+        width: 30px;
+    }
+    #insta {
+         position: absolute; 
+         margin-top: 80px; 
+         margin-left: 50px;
+         height: 30px;
+         width: 30px;
+    }
+    #twitter {
+        height: 30px;
+        width: 30px;
+        position: absolute; 
+        margin-top: 80px; 
+        margin-left: 90px;
+    }
+    #link {
+        height: 30px;
+        width: 30px;
+        position: absolute; 
+        margin-top: 80px; 
+        margin-left: 130px;
+    }
+    #fb{
+        height: 30px;
+        width: 30px;
+        position: absolute; 
+        margin-top: 80px; 
+        margin-left: 170px;
+    }
+    .aboutus {
+        position: absolute;  
+        margin-top: -145px;  
+        margin-left: 430px; 
+        width: 150px; 
+    }
+    #about {
+        position: absolute; 
+         margin-top: 10px;  
+         width: 150px;"
+    }
+    #home {
+        position: absolute;  
+        margin-top: 40px;   
+        width: 150px;
+    }
+    #feature {
+        position: absolute; 
+         margin-top: 70px;  
+          width: 150px;
+    }
+    #team {
+        position: absolute;  
+        margin-top: 100px;   
+        width: 150px;
+    }
+    .Company {
+        position: absolute;  
+        margin-top: -145px;  
+        margin-left: 630px; 
+        width: 150px;
+    }
+    #contact {
+        position: absolute;  
+        margin-top: 10px;  
+        width: 150px;
+    }
+    #career {
+        position: absolute;  
+        margin-top: 40px;   
+        width: 150px;
+    }
+    #pricing {
+        position: absolute;  
+        margin-top: 70px;   
+        width: 150px;
+    }
+    #blog {
+        position: absolute;  
+        margin-top: 100px;   
+        width: 150px;
+    }
+    .Support {
+        position: absolute;  
+        margin-top: -145px;  
+        margin-left: 850px; 
+        width: 150px;
+    }
+    #support {
+        position: absolute;  
+        margin-top: 10px;  
+        width: 150px;
+    }
+    #privacy {
+        position: absolute;  
+        margin-top: 40px;   
+        width: 150px;
+    }
+    #faq {
+        position: absolute;  
+        margin-top: 70px;   
+        width: 150px;
+    }
+    .Service {
+        position: absolute;  
+        margin-top: -145px;  
+        margin-left: 1080px; 
+        width: 150px;"
+    }
+    #seo {
+        position: absolute;  
+        margin-top: 10px; 
+         width: 150px;
+    }
+    #ui {
+        position: absolute;  
+        margin-top: 40px;   
+        width: 150px;
+    }
+    #develop {
+        position: absolute;  
+        margin-top: 70px;   
+        width: 150px;
+    }
+    #account {
+        position: absolute;  
+        margin-top: 100px;   
+        width: 150px;
+    }
+
+  
+
+
+
+
+
