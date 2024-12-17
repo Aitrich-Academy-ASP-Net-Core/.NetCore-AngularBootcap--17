@@ -1,0 +1,262 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.parent {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.header {
+    position: absolute;
+    left: 0;
+    top: -17px;
+}
+
+#welcome {
+    width: 680px;
+    height: 75px;
+    background-color: pink;
+    text-align: center;
+    background: linear-gradient(pink, green);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+a {
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: small;
+
+}
+
+a:hover {
+    border-radius: 5px;
+    background-color: gold;
+    width: 50px;
+}
+
+#first {
+    position: absolute;
+    left: 220px;
+    top: 70px;
+}
+
+#sec {
+    position: absolute;
+    left: 280px;
+    top: 70px;
+}
+
+#third {
+    position: absolute;
+    left: 340px;
+    top: 70px;
+}
+
+#fourth {
+    position: absolute;
+    left: 410px;
+    top: 70px;
+}
+
+.subhead {
+    background-color: white;
+    position: absolute;
+    left: 65px;
+    top: 100px;
+    width: 550px;
+    height: 80px;
+    border-radius: 8px;
+
+}
+
+
+#aboutus {
+    text-align: center;
+    color: orangered;
+}
+
+.subhead p {
+    font-size: xx-small;
+    margin-left: 25px;
+    margin-bottom: 40px;
+
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subhead {
+    box-shadow: black 0px 0px 3px 0px;
+}
+.blocks {
+    background-color: white;
+    position: absolute;
+    left: 65px;
+    top: 200px;
+    width: 640px;
+    height: 150px;
+    border-radius: 8px;
+
+}
+.blocks{
+    width: 550px;
+    box-shadow: black 0px 0px 5px 0px;  
+}
+.blocks:hover{ 
+    animation: shake 1s ease infinite;
+}
+@keyframes shake
+{
+    0%{transform: translate(1px,2px);}
+    100%{transform: translate(1px,0px);}
+}
+#image{
+    text-align: center;
+    color: orangered;
+
+}
+.fivebox{
+    width: 95px;
+    height: 95px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: xx-small;
+    font-weight: bold;
+}
+.fivebox:hover{ 
+    transform: scale(1.1,1.1);
+    transition: duration 3s;
+}
+
+#red{
+    background-color: red;
+    position: relative;left: 10px;top: -18px;
+    
+}
+#blue{
+    background-color:blue;
+    position: relative;left: 120px;top: -113px;
+    
+}
+#green{
+    background-color: greenyellow;
+    position: relative;left: 230px;top: -208px;
+    
+}
+#yellow{
+    background-color:yellow;
+    position: relative;left: 340px;top: -303px;
+    
+}
+#pink{
+    background-color:pink;
+    position: relative;left: 449px;top: -398px;
+    
+}
+.subhead:hover{ 
+    animation: shake 1s ease infinite;
+}
+@keyframes shake
+{
+    0%{transform: translate(1px,2px);}
+    100%{transform: translate(1px,0px);}
+}
+.fun{
+        background-color: white;
+        position: absolute;
+        left: 65px;
+        top: 370px;
+        width: 550px;
+        height: 200px;
+        border-radius: 8px;
+        color: red;
+        text-align: center;
+        font-weight: bold;
+        box-shadow: black 0px 0px 5px 0px; 
+    
+    }
+    .same{
+        height: 30px;
+        width: 500px;
+        background-color: gold;
+        margin-left: 25px;
+        border-radius: 5px;
+        color: black;
+        font-size: x-small;
+        display: flex;
+        align-items: center;
+        padding-left: 15px;
+    }
+    #one
+    {
+        position: relative;left: 0;top: 5px;
+    }
+    #two
+    {
+        position: relative;left: 0;top: 15px;
+    }
+
+    #three
+    {
+        position: relative;left: 0;top:30px;
+    }
+    #four
+    {
+        position: relative;left: 0;top:45px;
+    }
+    .same:hover{ 
+        animation: mov 4s ease-in-out infinite;
+    }
+    @keyframes mov
+    {
+        0%{transform: translate(5px,0px);}
+        100%{transform: translate(0px,0px);}
+    }
+    .form{
+        position: absolute;left: 65px;top: 590px;
+        font-size: small;
+        width: 550px;
+        height: 200px;
+        border-radius: 8px;
+        color: red;
+        box-shadow: black 0px 0px 5px 0px; 
+        font-weight: bold;
+        background-color: white;
+    }
+    input{
+        width: 100%;
+        border: 1px solid skyblue;
+        border-radius: 5px;
+    }
+    input[type=submit]{
+        background-color: skyblue;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        font-size: xx-small;
+        height: 25px;
+    }
+    input[type=submit]:hover{
+        background-color: deeppink;
+    }
+    label{
+        font-size: xx-small;
+    }
+    .form h3{
+        text-align: center;
+    }
+    textarea{
+        border-color: skyblue;
+        border-radius: 8px;
+        width: 100%;
+    }
+
