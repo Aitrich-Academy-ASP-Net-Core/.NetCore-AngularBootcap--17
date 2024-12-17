@@ -1,0 +1,6 @@
+#button:hover {
+    color: blue;
+    background-color: brown;
+    font-size: x-large;
+    transition: 2s;
+}
