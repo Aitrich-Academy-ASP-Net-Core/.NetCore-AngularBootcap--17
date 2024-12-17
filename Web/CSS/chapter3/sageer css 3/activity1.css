@@ -1,0 +1,13 @@
+#button 
+{   color: aliceblue;
+    background-color: blue;
+    transition: color 5s;
+    
+}
+#button:hover
+{
+    color: black;
+    background-color: red;
+    transition: background-color 5s;
+    
+}

@@ -1,0 +1,719 @@
+body
+{
+    background-color: whitesmoke;
+}
+#leftsidebar
+{
+    width: 210px;
+    height: 900px;
+    background-color: rgb(90, 90, 244);
+    -webkit-text-fill-color: aliceblue;
+}
+#name
+{
+    position: absolute;top: 100px;left: 50px;
+}
+#email
+{
+    position: absolute;top: 115px;left: 20px;
+}
+
+#lefttab
+{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.lowerblue
+{
+    position: absolute;left: 8px;top: 368px;
+    width: 210px;
+    height: 550px;
+    background-color: rgb(90, 90, 244);
+}
+.lowerblue ul
+{
+    position: absolute;left: 0px;top: 100px;
+}
+#type
+{
+    position: absolute;left: 70px;top: 96px;
+}
+#exp
+{
+    position: absolute;left: 70px;top: 143px;
+}
+#sal
+{
+    position: absolute;left: 70px;top: 188px;
+}
+#loc
+{
+    position: absolute;left: 70px;top: 236px;
+}
+#header
+{
+    background-color: white;
+    position: absolute;top: 8px; left: 218px;
+    width: 1300px;
+    height: 60px;
+}
+#alljobs
+{
+    position: absolute;top: 4px; left: 490px;
+}
+#save
+{
+    position: absolute;top: 4px; left: 590px;
+}
+#updatee
+{
+    position: absolute;top: 4px; left: 690px;
+}
+#bell
+{
+    position: absolute;top: 0px; left: 1140px;
+}
+#leslie
+{
+    position: absolute;top: 0px; left: 1200px;
+}
+#findd
+{
+    position: absolute;top: 10px; left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lesliee
+{
+    position: absolute;top: 6px; left: 1160px;
+}
+#searchh
+{
+    position: absolute;top: 70px; left: 250px;
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color: white;
+}
+#imgg1
+{
+    position: absolute;top: 0px;left: -600px;
+}
+#imgg2
+{
+    position: absolute;top: 0px;left: -600px;
+}
+#imgg3
+{
+    position: absolute;top: 0px;left: -600px;
+}
+#inputline
+{
+    position: absolute;top: 130px;
+    left: 260px;
+    width: 260px;
+    height: 50px;
+}
+#radio
+{
+    position: absolute;top: 0px;
+    left: 10px;
+}
+#checkbox
+{
+    position: absolute;top: 106px;
+    left: 580px;
+    width: 260px;
+    height: 50px;
+}
+#check
+{
+    position: absolute; top: -10px; left: 40px;
+}
+#sortby
+{
+    position: absolute;top: 130px; left: 750px;
+}
+#select
+{
+    position: absolute;top: 145px; left: 800px;
+}
+#first
+{
+    position: absolute;top: 210px; left: 260px;
+    height: 200px;
+    width: 650px;
+}
+#trainee
+{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+#cyber
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des1
+{
+    position: absolute;
+    top: 70px;
+    left: 20px;
+}
+#fulltime
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 140px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag1
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#second
+{
+    position: absolute;top: 410px; left: 260px;
+    height: 200px;
+    width: 650px;
+}
+#mainimage
+{
+    position: absolute;top: 210px;
+    left: 970px;
+}
+#trainee2
+{
+    position: absolute;
+    top: 00px;
+    left: 00px;
+}
+#cyber2
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des2
+{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+}
+#fulltime2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy2
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 140px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag2
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#third
+{
+    position: absolute;top: 620px; left: 260px;
+    height: 200px;
+    width: 650px;
+
+}
+#trainee3
+{
+    position: absolute;
+    top: 00px;
+    left: 00px;
+}
+#cyber3
+{
+    -webkit-text-fill-color: rgb(56, 121, 242);
+}
+#des3
+{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+}
+#fulltime3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#midlevel3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 130px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#salaryy3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 240px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#indo3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 350px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#onsite3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; top: 140px;left: 460px;
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+#applyy3
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: absolute; top: 140px;left: 1080px;
+    background-color: rgb(31, 102, 233);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    -webkit-text-fill-color: white;
+}
+#tag3
+{
+    position: absolute; top: 10px;left: 1180px;
+}
+#bluefooter
+{
+    position: absolute;top: 900px;
+    background-color: rgb(90, 90, 244);
+    width: 1505px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#editpreference
+{
+    position: absolute;left: 50px;top: 600px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    -webkit-text-fill-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footh2
+{
+    position: absolute;left: 200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#fulltime
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#fulltime2
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#fulltime3
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#midlevel
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#midlevel2
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#midlevel3
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#salaryy
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#salaryy2
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#salaryy3
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#indo
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#indo2
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#indo3
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#onsite
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#onsite2
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#onsite3
+{
+    animation: bounce 1s alternate infinite ease-in-out;
+}
+@keyframes bounce
+{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(5px);}
+    100% {transform: translateX(-5px);}
+}
+#dashboard:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#jobs:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#applications:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Interviews:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Messages:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Settings:hover
+{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#addnew
+{
+    position: absolute;top: 50px;
+    font-size: larger;
+    -webkit-text-fill-color: white;
+}
+#addnew:hover
+{
+    position: absolute;top: 55px;left: 5px;
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#home
+{
+    position: absolute;left: 1100px;
+    animation: bounce 2s alternate infinite ease-in-out;
+}
+@keyframes bounce {
+    0%{transform: translateX(-50px);}
+    100%{transform: translateX(50px);}
+
+}
+#calendar
+{
+    position: absolute;left: 1270px;
+    animation: bounce 4s alternate infinite ease-in-out;
+}
+@keyframes bounce {
+    0%{transform: translateX(50px);}
+    100%{transform: translateX(-50px);}
+}
+.gradient-text {
+    background: linear-gradient(to right, red, yellow);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: gradient;
+  }
+  @keyframes gradient {
+    0% {
+        background-position:  50%;
+    }
+    50% {
+        background-position: 100%;
+    }
+    100% {
+        background-position: 50%;
+    }
+}
