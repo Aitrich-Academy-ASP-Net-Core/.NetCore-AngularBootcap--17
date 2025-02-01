@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="text1"></p>
+    <p id="text2"></p>
+    <p id="text3"></p>
+    <p id="text4"></p>
+    <p id="text5"></p>
+    <p id="text6"></p>
+    <script>
+        const book={title:"macbeth",author:"shakespeare",pages:400};
+        delete book.author;
+        book.publisher="DC";
+        const neww=Object.keys(book);
+        const check=book.hasOwnProperty("year");
+        book.title="hamlet";
+
+        const obj1={type:"novel",year:"1894"}
+        const combine={...book,...obj1};
+
+        const obbjjeecctt={a:"yee",b:"yaa",c:"yoo"};
+        const values=Object.values("obbjjeecctt");
+
+        
+        document.getElementById("text1").innerHTML=book.title;
+        document.getElementById("text2").innerHTML=book.publisher;
+        document.getElementById("text3").innerHTML=neww;
+        document.getElementById("text4").innerHTML=check;
+        document.getElementById("text5").innerHTML=Object.keys(combine);
+        document.getElementById("text6").innerHTML=Object.keys("obbjjeecctt");
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="at.css" type="text/css">
+</head>
+<body>
+    <div id="hireme">
+        <div id="blanktop"></div>
+    <h2>HireMe Now!</h2><br><br>
+    <table >
+    <tr>
+        <td><img src="/images/dashboard 1 (1).png" width="22px" height="22px" alt=""></td>
+        
+        <td><b>Dashboard</b></td>
+    </tr>
+    <tr>
+        <td><img src="/images/job-search.png" width="22px" height="22px" alt=""></td>
+        
+        <td><b>Jobs</b></td>
+    </tr>
+    <tr>
+        <td><img src="/images/application (1) 1.png" width="22px" height="22px" alt=""></td>
+        <td><b>Applications</b></td>
+    </tr>
+    <tr>
+        <td><img src="/images/interview.png" width="22px" height="22px" alt=""></td>
+        
+        <td><b>Interviews</b></td>
+    </tr>
+    <tr>
+        <td><img src="/images/message 1.png" width="22px" height="22px" alt=""></td>
+        
+        <td><b>Messages</b></td>
+    </tr>
+    <tr>
+        <td><img src="/images/setting-2.png" width="22px" height="22px" alt=""></td>
+        
+        <td><b>Settings</b></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="images/add-user.png" width="50px" height="50px" alt=""></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>AddNew</b></td>
+        <td></td>
+    </tr>
+    </table>
+    <img src="images/bell.png" width="35px" height="35px" id="bell" alt="">
+    <img src="images/person5.png" width="35px" height="35px" id="person" alt="">
+    <img src="images/logout (2).png" width="25px" height="25px" id="out" alt="">
+    <h3>Shortlist</h3>
+    <div id="div1"></div>
+    <div id="divmain"></div>
+</div>
+<script>
+    var arr=[
+        {name:"alen",image:"images/m1.png",Qualification:"Qualification:MCA",Experiance: "Experiance:3Year",location:"Location:Bangalore"},
+        {name:"Sarah",image:"images/m2.png",Qualification:"Qualification:Msc",Experiance: "Experiance:2Year",location:"Location:Chennai"},
+        {name:"Vivek",image:"images/m1.png",Qualification:"Qualification:Btech",Experiance: "Experiance:5Year",location:"Location:Thiruvananthapuram"},
+        {name:"Deepak Roy",image:"images/m2.png",Qualification:"Qualification:Btech",Experiance: "Experiance:2Year",location:"Location:Calicut"},
+    ];
+    //persons();
+    function persons(array){
+    const table=document.createElement("table");
+    let index=0;
+    for(let i=0;i<2;i++){
+        const row=document.createElement('tr');
+        for(let j=0;j<2;j++){
+            const cell=document.createElement('td');
+            if(array[index])
+            {
+                const person=array[index++];
+                cell.innerHTML=`<img src="${person.image}"><br>
+                <strong>${person.name}</strong><br>
+                Qualification:${person.Qualification}<br>
+                Experiance:${person.Experiance}<br>
+                Location:${person.location}`;
+            }
+            row.appendChild(cell);
+        }
+        table.appendChild(row);
+    }
+    document.getElementById("div1").appendChild(table);
+}
+persons(data);
+
+
+</script>
+</body>
+</html>

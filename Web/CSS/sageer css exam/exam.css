@@ -1,0 +1,409 @@
+body{
+    background-color: whitesmoke;
+}
+#main
+{
+    width: 100%;
+    height: 100%;
+
+}
+#divone
+{
+    position: absolute;left: 3px;top: 3px;
+    width: 1500px;
+    height: 200px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background: linear-gradient(rgb);
+    background-color: rgb(132, 132, 221);
+    font-family:monospace ;
+    box-shadow: rgb(110, 107, 107) 0px 5px 5px 0px;
+}
+#divoneh1
+{
+    position: absolute;left: 370px;top: 20px;
+    font-size: 350%;
+    font-weight: bold;
+    animation: bounce 1s infinite alternate;
+    
+}
+@keyframes bounce {
+    0%{transform: translateY(20px);}
+    50%{transform: translateY(0px);}
+    75%{transform: translateY(5px);}*/
+    100%{transform: translateY(0px);}
+}
+#divonep1
+{
+    position: absolute;left: 450px;top: 110px;
+    font-size: 30px;
+}
+#divonep1:hover
+{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divonep2
+{
+    position: absolute;left: 580px;top: 110px;
+    font-size: 30px;
+}
+#divonep2:hover
+{
+    width: 120px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divonep3
+{
+    position: absolute;left:750px;top: 110px;
+    font-size: 30px;
+}
+#divonep3:hover
+{
+    width: 130px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divonep4
+{
+    position: absolute;left: 900px;top: 110px;
+    font-size: 30px;
+}
+#divonep4:hover
+{
+    width: 130px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divtwo
+{
+    position: absolute;left: 90px;top: 240px;
+    width: 1300px;
+    height: 160px;
+    border-radius: 10px;
+    font-family:monospace ;
+    box-shadow: rgb(110, 107, 107) 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#divtwo:hover
+{
+    position: absolute;left: 90px;top: 235px;
+}
+#divtwoh1
+{
+    position: absolute;left: 550px;top: 0px;
+    font-size: 270%;
+    font-weight: bold;
+}
+#divtwop
+{
+    position: absolute;top: 80px;left: 0px;
+    font-size: larger;
+}
+#divthree
+{
+    position: absolute;left: 90px;top: 450px;
+    width: 1300px;
+    height: 350px;
+    border-radius: 10px;
+    font-family:monospace ;
+    box-shadow: rgb(110, 107, 107) 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#divthree:hover
+{
+    position: absolute;top: 440px;left: 90px;
+}
+#divthreeh1
+{
+    position: absolute;left: 550px;top: 0px;
+    font-size: 270%;
+    font-weight: bold;
+}
+#image1
+{
+    position: absolute;left: 20px;top: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#image1:hover
+{
+    position: absolute;left: 17px;top: 97px;
+    width: 240px;
+    height: 240px;
+}
+#image2
+{
+    position: absolute;left: 275px;top: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image2:hover
+{
+    position: absolute;left: 272px;top: 97px;
+    width: 240px;
+    height: 240px;
+}
+#image3
+{
+    position: absolute;left: 525px;top: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image3:hover
+{
+    position: absolute;left: 522px;top: 97px;
+    width: 240px;
+    height: 240px;
+}
+#image4
+{
+    position: absolute;left: 775px;top: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#image4:hover
+{
+    position: absolute;left: 772px;top: 97px;
+    width: 240px;
+    height: 240px;
+}
+#image5
+{
+    position: absolute;left: 1030px;top: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image5:hover
+{
+    position: absolute;left: 1027px;top: 97px;
+    width: 240px;
+    height: 240px;
+}
+#divfour
+{
+    position: absolute;left: 90px;top: 870px;
+    width: 1300px;
+    height: 450px;
+    border-radius: 10px;
+    font-family:monospace ;
+    box-shadow: rgb(110, 107, 107) 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#divfour:hover
+{
+    position: absolute;left: 90px;top: 865px;
+}
+#divfourh1
+{
+    position: absolute;left: 520px;top: 0px;
+    font-size: 270%;
+    font-weight: bold;
+    color: red;
+}
+#line1
+{
+    position: absolute;left: 30px;top: 100px;
+    width: 1220px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(237, 214, 156);
+    display: flex;justify-content: left;align-items: center;
+
+}
+#line1:hover
+{
+    position: absolute;left: 35px;top: 100px;
+}
+#line2
+{
+    position: absolute;left: 30px;top: 180px;
+    width: 1220px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(237, 214, 156);
+    display: flex;justify-content: left;align-items: center;
+    
+}
+#line2:hover
+{
+    position: absolute;left: 35px;top: 180px;
+}
+#line3
+{
+    position: absolute;left: 30px;top: 260px;
+    width: 1220px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(237, 214, 156);
+    display: flex;justify-content: left;align-items: center;
+    
+}
+#line3:hover
+{
+    position: absolute;left: 35px;top: 260px;
+}
+#line4
+{
+    position: absolute;left: 30px;top: 340px;
+    width: 1220px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(237, 214, 156);
+    display: flex;justify-content: left;align-items: center;
+    
+}
+#line4:hover
+{
+    position: absolute;left: 35px;top: 340px;
+}
+#contact
+{
+    position: absolute;left: 90px;top: 1380px;
+    width: 1300px;
+    height: 700px;
+    border-radius: 10px;
+    font-family:monospace ;
+    box-shadow: rgb(110, 107, 107) 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#contact:hover
+{
+    position: absolute;left: 90px;top: 1375px;
+}
+#contacth1
+{
+    position: absolute;left: 520px;top: 0px;
+    font-size: 270%;
+    font-weight: bold;
+    color: red;
+}
+#name
+{
+    position: absolute;left: 30px;top: 100px;
+    font-size: 200%;
+    color: red;
+}
+#name1
+{
+    position: absolute;top: 50px;
+    border: 2px solid rgb(12, 208, 176);
+    border-radius: 10px;
+    width: 1200px;
+    height: 50px;
+}
+#email
+{
+    position: absolute;left: 30px;top: 240px;
+    font-size: 200%;
+    color: red;
+}
+#email1
+{
+    position: absolute;top: 50px;left: 0px;
+    border: 2px solid rgb(12, 208, 176);
+    border-radius: 10px;
+    width: 1200px;
+    height: 50px;
+}
+#message
+{
+    position: absolute;left: 30px;top: 380px;
+    font-size: 200%;
+    color: red;
+}
+#message1
+{
+    position: absolute;top: 50px;left: 0px;
+    border: 2px solid rgb(12, 208, 176);
+    border-radius: 10px;
+    width: 1200px;
+    height: 120px;
+}
+#button1
+{
+    position: absolute;top: 610px;left: 30px;
+    background-color: red;
+    border-radius: 30px;
+    width: 1200px;
+    height: 60px;
+    -webkit-text-fill-color: white;
+    font-size: 150%;
+    border: 0px;
+}
+#button1:hover
+{
+    position: absolute;top: 600px;left: 30px;
+    width: 1210px;
+    height: 65px;
+    background-color: rgb(71, 219, 219);
+}
+#lastdiv
+{
+    position: absolute;left: 10px;top: 2200px;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(9, 9, 49);
+    color: white;
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
