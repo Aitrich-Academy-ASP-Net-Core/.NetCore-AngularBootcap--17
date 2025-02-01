@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        let arr=[7,7,4,5,8,2,0,12,6,7,19];
+        let i=0;
+        let exist=0;
+
+        let num=prompt("enter a number to search");
+        while(i<=10){
+            
+            if(num==arr[i]){
+                console.log("number is found in the array");
+                exist=1;
+                break;
+            }
+        i++;
+        }
+        if(exist==0){
+                console.log("number is not found in the array");
+            }
+    </script>
+</body>
+</html>

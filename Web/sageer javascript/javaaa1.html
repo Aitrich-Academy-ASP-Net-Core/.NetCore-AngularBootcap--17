@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Length of the array=</p><p id="para"></p>
+    <p>second element of the array</p><p id="seco"></p>
+    <p id="arrr"></p>
+    <p>first array</p><p id="p3"></p>
+    <p>deleted two elements</p><p id="p2"></p>
+    <p>sorted array</p><p id="array3"></p>
+    
+    <script>
+        const arr=["red","green","blue","yellow"];
+        const arr11=["a","b","c","d"]
+        
+        let shiftt=arr.shift();
+        let popp=arr.pop();
+        let sec=arr[1];
+        arr[1]=("black");
+        const merge=arr.concat(arr11)
+        
+        const arr2=["1","2","3","4","5"];
+        const last2=arr2.slice(-2);
+        let len=arr.length;
+
+        let arr3=[3,4,1,9,5,3,0,8];
+        arr3.sort((a,b)=>a-b);
+        document.getElementById("array3").innerHTML=arr3;
+
+        document.getElementById("para").innerHTML=len;
+        document.getElementById("seco").innerHTML=sec;
+        document.getElementById("arrr").innerHTML=arr;
+        document.getElementById("p2").innerHTML=last2;
+        document.getElementById("p3").innerHTML=arr2;
+    </script>
+</body>
+</html>
