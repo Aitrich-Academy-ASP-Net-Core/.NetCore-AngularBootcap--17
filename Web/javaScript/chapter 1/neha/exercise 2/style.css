@@ -1,0 +1,349 @@
+.box{
+ background-color: rgb(64, 64, 189);
+ width: 250px;
+ height: 1000px;
+ top: 0;
+}
+.box h1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.box img{
+    position: relative;
+    top: 80px;
+    text-align: center;
+    left: 50px;
+}
+.box a{
+    position: relative;
+    top: 75px;
+    text-align: center;
+    left: 50px;
+    color: rgb(6, 6, 63);  
+}
+.left{
+    background-color: white;
+    top: 0;
+}
+.left img{
+    position: absolute;
+    left: 1300px;
+    top: 0px;
+}
+#img2{
+position: relative;
+left: 1378px;
+top: -1010px;
+}
+.left a{
+    position: absolute;
+    left: 1418px;
+    top: 15px;  
+}
+#bell{
+    position: absolute;
+    top: 13px;
+    left: 1255px;
+}
+.message h2{
+    position: absolute;
+    top: 80px;
+    left: 260px;
+}
+.message img{
+    position: absolute;
+    top: 140px;
+    left: 260px;  
+}
+.message h5{
+    position: absolute;
+    top: 270px;
+    left: 260px;  
+}
+.message p{
+    position: absolute;
+    top: 310px;
+    left: 260px;
+    font-size: smaller;
+}
+#time{
+    position: relative;
+    top: -740px;
+    left: 730px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size:10px;
+}
+.message2 img{
+    position: absolute;
+    top: 370px;
+    left: 260px;  
+}
+.message2 h5{
+    position: absolute;
+    top: 510px;
+    left: 260px; 
+}
+.message2 p{
+    position: absolute;
+    top: 550px;
+    left: 260px;
+    font-size: smaller; 
+}
+#time2{
+    position: relative;
+    top: -550px;
+    left: 730px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size:10px; 
+}
+.message3 img{
+    position: absolute;
+    top: 640px;
+    left: 260px; 
+}
+.message3 h5{
+    position: absolute;
+    top: 740px;
+    left: 260px;  
+}
+.message3 p{
+    position: absolute;
+    top: 780px;
+    left: 260px;
+    font-size: smaller; 
+}
+#time3{
+    position: relative;
+    top: -370px;
+    left: 730px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size:10px; 
+}
+.chat{
+    background-color: #e3e2e2;
+    /* background: #f2f2f2; */;
+    width: 600px;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 800px;
+    top: -1100px;
+}
+.chat h5{
+    position: relative;
+    top: -20px;
+    left: 5px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: medium;
+}
+.chat img{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 560px;
+    top: -90px;
+}
+.chat p{
+    position: relative;
+    top: -40px;
+    left: 10px;
+    font-family: monospace;
+    font-size: x-small;
+}
+.box1 {
+    width: 400px;
+    margin: 50px auto;
+    border-radius: 5px;
+    background: #117ebd;
+    padding: 20px;
+    text-align: center;
+    font-weight: 200;
+    color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    right: -410px;
+    top: -1650px;
+  }
+  
+  .sb1:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    border-left: 10px solid #117ebd;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #117ebd;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    right: -12px;
+    top: 0px;
+  }
+  .box2 {
+    width: 100px;
+    margin: 20px auto;
+    border-radius: 5px;
+    background: #F2F2F2;
+    padding: 20px;
+    text-align: center;
+    font-weight: 200;
+    color: #181717;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    margin-left: 15px;
+    position: relative;
+    right: -800px;
+    top: -1650px;
+  }
+  .sb2:before{
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 10px solid transparent;
+  border-right: 10px solid #F2F2F2;
+  border-top: 10px solid #F2F2F2;
+  border-bottom: 10px solid transparent;
+  left: -19px;
+  top: 6px;
+}
+.box3 {
+    width: 100px;
+    margin: 50px auto;
+    border-radius: 5px;
+    background: #117ebd;
+    padding: 20px;
+    text-align: center;
+    font-weight: 200;
+    color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    position: relative;
+    right: -570px;
+    top: -1650px;
+   
+
+  }
+  .sb3:before{
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid #F2F2F2;
+    border-top: 10px solid #F2F2F2;
+    border-bottom: 10px solid transparent;
+    right: 0px;
+    top: -2050px;
+  }
+  
+   
+
+
+.chat {
+    width: 600px;
+    height: 550px;
+    position: relative;
+    left: 800px;
+    top: -1100px;
+    background-color: #e3e2e2;
+    display: flex;
+    flex-direction: column;
+}
+.chatmessage.user{
+    align-self: flex-end;
+   
+    border-radius: 5px;
+    background: #117ebd;
+    padding: 20px;
+    text-align: center;
+    font-weight: 200;
+    color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    right: 20px;
+   
+    
+}
+.sb4:before{
+    content: "";
+    width: 0px;
+    height: 0px;
+    border-left: 10px solid #117ebd;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #117ebd;
+    border-bottom: 10px solid transparent;
+    
+}
+
+.chat-box {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    -webkit-overflow-scrolling: touch;
+    max-height: 300px;
+    justify-content: flex-end; /* Push messages to the bottom */
+   
+    position: relative;
+    left: 10px;
+    right: 20px;
+
+}
+.sb5:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    border-left: 10px solid #117ebd;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #117ebd;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    right: -8px;
+    top: 0px;
+  }
+
+.chatmessage {
+    margin: 5px 0;
+    padding: 8px;
+    max-width: 200px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+
+
+.chat-input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    width: 580px;
+}
+
+.sendbtn {
+    border: none;
+    
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    position: relative;
+    top: -25px;
+    left: 560px;
+}
+.send-btn:hover{
+    background: #0056b3;
+}
+.div2{
+    background-color:  rgb(64, 64, 189);
+    width: 1500px;
+    height: 300px;
+    position: absolute;
+    top: 1000px;
+}

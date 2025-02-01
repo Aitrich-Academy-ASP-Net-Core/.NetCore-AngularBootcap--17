@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    display: flex;
+}
+.sidebar{
+    background-color: #117ebd;
+    color: white;
+    width: 250px;
+    height: 100vh;
+    padding: 20px 10px;
+        
+   
+
+}
+.sidebar h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sidebar a{
+    display: block;
+    color: white;
+    margin: 15px 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
+.sidebar img{
+    position: absolute;
+    justify-content: center;
+    left: 70px;
+}
+.sidebar h3{
+    position: absolute;
+    top: 500px;
+    left: 80px;
+}
+.content{
+    flex: 1;
+    padding: 20px;
+    background-color: #f5f5f5;
+    overflow-y: auto;
+}
+.shortlist h2{
+    margin-bottom: 20px;
+    
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+
+}
+
+
+th,td{
+    padding: 50px;
+    text-align: left;
+}
+th{
+    background-color: #0066cc;
+    color: white;
+}
+.candidates{
+    width: 750px;
+    height: 130px;
+    position: relative;
+    top: 200px;
+    left: -100px;
+    font-weight: bolder;
+}
+.details{
+    margin-top: 10px;
+    font-size: 14px;
+}
