@@ -159,13 +159,13 @@
         <form name="myForm" onsubmit="return validateForm()">
             <label class="l1">Job Title</label>
             <input type="text" name="jobTitle" id="jobTitle" class="inpTitle" onblur="return validateCharacter(this.value)" placeholder="Enter job tittle"
-                style="font-size:18px;" onblur="return validateCharacter(this.value)">
+                style="font-size:18px;">
             <label class="l2">Description</label>
             <input type="text" name="jobDescription" id="jobDescription" class="inpDesc"
-                placeholder=" Enter Description" style="font-size:18px;">
+                placeholder=" Enter Description" style="font-size:18px;"onblur="return validateCharacter(this.value)">
             <label class="l3">Salary</label>
             <input type="text" name="salary" id="salary" class="inpSalary" placeholder="Enter salary"
-                style="font-size:18px;" >
+                style="font-size:18px;">
             <label class="l4">Location</label>
             <input type="text" name="location" id="location" class="inpLocation" placeholder="Enter location"
                 style="font-size:18px;">

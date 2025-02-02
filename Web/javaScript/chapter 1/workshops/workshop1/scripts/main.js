@@ -45,3 +45,4 @@ function validateCharacter(inputChar)
 
 }
 
+
