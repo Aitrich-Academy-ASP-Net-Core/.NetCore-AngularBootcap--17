@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Input: Get angles from the user
+let angle1 = parseFloat(prompt("Enter the first angle:"));
+let angle2 = parseFloat(prompt("Enter the second angle:"));
+let angle3 = parseFloat(prompt("Enter the third angle:"));
+
+// Check if the angles form a valid triangle
+if ((angle1 + angle2 + angle3 === 180) && angle1 > 0 && angle2 > 0 && angle3 > 0) {
+    console.log("The angles form a valid triangle.");
+} else {
+    console.log("The angles do not form a valid triangle.");
+}
+
+    </script>
+</body>
+</html>
