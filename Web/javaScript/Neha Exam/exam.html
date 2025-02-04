@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        #addimage{
+            background-color: blue;
+            width: 80px;
+            height: 30px;
+
+        }
+        .removebutton2{
+            background-color:  blue;
+            color: white;
+            border: none;
+            padding: 5px;
+            cursor: pointer; 
+        }
+    </style>
+    <h1>Image gallary</h1>
+    <button id="addimage">Add</button>
+    <div id="gallary">
+
+    </div>
+
+    <script>
+        let newbut = document.getElementById('addimage');
+        newbut.addEventListener("click", function () {
+            let url = prompt("Enter the url:");
+            let title = prompt("Enter the title here:");
+            let description = prompt("Enter the description:");
+            if (!url || !title || !description) {
+                alert("one of them missing");
+            }
+            const gallary2 = document.getElementById("gallary");
+            const div2 = document.createElement('div');
+            div2.classList.add('div2');
+            const img = document.createElement('img');
+            img.src = url;
+            console.log(img);
+            //    gallaryimg.text=title;
+            let title1 = document.createElement('h2');
+            title1.textContent = title;
+            let description2 = document.createElement('p');
+            description2.textContent = description;
+            const removebutton = document.createElement('button');
+            removebutton.textContent = "Remove";
+            removebutton.classList.add('removebutton2');
+            removebutton.addEventListener("click", function () {
+                gallary.removeChild(img);
+                gallary.removeChild(title1);
+                gallary.removeChild(description2);
+            });
+            
+            gallary2.appendChild(img);
+            gallary2.appendChild(title1);
+            gallary2.appendChild(description2);
+            gallary2.appendChild(removebutton);
+            gallary.appendChild(gallary2);
+
+
+
+        });
+
+    </script>
+</body>
+
+</html>
