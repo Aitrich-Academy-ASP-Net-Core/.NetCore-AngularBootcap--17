@@ -66,16 +66,17 @@
         {name:"Deepak Roy",image:"images/m2.png",Qualification:"Qualification:Btech",Experiance: "Experiance:2Year",location:"Location:Calicut"},
     ];
     //persons();
-    function persons(array){
+    function persons(){
     const table=document.createElement("table");
+    let data;
     let index=0;
     for(let i=0;i<2;i++){
         const row=document.createElement('tr');
         for(let j=0;j<2;j++){
             const cell=document.createElement('td');
-            if(array[index])
+            if(arr[index])
             {
-                const person=array[index++];
+                const person=arr[index++];
                 cell.innerHTML=`<img src="${person.image}"><br>
                 <strong>${person.name}</strong><br>
                 Qualification:${person.Qualification}<br>
@@ -88,7 +89,7 @@
     }
     document.getElementById("div1").appendChild(table);
 }
-persons(data);
+persons();
 
 
 </script>

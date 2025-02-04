@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    
+</head>
+<body>
+    <h1>Image gallery</h1>
+
+    <button id="but">add image</button>
+    <img src="" id="imagee" alt="">
+    <p id="titl"><b></b></p>
+    <p id="para"></p>
+    <button id="delbut">delete image</button>
+    
+    <div id="divv"></div>
+    <div id="main"></div>
+    <script>
+        const divmain=document.getElementById('main');
+        const button=document.getElementById('but');
+        button.addEventListener("click",function(){
+            
+            let newdiv=document.getElementById('divv');
+            let title=document.createElement('b');
+            title=prompt("enter the title");
+            //newdiv=title.value;
+            let des=document.createElement('p');
+            des=prompt("enter description");
+            //newdiv=des.value;
+            let image=document.createElement('img');
+            image.src=prompt("enter image src");
+            //newdiv=image.value;
+
+            if(title==null || title==""){
+            alert("please enter the title");
+        }
+            if(des==null || des==""){
+            alert("please enter the description");
+        }
+            if(image==null || image==""){
+            alert("please enter the image url");
+        }
+        newdiv.innerHTML=`<img src="${image}"><h3>${title}</h3><p>${des}</p>`;
+            
+            
+            //newdiv.appendChild(image);
+            //newdiv.appendChild(title);
+            //newdiv.appendChild(des);
+
+            divmain.appendChild(newdiv);
+        });
+            const delbutton=document.getElementById('delbut');
+            newdiv=document.getElementById('divv');
+            //newdiv.appendChild(delbutton);
+            delbutton.addEventListener("click",function(){
+            divmain.removeChild(newdiv);
+            
+        });
+        console.log(divmain);
+        
+        
+
+    </script>
+    
+</body>
+</html>
