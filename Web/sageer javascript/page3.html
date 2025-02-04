@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="txt1"></p>
+    <p id="txt2"></p>
+    <script>
+        const arr=[
+            {name:"chicago",population:"2M"},
+            {name:"nairobi",population:"1M"},
+            {name:"kolkata",population:"2M"}
+            ]
+        let popu=arr[1].population;
+        document.getElementById("txt1").innerHTML=popu;
+
+        arr.push({name:"kochi",population:"1M"});
+        let arr2=Object.keys(arr);
+        document.getElementById("txt2").innerHTML=arr2;
+        console.log(arr2);
+    </script>
+</body>
+</html>

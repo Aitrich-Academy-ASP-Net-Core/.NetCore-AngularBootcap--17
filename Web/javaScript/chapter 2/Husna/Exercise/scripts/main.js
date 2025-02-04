@@ -11,34 +11,32 @@ function listApplicants() {
     var tableBody = document.getElementById('applicantTableBody');
     tableBody.innerHTML = ""; // Clear previous content
 
-    applicantList.forEach(applicant => {
+    for (let i = 0; i < applicantList.length; i += 2) {
         var row = document.createElement('tr');
-
-        var imageCell = document.createElement('td');
-        var image = document.createElement('img');
-        image.src = applicant.image;
-        image.className = "profile-pic";
-        imageCell.appendChild(image);
-
-        var nameCell = document.createElement('td');
-        nameCell.textContent = applicant.name;
-
-        var experienceCell = document.createElement('td');
-        experienceCell.textContent = applicant.experience;
-
-        var qualificationCell = document.createElement('td');
-        qualificationCell.textContent = applicant.qualification;
-
-        var locationCell = document.createElement('td');
-        locationCell.textContent = applicant.location;
-
-        row.appendChild(imageCell);
-        row.appendChild(nameCell);
-        row.appendChild(experienceCell);
-        row.appendChild(qualificationCell);
-        row.appendChild(locationCell);
-
+        
+        for (let j = 0; j < 2; j++) {
+            if (i + j < applicantList.length) {
+                var applicant = applicantList[i + j];
+                var detailsCell = document.createElement('td');
+                detailsCell.style.width = "150px";
+                detailsCell.style.textAlign = "center";
+                detailsCell.style.padding = "5px";
+                
+                var image = document.createElement('img');
+                image.src = applicant.image;
+                image.className = "profile-pic";
+                image.style.display = "block";
+                image.style.margin = "0 auto";
+                image.style.width = "50px";
+                image.style.height = "50px";
+                
+                detailsCell.appendChild(image);
+                detailsCell.innerHTML += `<br><strong>${applicant.name}</strong><br>Experience: ${applicant.experience}<br>Qualification: ${applicant.qualification}<br>Location: ${applicant.location}`;
+                
+                row.appendChild(detailsCell);
+            }
+        }
+        
         tableBody.appendChild(row);
-    });
+    }
 }
-

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function simpleint(){
+            let principal=prompt("enter principal amount:");
+            let rate=prompt("enter annual interest rate");
+            let time=prompt("enter time in years");
+            
+                            //(10000*6*10)/100
+            simpleinterest=(principal*rate*time)/100;
+
+            return simpleinterest;
+        }
+        const inter=simpleint();
+        console.log(inter);
+    </script>
+</body>
+</html>

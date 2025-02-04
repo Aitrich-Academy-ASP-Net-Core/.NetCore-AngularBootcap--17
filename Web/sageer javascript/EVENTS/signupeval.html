@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sign Up Validation</h1>
+    <input type="text" id="uname" placeholder="username" minlength="5"><br>
+    <input type="email" id="mail" placeholder="email" pattern="[a-zA-Z-9._%+-]+@[a-zA-Z0-9,_]+\[a-zA-Z]{2,3}"><br>
+    <input type="password" id="pass" placeholder="password" minlength="8"><br>
+    <input type="password" id="confirm" placeholder="confirm password"><br>
+    <input type="button" value="submit">
+    <script>
+        function passval(pass){
+            const minlength=8;
+            const hasUpper=/[A-Z]/.test(pass);
+            const hasNum=/\d/.test(pass);
+            const validlength=pass.length>=8;
+            if(!validlength){
+                return "minimum 8 elements required";
+            }
+            if(!hasUpper){
+                return "password must contain atleast 1 uppercase letters";
+            }
+            if(!hasNum){
+                return "password must contain atleast 1 number";
+            }
+            return "your password is valid";
+        }
+        const passwordd=prompt("enter your password");
+        const result=passval(passwordd);
+        console.log(result);
+        
+    </script>
+</body>
+</html>
