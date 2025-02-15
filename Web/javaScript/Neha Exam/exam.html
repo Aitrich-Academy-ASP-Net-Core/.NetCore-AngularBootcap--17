@@ -51,11 +51,13 @@
             description2.textContent = description;
             const removebutton = document.createElement('button');
             removebutton.textContent = "Remove";
+            div2.appendChild(removebutton);
             removebutton.classList.add('removebutton2');
             removebutton.addEventListener("click", function () {
                 gallary.removeChild(img);
                 gallary.removeChild(title1);
                 gallary.removeChild(description2);
+                gallary.removeChild(removebutton);
             });
             
             gallary2.appendChild(img);
