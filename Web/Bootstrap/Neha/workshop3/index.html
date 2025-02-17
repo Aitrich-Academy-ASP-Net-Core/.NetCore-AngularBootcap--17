@@ -40,7 +40,7 @@
             background-color: #40189D;
         }
 
-        .offcanvas-size-md {
+        .offcanvas-size {
             --bs-offcanvas-width: min(80vw, 400px) !important;
         }
 
@@ -108,6 +108,17 @@
         .donotShow_row {
             display: none;
         }
+        .offcanvas-body {
+            display: flex;
+            flex-grow: 0;
+            padding: 0;
+            overflow-y: visible;
+          }
+          @media(max-width:768px){
+           .offcanvas{
+            width: 150vh;
+           }
+          }
     </style>
 
     <script type="text/javascript">
@@ -170,68 +181,67 @@
 </head>
 
 <body>
-    <button class="btn float-left" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" role="button">
+    <button class="btn float-left" data-bs-toggle="offcanvas"  role="button" data-bs-target="#offcanvasExample" >
         <i class="bi bi-filter-left fs-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvas"></i>
     </button>
     <div class=" container-fluid">
         <div class="row">
-            <div class="col-sm-3 col-md-2 sidebar">
+            <div class="col-12 w-sm-100 col-md-2 ">
 
-
-                <div class="offcanvas offcanvas-start offcanvas-size-sm" id="offcanvas" data-bs-keyboard="true"
-                    data-bs-backdrop="false" style="width:15%">
+                <div class="offcanvas offcanvas-start   " tabindex="-1" id="offcanvas" data-bs-keyboard="true"
+                    data-bs-backdrop="false" data-bs-target="#offcanvasExample"data-bs-target="#offcanvas">
                     <div class="offcanvas-header">
                         <img class="img-fluid" src="images/Group 8.png">
                         <img class="img-fluid" src="images/Jobie.png">
-                        <!-- <button type="button" class="btn-close  btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button> -->
+                         <button type="button" class="btn-close  btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button> 
                     </div>
                     <div class="offcanvas-body px-0">
-                        <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-start  link-light" id="menu">
+                        <ul class="nav nav-pills d-flex flex-column mb-sm-auto mb-0 align-items-start  link-light" id="menu">
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate ">
                                     <i class="ms-3 fs-5 bi-house-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Dashboard</span>
+                                    <span class="ms-4 ">Dashboard</span>
                                 </a>
                             </li>
                             <li class="nav-item py-1  ">
                                 <a href="#" class="nav-link text-truncate link-light">
                                     <i class="ms-3 fs-5  bi bi-people-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Job Providers</span> </a>
+                                    <span class="ms-4 ">Job Providers</span></a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate link-light">
                                     <i class="ms-3 fs-5  bi bi-file-text-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">New Registrations</span></a>
+                                    <span class="ms-4 ">New Registrations</span></a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link  text-truncate link-light">
                                     <i class="ms-3 fs-5  bi bi-search"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Job Seekers</span>
+                                    <span class="ms-4 ">Job Seekers</span>
                                 </a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate link-light">
                                     <i class="ms-3 fs-5 bi-grid-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Jobs</span></a>
+                                    <span class="ms-4 ">Jobs</span></a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate link-light">
                                     <i class="ms-3 fs-5 bi bi-person-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">My Profile</span> </a>
+                                    <span class="ms-4 ">My Profile</span> </a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate link-light">
                                     <i class="ms-3 fs-5 bi bi-envelope-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Messages</span> </a>
+                                    <span class="ms-4 ">Messages</span> </a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate  link-light">
                                     <i class="ms-3 fs-5 bi bi-gear-fill"></i>
-                                    <span class="ms-4 d-none d-sm-inline">Settings</span> </a>
+                                    <span class="ms-4 ">Settings</span> </a>
                             </li>
                             <li class="nav-item py-1">
                                 <a href="#" class="nav-link text-truncate  link-light">
-                                    <span class=" ms-4 ms-1 d-none d-sm-inline">Logout</span> </a>
+                                    <span class=" ms-4 ms-1 ">Logout</span> </a>
                             </li>
                         </ul>
                     </div>
@@ -260,7 +270,7 @@
                                         </button>
                                         <div class="form-outline bg-light">
                                             <input type="search" id="form1" class="form-control bg-light border-0"
-                                                placeholder="Search something here" />
+                                                placeholder="Search something here"/>
                                         </div>
                                     </div>
                                 </div>
