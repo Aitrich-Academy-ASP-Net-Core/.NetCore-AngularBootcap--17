@@ -13,17 +13,19 @@
        
         .sidebar{
             background-color: darkcyan;
+        
         }
         .subscribe-section{
             background-color: darkcyan;  
         }
         .maincontent{
             background-color: ivory;
+            
         }
         .custom-gradient{
             background: linear-gradient(to right,#9aae, #9ae9e5);
         }
-        .img-fluid{
+        .sidebarmenu,.logo{
             width: 15%;
         }
     </style>
@@ -34,21 +36,21 @@
      <div class="container-fluid">
         <div class="row">
             
-            <div class="col-md-3 col-lg-2 sidebar text-white d-flex flex-column align-items-center">
-                <h5 class="mt-5 p-3">HIRE ME NOW !</h5>
+            <nav class="col-md-3 col-lg-2 sidebar text-white d-flex flex-column align-items-center p-3">
+                <h5 class="mt-3">HIRE ME NOW </h5>
                 <img src="./Image/Ellipse 1.png">
                 
                 <button class="btn btn-warning btn-sm mb-3">Open To Work</button>
                 
-                <nav class="nav flex-column w-100">
-                    <a href="#" class="nav-link text-white d-flex align-items-center gap-2"><img src="./Image/jobs.png"class="sidebarmenu img-fluid w-md-25"> All Jobs</a>
-                    <a href="#" class="nav-link text-white d-flex align-items-center gap-2"><img src="./Image/applications.png"class="sidebarmenu  img-fluid w-md-25 "> My Applications</a>
-                    <a href="#" class="nav-link text-white d-flex align-items-center gap-2"><img src="./Image/message.png"class="sidebarmenu img-fluid w-md-25 "> Messages</a>
-                    <a href="#" class="nav-link text-white d-flex align-items-center gap-2"><img src="./Image/upload 1.png"class="sidebarmenu img-fluid w-md-25 "> My Profile</a>
-                    <a href="#" class="nav-link text-white d-flex align-items-center gap-2"><img src="./Image/setting-2.png"class="sidebarmenu img-fluid w-md-25 "> Settings</a>
-                </nav>
-            </div>   
-            <main class="col-md-9 col-lg-10 p-4 maincontent">
+                <ul class="nav flex-column w-100">
+                    <li class="nav-item"><a href="#" class="nav-link text-white d-flex align-items-center gap-2 p-2 bg-secondary rounded"><img src="./Image/jobs.png"class=" sidebarmenu img-fluid">All Jobs</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white d-flex align-items-center gap-2 p-2 my-4"><img src="./Image/applications.png"class="sidebarmenu img-fluid">Applications</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white d-flex align-items-center gap-2 p-2"><img src="./Image/message.png"class="sidebarmenu img-fluid">Messages</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white d-flex align-items-center gap-2 p-2 my-4"><img src="./Image/upload 1.png"class="sidebarmenu img-fluid">My Profile</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-white d-flex align-items-center gap-2 p-2"><img src="./Image/setting-2.png"class="sidebarmenu img-fluid">Settings</a></li>
+                </ul>
+            </nav>   
+            <main class="col-md-9 col-lg-10 maincontent">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <h3>All Jobs</h3>
                     <div class="d-flex align-items-center">
@@ -65,7 +67,7 @@
                                 <div class="d-flex justify-content-between">
                             <div>
                                         
-                                <h5 class="fw-bold"><img src="./Image/tcs.png" class="img-fluid pe-2">FrontEnd Developer</h5>
+                                <h5 class="fw-bold"><img src="./Image/tcs.png" class="logo img-fluid pe-2">FrontEnd Developer</h5>
                                 <div class="d-flex justify-content-between gap-5">
                                 <p class="text-danger fw-semibold mb-1 pe-5">TCS Consultancy Services</p>
                                 <p class="text-muted small">Location</p>
@@ -92,7 +94,7 @@
                             <div class="card-body">
                             <div class="d-flex justify-content-between">
                                  <div>
-                                <h5 class="fw-bold"><img src="./Image/WIT-1453b096.png" class="img-fluid pe-2">Mern Stack Intern</h5>
+                                <h5 class="fw-bold"><img src="./Image/WIT-1453b096.png" class="logo img-fluid pe-2">Mern Stack Intern</h5>
                                 <div class="d-flex justify-content-between gap-5">
                                 <p class="text-danger fw-semibold mb-1 pe-5">Wipro</p>
                                 <p class="text-muted small">Location</p>
@@ -116,7 +118,7 @@
                             <div class="card-body">
                                 <div class="d-flex justify-content-between">
                                 <div>
-                                <h5 class="fw-bold"><img src="./Image/th.jpg" class="img-fluid pe-2">Customer Service Executive</h5>
+                                <h5 class="fw-bold"><img src="./Image/th.jpg" class="logo img-fluid pe-2">Customer Service Executive</h5>
                                 <div class="d-flex justify-content-between gap-5">
                                 <p class="text-danger fw-semibold mb-1 pe-5">Tele Performance</p>
                                 <p class="text-muted small">Location</p>
@@ -191,7 +193,7 @@
                     <p>List of responsibilities goes here...</p>
                     <div class="d-flex flex-row justify-content-center gap-4">
 
-                    <button class="btn btn-success w-25 custom-gradient border border-primary">Apply Job</button>
+                    <a href="applyjobs.html" class="btn btn-success w-25 custom-gradient border border-primary">Apply Job</a>
                     <button class="btn btn-primary w-25 custom-gradient border border-primary">Message</button>
                 </div>
                 </div>
