@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Polymorphism_Example
+build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 2\OOPs\Examples\Polymorphism_Example\Polymorphism_Example\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
