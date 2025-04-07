@@ -1,5 +1,9 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\",
+  "Documents": [],
+=======
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\",
   "Documents": [
     {
@@ -7,10 +11,14 @@
       "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,6 +40,7 @@
           ]
         }
       ]
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
     }
   ]
 }
