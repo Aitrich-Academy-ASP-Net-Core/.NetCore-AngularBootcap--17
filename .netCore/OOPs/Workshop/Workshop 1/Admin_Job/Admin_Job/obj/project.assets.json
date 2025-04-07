@@ -8,23 +8,39 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\mohammed sageer\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\razal\\.nuget\\packages\\": {},
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
       "projectName": "Admin_Job",
       "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
       "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
       "outputPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "projectName": "Admin_Job",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -90,7 +106,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+>>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
       }
     }
   }
