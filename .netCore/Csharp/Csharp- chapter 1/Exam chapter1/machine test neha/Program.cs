@@ -36,6 +36,8 @@
                 int sum = student[i].Grades[0] + student[i].Grades[1] + student[i].Grades[2] + student[i].Grades[3] + student[i].Grades[4];
                 double average = (double)sum / 5;
                 Console.WriteLine($"Roll Number:{student[i].Rollnumber},Name:{student[i].Name},Average grade : {average}");
+
+
             }
 
 

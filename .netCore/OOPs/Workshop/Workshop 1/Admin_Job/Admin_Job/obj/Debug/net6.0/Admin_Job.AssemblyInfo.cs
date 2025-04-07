@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a2aaf671d60df225a5dab381f780fbc4cde92b")]
+=======
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c04e830506da6abd000a2483ea83c30622559c9")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721ddffb6eb2db2724970da5f81af8c4b6d66829")]
 >>>>>>> 3741f9f0d833dad1914500e1848cdf4d5448a544
+>>>>>>> 74309c0a4f3b78fb47d442cccac07503dbd80144
 [assembly: System.Reflection.AssemblyProductAttribute("Admin_Job")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Admin_Job")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
