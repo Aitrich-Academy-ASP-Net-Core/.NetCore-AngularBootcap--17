@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\neha machinetest\bin\Debug\net8.0\neha machinetest.exe
+C:\Users\admin\source\repos\neha machinetest\bin\Debug\net8.0\neha machinetest.deps.json
+C:\Users\admin\source\repos\neha machinetest\bin\Debug\net8.0\neha machinetest.runtimeconfig.json
+C:\Users\admin\source\repos\neha machinetest\bin\Debug\net8.0\neha machinetest.dll
+C:\Users\admin\source\repos\neha machinetest\bin\Debug\net8.0\neha machinetest.pdb
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.AssemblyInfo.cs
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.dll
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\refint\neha machinetest.dll
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.pdb
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\neha machinetest.genruntimeconfig.cache
+C:\Users\admin\source\repos\neha machinetest\obj\Debug\net8.0\ref\neha machinetest.dll
