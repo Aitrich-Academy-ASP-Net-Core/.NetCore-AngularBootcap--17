@@ -19,7 +19,8 @@ namespace InterviewShedule
         {
             Interview[] shedule = new Interview[10];
             Console.WriteLine("-----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
-            Console.WriteLine("----------------------------------------------------------------Shedule An Interview For job Seekers------------------------------------------------------------------\n");
+            Console.WriteLine("--" +
+                "--------------------------------------------------------------Shedule An Interview For job Seekers------------------------------------------------------------------\n");
             Console.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
 
             string ch;
@@ -40,6 +41,7 @@ namespace InterviewShedule
                     case "A":
                         {
                             Console.WriteLine("How many no of interviews are sheduling\n");
+
                             int count = Convert.ToInt32(Console.ReadLine());
                             for (int i = 0; i < count; i++)
                             {
