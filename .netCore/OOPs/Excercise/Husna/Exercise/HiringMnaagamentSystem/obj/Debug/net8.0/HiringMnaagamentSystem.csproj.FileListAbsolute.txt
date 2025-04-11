@@ -1,0 +1,43 @@
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfoInputs.cache
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfo.cs
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.csproj.CoreCompileInputs.cache
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.exe
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.deps.json
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.runtimeconfig.json
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.dll
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.pdb
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.dll
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\refint\HiringMnaagamentSystem.dll
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.pdb
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.genruntimeconfig.cache
+D:\DOTNETCORE\DOTNET\HiringMnaagamentSystem\obj\Debug\net8.0\ref\HiringMnaagamentSystem.dll
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.exe
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.deps.json
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.runtimeconfig.json
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.dll
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.pdb
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfoInputs.cache
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfo.cs
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.csproj.CoreCompileInputs.cache
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.sourcelink.json
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.dll
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\refint\HiringMnaagamentSystem.dll
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.pdb
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.genruntimeconfig.cache
+D:\git3\.NetCoreBootcamp--AD-03\C#\Chapter 2\AFREEN\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\ref\HiringMnaagamentSystem.dll
+C:\Asp.net\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.exe
+C:\Asp.net\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.deps.json
+C:\Asp.net\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.runtimeconfig.json
+C:\Asp.net\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.dll
+C:\Asp.net\Exercise\HiringMnaagamentSystem\bin\Debug\net8.0\HiringMnaagamentSystem.pdb
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfoInputs.cache
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.AssemblyInfo.cs
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.csproj.CoreCompileInputs.cache
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.dll
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\refint\HiringMnaagamentSystem.dll
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.pdb
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\HiringMnaagamentSystem.genruntimeconfig.cache
+C:\Asp.net\Exercise\HiringMnaagamentSystem\obj\Debug\net8.0\ref\HiringMnaagamentSystem.dll
