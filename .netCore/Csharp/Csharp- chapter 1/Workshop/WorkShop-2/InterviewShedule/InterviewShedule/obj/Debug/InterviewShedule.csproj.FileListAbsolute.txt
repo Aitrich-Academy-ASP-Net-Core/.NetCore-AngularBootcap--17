@@ -1,0 +1,7 @@
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
