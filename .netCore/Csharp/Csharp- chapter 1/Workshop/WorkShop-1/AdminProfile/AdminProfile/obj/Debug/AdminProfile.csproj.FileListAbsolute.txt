@@ -1,0 +1,7 @@
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
