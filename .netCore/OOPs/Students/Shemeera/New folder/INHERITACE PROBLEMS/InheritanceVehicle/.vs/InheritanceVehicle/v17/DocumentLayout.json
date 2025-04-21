@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\InheritanceVehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|d:\\c#\\inheritancevehicle\\inheritancevehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|solutionrelative:inheritancevehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|d:\\c#\\inheritancevehicle\\inheritancevehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|solutionrelative:inheritancevehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|d:\\c#\\inheritancevehicle\\inheritancevehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEF140-63EE-4A4C-B7A1-1172F02D57EE}|InheritanceVehicle\\InheritanceVehicle.csproj|solutionrelative:inheritancevehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Car.cs",
+              "RelativeDocumentMoniker": "InheritanceVehicle\\Car.cs",
+              "ToolTip": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Car.cs",
+              "RelativeToolTip": "InheritanceVehicle\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:19:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "InheritanceVehicle\\Vehicle.cs",
+              "ToolTip": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Vehicle.cs",
+              "RelativeToolTip": "InheritanceVehicle\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:18:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceVehicle\\Program.cs",
+              "ToolTip": "D:\\c#\\InheritanceVehicle\\InheritanceVehicle\\Program.cs",
+              "RelativeToolTip": "InheritanceVehicle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:15:50.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

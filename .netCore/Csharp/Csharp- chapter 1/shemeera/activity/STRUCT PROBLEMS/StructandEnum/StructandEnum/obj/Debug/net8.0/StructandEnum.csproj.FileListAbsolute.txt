@@ -1,0 +1,14 @@
+D:\c#\StructandEnum\StructandEnum\bin\Debug\net8.0\StructandEnum.exe
+D:\c#\StructandEnum\StructandEnum\bin\Debug\net8.0\StructandEnum.deps.json
+D:\c#\StructandEnum\StructandEnum\bin\Debug\net8.0\StructandEnum.runtimeconfig.json
+D:\c#\StructandEnum\StructandEnum\bin\Debug\net8.0\StructandEnum.dll
+D:\c#\StructandEnum\StructandEnum\bin\Debug\net8.0\StructandEnum.pdb
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.AssemblyInfoInputs.cache
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.AssemblyInfo.cs
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.csproj.CoreCompileInputs.cache
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.dll
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\refint\StructandEnum.dll
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.pdb
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\StructandEnum.genruntimeconfig.cache
+D:\c#\StructandEnum\StructandEnum\obj\Debug\net8.0\ref\StructandEnum.dll

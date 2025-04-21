@@ -1,0 +1,14 @@
+D:\c#\InheritanceBank\InheritanceBank\bin\Debug\net8.0\InheritanceBank.exe
+D:\c#\InheritanceBank\InheritanceBank\bin\Debug\net8.0\InheritanceBank.deps.json
+D:\c#\InheritanceBank\InheritanceBank\bin\Debug\net8.0\InheritanceBank.runtimeconfig.json
+D:\c#\InheritanceBank\InheritanceBank\bin\Debug\net8.0\InheritanceBank.dll
+D:\c#\InheritanceBank\InheritanceBank\bin\Debug\net8.0\InheritanceBank.pdb
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.AssemblyInfoInputs.cache
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.AssemblyInfo.cs
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.csproj.CoreCompileInputs.cache
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.dll
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\refint\InheritanceBank.dll
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.pdb
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\InheritanceBank.genruntimeconfig.cache
+D:\c#\InheritanceBank\InheritanceBank\obj\Debug\net8.0\ref\InheritanceBank.dll
