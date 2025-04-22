@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Users\\mohammed sageer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "projectUniqueName": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
       "projectName": "Admin_Job",
-      "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\obj\\",
+      "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
+      "outputPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

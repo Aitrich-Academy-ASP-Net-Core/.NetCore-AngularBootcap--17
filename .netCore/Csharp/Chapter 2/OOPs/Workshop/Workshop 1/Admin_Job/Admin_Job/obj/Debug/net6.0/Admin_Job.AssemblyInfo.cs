@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Admin_Job")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD:.netCore/OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.AssemblyInfo.cs
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69be3e193188b6f498809970a32235be9609aab0")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5a47d21cc4a1ee6d335d0594cf9a1b8511604d")]
+>>>>>>> 1d1be89e377856e973a6e02b660c33f92ab2cbf6:.netCore/Csharp/Chapter 2/OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Debug/net6.0/Admin_Job.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyProductAttribute("Admin_Job")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Admin_Job")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

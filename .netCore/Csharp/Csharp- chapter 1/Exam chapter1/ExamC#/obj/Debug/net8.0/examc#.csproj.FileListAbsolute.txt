@@ -1,0 +1,14 @@
+C:\Users\mohammed sageer\source\repos\examc#\bin\Debug\net8.0\examc#.exe
+C:\Users\mohammed sageer\source\repos\examc#\bin\Debug\net8.0\examc#.deps.json
+C:\Users\mohammed sageer\source\repos\examc#\bin\Debug\net8.0\examc#.runtimeconfig.json
+C:\Users\mohammed sageer\source\repos\examc#\bin\Debug\net8.0\examc#.dll
+C:\Users\mohammed sageer\source\repos\examc#\bin\Debug\net8.0\examc#.pdb
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.csproj.CoreCompileInputs.cache
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.dll
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\refint\examc#.dll
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.pdb
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\examc#.genruntimeconfig.cache
+C:\Users\mohammed sageer\source\repos\examc#\obj\Debug\net8.0\ref\examc#.dll
