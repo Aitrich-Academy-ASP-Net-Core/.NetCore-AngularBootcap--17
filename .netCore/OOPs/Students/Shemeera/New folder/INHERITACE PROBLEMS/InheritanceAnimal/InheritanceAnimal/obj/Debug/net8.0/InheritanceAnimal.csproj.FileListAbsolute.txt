@@ -1,0 +1,14 @@
+D:\c#\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.exe
+D:\c#\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.deps.json
+D:\c#\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.runtimeconfig.json
+D:\c#\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.dll
+D:\c#\InheritanceAnimal\InheritanceAnimal\bin\Debug\net8.0\InheritanceAnimal.pdb
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.AssemblyInfoInputs.cache
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.AssemblyInfo.cs
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.csproj.CoreCompileInputs.cache
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.dll
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\refint\InheritanceAnimal.dll
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.pdb
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\InheritanceAnimal.genruntimeconfig.cache
+D:\c#\InheritanceAnimal\InheritanceAnimal\obj\Debug\net8.0\ref\InheritanceAnimal.dll

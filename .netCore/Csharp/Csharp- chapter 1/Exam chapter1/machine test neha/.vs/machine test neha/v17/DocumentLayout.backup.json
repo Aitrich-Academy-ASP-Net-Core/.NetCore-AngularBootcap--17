@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Csharp- chapter 1\\Exam chapter1\\machine test neha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567EF44D-65EE-4B85-A45D-56FBF4A466E7}|machine test neha.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\csharp\\csharp- chapter 1\\exam chapter1\\machine test neha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567EF44D-65EE-4B85-A45D-56FBF4A466E7}|machine test neha.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Csharp- chapter 1\\Exam chapter1\\machine test neha\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Csharp- chapter 1\\Exam chapter1\\machine test neha\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABcAAADgAAAAAAAuwCUAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:40:17.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\c#\EXAMC#\EXAMC#\bin\Debug\net8.0\EXAMC#.exe
+D:\c#\EXAMC#\EXAMC#\bin\Debug\net8.0\EXAMC#.deps.json
+D:\c#\EXAMC#\EXAMC#\bin\Debug\net8.0\EXAMC#.runtimeconfig.json
+D:\c#\EXAMC#\EXAMC#\bin\Debug\net8.0\EXAMC#.dll
+D:\c#\EXAMC#\EXAMC#\bin\Debug\net8.0\EXAMC#.pdb
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.AssemblyInfoInputs.cache
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.AssemblyInfo.cs
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.csproj.CoreCompileInputs.cache
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.dll
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\refint\EXAMC#.dll
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.pdb
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\EXAMC#.genruntimeconfig.cache
+D:\c#\EXAMC#\EXAMC#\obj\Debug\net8.0\ref\EXAMC#.dll

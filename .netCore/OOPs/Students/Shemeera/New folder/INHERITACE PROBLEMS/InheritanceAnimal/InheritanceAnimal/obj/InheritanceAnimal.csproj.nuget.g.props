@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD:.netCore/OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Admin_Job.csproj.nuget.g.props
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mohammed sageer\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\razal\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+>>>>>>> 1d1be89e377856e973a6e02b660c33f92ab2cbf6:.netCore/OOPs/Students/Shemeera/New folder/INHERITACE PROBLEMS/InheritanceAnimal/InheritanceAnimal/obj/InheritanceAnimal.csproj.nuget.g.props
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD:.netCore/OOPs/Workshop/Workshop 1/Admin_Job/Admin_Job/obj/Admin_Job.csproj.nuget.g.props
+    <SourceRoot Include="C:\Users\mohammed sageer\.nuget\packages\" />
+=======
+    <SourceRoot Include="C:\Users\razal\.nuget\packages\" />
+>>>>>>> 1d1be89e377856e973a6e02b660c33f92ab2cbf6:.netCore/OOPs/Students/Shemeera/New folder/INHERITACE PROBLEMS/InheritanceAnimal/InheritanceAnimal/obj/InheritanceAnimal.csproj.nuget.g.props
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+</Project>

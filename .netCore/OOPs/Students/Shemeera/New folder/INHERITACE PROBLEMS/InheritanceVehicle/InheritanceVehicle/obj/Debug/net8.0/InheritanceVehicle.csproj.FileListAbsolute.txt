@@ -1,0 +1,14 @@
+D:\c#\InheritanceVehicle\InheritanceVehicle\bin\Debug\net8.0\InheritanceVehicle.exe
+D:\c#\InheritanceVehicle\InheritanceVehicle\bin\Debug\net8.0\InheritanceVehicle.deps.json
+D:\c#\InheritanceVehicle\InheritanceVehicle\bin\Debug\net8.0\InheritanceVehicle.runtimeconfig.json
+D:\c#\InheritanceVehicle\InheritanceVehicle\bin\Debug\net8.0\InheritanceVehicle.dll
+D:\c#\InheritanceVehicle\InheritanceVehicle\bin\Debug\net8.0\InheritanceVehicle.pdb
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.AssemblyInfoInputs.cache
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.AssemblyInfo.cs
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.csproj.CoreCompileInputs.cache
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.dll
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\refint\InheritanceVehicle.dll
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.pdb
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\InheritanceVehicle.genruntimeconfig.cache
+D:\c#\InheritanceVehicle\InheritanceVehicle\obj\Debug\net8.0\ref\InheritanceVehicle.dll
