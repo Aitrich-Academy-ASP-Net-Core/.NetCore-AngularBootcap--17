@@ -8,6 +8,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Admin_Job
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\
+=======
+build_property.ProjectDir = D:\batch17repo\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\
+>>>>>>> 2af0bbd3f2adc132be26eb506390092e201e0fdc
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
