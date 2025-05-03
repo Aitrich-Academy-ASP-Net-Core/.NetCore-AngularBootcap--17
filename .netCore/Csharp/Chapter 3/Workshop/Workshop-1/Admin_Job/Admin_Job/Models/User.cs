@@ -26,7 +26,6 @@ namespace Admin_Job.Models
             Phone = phone;
             Password = password;    
             Role = roles;
-
         }
 
     }
