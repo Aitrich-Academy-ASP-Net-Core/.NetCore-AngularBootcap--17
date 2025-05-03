@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\",
   "Documents": [
     {
@@ -16,6 +17,75 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 2af0bbd3f2adc132be26eb506390092e201e0fdc
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
       "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +96,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:25:10.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+              "RelativeToolTip": "Admin_Job\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:22:56.463Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -57,28 +159,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\PublicManager.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\PublicManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+=======
               "Title": "InvalidFormatException.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+>>>>>>> 2af0bbd3f2adc132be26eb506390092e201e0fdc
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:09:56.045Z",
+              "WhenOpened": "2025-04-22T06:12:47.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
               "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+=======
+              "DocumentIndex": 1,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\AdminManager.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\AdminManager.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:07:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:09:56.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\UserManager.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:12:32.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Admin_Job\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:09:47.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IMenu.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:08:08.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Lists.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+              "RelativeToolTip": "Admin_Job\\Lists.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:08:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:08:01.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJobProvider.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IJobProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:07:55.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\Job.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+              "RelativeToolTip": "Admin_Job\\Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:07:36.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\User.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeToolTip": "Admin_Job\\Models\\User.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:07:32.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roles.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+=======
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+>>>>>>> 2af0bbd3f2adc132be26eb506390092e201e0fdc
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
               "RelativeToolTip": "Admin_Job\\Enums\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-04-09T09:08:54.532Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2025-04-09T09:08:54.532Z"
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
             }
           ]
         }

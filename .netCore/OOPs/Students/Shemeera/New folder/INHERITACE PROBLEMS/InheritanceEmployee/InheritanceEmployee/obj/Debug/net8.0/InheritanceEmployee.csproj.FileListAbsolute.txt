@@ -1,0 +1,14 @@
+D:\c#\InheritanceEmployee\InheritanceEmployee\bin\Debug\net8.0\InheritanceEmployee.exe
+D:\c#\InheritanceEmployee\InheritanceEmployee\bin\Debug\net8.0\InheritanceEmployee.deps.json
+D:\c#\InheritanceEmployee\InheritanceEmployee\bin\Debug\net8.0\InheritanceEmployee.runtimeconfig.json
+D:\c#\InheritanceEmployee\InheritanceEmployee\bin\Debug\net8.0\InheritanceEmployee.dll
+D:\c#\InheritanceEmployee\InheritanceEmployee\bin\Debug\net8.0\InheritanceEmployee.pdb
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.AssemblyInfoInputs.cache
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.AssemblyInfo.cs
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.csproj.CoreCompileInputs.cache
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.dll
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\refint\InheritanceEmployee.dll
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.pdb
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\InheritanceEmployee.genruntimeconfig.cache
+D:\c#\InheritanceEmployee\InheritanceEmployee\obj\Debug\net8.0\ref\InheritanceEmployee.dll
