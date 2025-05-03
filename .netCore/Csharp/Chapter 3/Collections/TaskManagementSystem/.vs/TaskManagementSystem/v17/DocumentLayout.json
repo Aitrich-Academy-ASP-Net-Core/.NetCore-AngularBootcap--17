@@ -1,5 +1,9 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\",
+  "Documents": [],
+=======
   "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\",
   "Documents": [
     {
@@ -7,10 +11,14 @@
       "RelativeMoniker": "D:0:0:{F4A97A09-F469-4430-8D66-41057F6BAD8A}|TaskManagementSystem\\TaskManagementSystemss.csproj|solutionrelative:taskmanagementsystem\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -36,6 +44,7 @@
           ]
         }
       ]
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
     }
   ]
 }

@@ -1,0 +1,14 @@
+C:\Asp.net\Conditional statement\bin\Debug\net8.0\Conditional statement.exe
+C:\Asp.net\Conditional statement\bin\Debug\net8.0\Conditional statement.deps.json
+C:\Asp.net\Conditional statement\bin\Debug\net8.0\Conditional statement.runtimeconfig.json
+C:\Asp.net\Conditional statement\bin\Debug\net8.0\Conditional statement.dll
+C:\Asp.net\Conditional statement\bin\Debug\net8.0\Conditional statement.pdb
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.AssemblyInfoInputs.cache
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.AssemblyInfo.cs
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.csproj.CoreCompileInputs.cache
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.dll
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\refint\Conditional statement.dll
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.pdb
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\Conditional statement.genruntimeconfig.cache
+C:\Asp.net\Conditional statement\obj\Debug\net8.0\ref\Conditional statement.dll

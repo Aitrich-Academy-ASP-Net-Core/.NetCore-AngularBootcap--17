@@ -1,0 +1,14 @@
+C:\Asp.net\Control Statements\bin\Debug\net8.0\Control Statements.exe
+C:\Asp.net\Control Statements\bin\Debug\net8.0\Control Statements.deps.json
+C:\Asp.net\Control Statements\bin\Debug\net8.0\Control Statements.runtimeconfig.json
+C:\Asp.net\Control Statements\bin\Debug\net8.0\Control Statements.dll
+C:\Asp.net\Control Statements\bin\Debug\net8.0\Control Statements.pdb
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.AssemblyInfoInputs.cache
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.AssemblyInfo.cs
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.csproj.CoreCompileInputs.cache
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.dll
+C:\Asp.net\Control Statements\obj\Debug\net8.0\refint\Control Statements.dll
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.pdb
+C:\Asp.net\Control Statements\obj\Debug\net8.0\Control Statements.genruntimeconfig.cache
+C:\Asp.net\Control Statements\obj\Debug\net8.0\ref\Control Statements.dll
