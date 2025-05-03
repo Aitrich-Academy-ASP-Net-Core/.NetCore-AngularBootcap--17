@@ -1,0 +1,14 @@
+C:\Asp.net\ExerciseJobProvider\bin\Debug\net8.0\ExerciseJobProvider.exe
+C:\Asp.net\ExerciseJobProvider\bin\Debug\net8.0\ExerciseJobProvider.deps.json
+C:\Asp.net\ExerciseJobProvider\bin\Debug\net8.0\ExerciseJobProvider.runtimeconfig.json
+C:\Asp.net\ExerciseJobProvider\bin\Debug\net8.0\ExerciseJobProvider.dll
+C:\Asp.net\ExerciseJobProvider\bin\Debug\net8.0\ExerciseJobProvider.pdb
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.AssemblyInfoInputs.cache
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.AssemblyInfo.cs
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.csproj.CoreCompileInputs.cache
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.dll
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\refint\ExerciseJobProvider.dll
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.pdb
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ExerciseJobProvider.genruntimeconfig.cache
+C:\Asp.net\ExerciseJobProvider\obj\Debug\net8.0\ref\ExerciseJobProvider.dll

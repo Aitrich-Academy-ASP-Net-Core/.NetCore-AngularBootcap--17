@@ -1,0 +1,14 @@
+C:\Asp.net\enum\bin\Debug\net8.0\enum.exe
+C:\Asp.net\enum\bin\Debug\net8.0\enum.deps.json
+C:\Asp.net\enum\bin\Debug\net8.0\enum.runtimeconfig.json
+C:\Asp.net\enum\bin\Debug\net8.0\enum.dll
+C:\Asp.net\enum\bin\Debug\net8.0\enum.pdb
+C:\Asp.net\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+C:\Asp.net\enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+C:\Asp.net\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+C:\Asp.net\enum\obj\Debug\net8.0\enum.dll
+C:\Asp.net\enum\obj\Debug\net8.0\refint\enum.dll
+C:\Asp.net\enum\obj\Debug\net8.0\enum.pdb
+C:\Asp.net\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+C:\Asp.net\enum\obj\Debug\net8.0\ref\enum.dll
