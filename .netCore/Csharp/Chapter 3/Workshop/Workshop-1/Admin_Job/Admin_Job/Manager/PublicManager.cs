@@ -75,9 +75,9 @@ namespace Admin_Job.Manager
             {
                 Console.WriteLine("Please enter your Email");
                 string email = Console.ReadLine();
-                Regex regex = new Regex("\"^\\\\S+@\\\\S+\\\\.\\\\S+$\"");
-                if (!regex.IsMatch(email))
-                    throw new InvalidFormatException("Please enter a valid Email " + email);
+                //Regex regex = new Regex("\"^\\\\S+@\\\\S+\\\\.\\\\S+$\"");
+                //if (!regex.IsMatch(email))
+                //    throw new InvalidFormatException("Please enter a valid Email " + email);
                 return email;
 
             }

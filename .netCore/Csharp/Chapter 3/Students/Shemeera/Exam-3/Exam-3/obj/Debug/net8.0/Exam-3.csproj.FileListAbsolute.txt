@@ -1,0 +1,14 @@
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.AssemblyInfoInputs.cache
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.AssemblyInfo.cs
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.csproj.CoreCompileInputs.cache
+D:\c#\Exam-3\Exam-3\bin\Debug\net8.0\Exam-3.exe
+D:\c#\Exam-3\Exam-3\bin\Debug\net8.0\Exam-3.deps.json
+D:\c#\Exam-3\Exam-3\bin\Debug\net8.0\Exam-3.runtimeconfig.json
+D:\c#\Exam-3\Exam-3\bin\Debug\net8.0\Exam-3.dll
+D:\c#\Exam-3\Exam-3\bin\Debug\net8.0\Exam-3.pdb
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.dll
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\refint\Exam-3.dll
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.pdb
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\Exam-3.genruntimeconfig.cache
+D:\c#\Exam-3\Exam-3\obj\Debug\net8.0\ref\Exam-3.dll

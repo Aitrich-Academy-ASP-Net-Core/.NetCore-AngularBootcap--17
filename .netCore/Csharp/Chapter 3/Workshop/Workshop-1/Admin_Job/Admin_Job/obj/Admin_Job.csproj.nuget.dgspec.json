@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
   },
   "projects": {
-    "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
         "projectName": "Admin_Job",
-        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\obj\\",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
