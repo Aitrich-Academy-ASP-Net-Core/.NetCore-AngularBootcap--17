@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\03 .fsbatch 03\\.netcorefsonlinebatch-03\\csharp\\csharp-chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\reeshma\\.netcore bootcamp\\03 .fsbatch 03\\.netcorefsonlinebatch-03\\csharp\\csharp-chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InvalidFormatException.cs",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
               "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T09:09:56.045Z",
               "EditorCaption": ""
@@ -37,18 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Roles.cs",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
               "RelativeToolTip": "Admin_Job\\Enums\\Roles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:08:54.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-09T09:08:54.532Z"
             }
           ]
         }
