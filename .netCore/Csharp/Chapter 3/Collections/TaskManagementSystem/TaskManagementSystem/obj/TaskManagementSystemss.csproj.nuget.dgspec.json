@@ -2,6 +2,19 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+        "projectName": "TaskManagementSystemss",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\obj\\",
+=======
+<<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj": {}
   },
   "projects": {
@@ -26,16 +39,21 @@
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\obj\\",
 >>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -46,8 +64,11 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
           "C:\\Program Files\\dotnet\\library-packs": {},
 >>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,8 +90,13 @@
         },
         "SdkAnalysisLevel": "9.0.200"
 =======
+<<<<<<< HEAD
+        },
+        "SdkAnalysisLevel": "9.0.200"
+=======
         }
 >>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
       },
       "frameworks": {
         "net9.0": {
@@ -87,15 +113,22 @@
           "assetTargetFallback": true,
           "warn": true,
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
 >>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
         }
       }
     }

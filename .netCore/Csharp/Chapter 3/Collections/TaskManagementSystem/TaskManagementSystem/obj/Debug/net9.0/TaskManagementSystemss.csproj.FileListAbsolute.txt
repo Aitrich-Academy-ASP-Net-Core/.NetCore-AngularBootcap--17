@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.exe
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.deps.json
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.runtimeconfig.json
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.pdb
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.AssemblyInfoInputs.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.AssemblyInfo.cs
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.sourcelink.json
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\refint\TaskManagementSystemss.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.pdb
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.genruntimeconfig.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\ref\TaskManagementSystemss.dll
+=======
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.exe
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.deps.json
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\bin\Debug\net9.0\TaskManagementSystemss.runtimeconfig.json
@@ -13,3 +30,4 @@ C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapt
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.pdb
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\TaskManagementSystemss.genruntimeconfig.cache
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Collections\TaskManagementSystem\TaskManagementSystem\obj\Debug\net9.0\ref\TaskManagementSystemss.dll
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b

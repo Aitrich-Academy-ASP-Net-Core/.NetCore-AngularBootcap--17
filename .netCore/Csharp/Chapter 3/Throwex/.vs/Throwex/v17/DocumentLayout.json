@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE818D1-427A-4B33-BAF4-AA66CF624ACA}|ThrowException\\ThrowException.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\throwex\\throwexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{2DE818D1-427A-4B33-BAF4-AA66CF624ACA}|ThrowException\\ThrowException.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\throwex\\throwexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
       "RelativeMoniker": "D:0:0:{2DE818D1-427A-4B33-BAF4-AA66CF624ACA}|ThrowException\\ThrowException.csproj|solutionrelative:throwexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +27,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\ThrowException\\Program.cs",
+              "RelativeDocumentMoniker": "ThrowException\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\ThrowException\\Program.cs",
+=======
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\ThrowException\\Program.cs",
               "RelativeDocumentMoniker": "ThrowException\\Program.cs",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Throwex\\ThrowException\\Program.cs",
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
               "RelativeToolTip": "ThrowException\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
