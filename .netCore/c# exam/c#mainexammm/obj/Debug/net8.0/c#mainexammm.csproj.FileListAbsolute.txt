@@ -1,0 +1,4 @@
+C:\Users\mohammed sageer\source\repos\c#mainexammm\obj\Debug\net8.0\c#mainexammm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\c#mainexammm\obj\Debug\net8.0\c#mainexammm.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\c#mainexammm\obj\Debug\net8.0\c#mainexammm.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\c#mainexammm\obj\Debug\net8.0\c#mainexammm.csproj.CoreCompileInputs.cache
