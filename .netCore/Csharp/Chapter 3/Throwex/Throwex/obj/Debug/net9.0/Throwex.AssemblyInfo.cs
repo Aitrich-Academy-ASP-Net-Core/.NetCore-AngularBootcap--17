@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Throwex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4f76a14a81ab52f2e7d71e1ed92a62f007f99d2")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3adc520a29297b7b528381a3c27335cba8c19e")]
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
 [assembly: System.Reflection.AssemblyProductAttribute("Throwex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Throwex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
