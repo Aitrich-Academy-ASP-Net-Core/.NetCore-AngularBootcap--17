@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\manager\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:manager\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\exception\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:exception\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore-angularbootcap--17\\.netcore\\csharp\\chapter 3\\exam-husna\\bankaccountsystem\\bankaccountsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F317AD-BECD-4910-9F77-40552FCA696A}|BankAccountSystem.csproj|solutionrelative:bankaccountsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Exception\\AccountNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exception\\AccountNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Exception\\AccountNotFoundException.cs",
+              "RelativeToolTip": "Exception\\AccountNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Manager\\Bank.cs",
+              "RelativeDocumentMoniker": "Manager\\Bank.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Manager\\Bank.cs",
+              "RelativeToolTip": "Manager\\Bank.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:45:48.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interface\\IMenu.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Interface\\IMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:35:39.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccountSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\BankAccountSystem.csproj",
+              "RelativeDocumentMoniker": "BankAccountSystem.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\BankAccountSystem.csproj",
+              "RelativeToolTip": "BankAccountSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T17:35:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Models\\BankAccount.cs",
+              "RelativeToolTip": "Models\\BankAccount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:24:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Exam-Husna\\BankAccountSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:12:07.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

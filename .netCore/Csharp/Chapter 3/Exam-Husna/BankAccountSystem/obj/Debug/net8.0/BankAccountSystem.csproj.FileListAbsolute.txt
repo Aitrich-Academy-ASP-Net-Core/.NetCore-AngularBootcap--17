@@ -1,0 +1,29 @@
+C:\Asp.net\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.exe
+C:\Asp.net\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.deps.json
+C:\Asp.net\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.runtimeconfig.json
+C:\Asp.net\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.dll
+C:\Asp.net\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.pdb
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfoInputs.cache
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfo.cs
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.dll
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\refint\BankAccountSystem.dll
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.pdb
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.genruntimeconfig.cache
+C:\Asp.net\BankAccountSystem\obj\Debug\net8.0\ref\BankAccountSystem.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.exe
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.deps.json
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.runtimeconfig.json
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.pdb
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfoInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.sourcelink.json
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\refint\BankAccountSystem.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.pdb
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.genruntimeconfig.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\ref\BankAccountSystem.dll
