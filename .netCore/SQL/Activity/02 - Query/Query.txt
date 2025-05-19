@@ -1,0 +1,261 @@
+A:    % (Wildcard - Character(s) to Match) (Transact-SQL)
+
+Matches any string of zero or more characters. This wildcard character can be used as either a prefix or a suffix. For more information, see Pattern Matching in Search Conditions.
+
+
+Like  %,-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- = reperesent single value
+% = represent any value
+
+6.  select * from TS_Company_Master where name like '%a%'
+        o/p  fetch datas  which contain the letter �a� in any position.
+7.  select * from TS_Company_Master where name like 'j%' 
+	O/p    fetch datas begins with letter �j�
+8.  select * from TS_Company_Master where name like '%j' 
+                   O/P  fetch datas ending with letter �j�
+9.  select * from TS_Company_Master where name like '_a%' 
+     O/p fetch datas which contains letter  �a� at position 2,  �_� indicates position
+
+**************************
+
+B:   UNION (Transact-SQL)
+
+Combines the results of two or more queries into a single result set that includes all the rows that belong to all queries in the union. 
+The UNION operation is different from using joins that combine columns from two tables. 
+UNION 
+Specifies that multiple result sets are to be combined and returned as a single result set.
+ALL 
+Incorporates all rows into the results. This includes duplicates. If not specified, duplicate rows are removed.
+
+
+
+Union     &       Union  All
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. select field_name1,2,3 from table_name1
+          Union 
+      select field_name1,2,3 from table_name2
+
+2.  SELECT Name, Id  FROM TS_Company_Master 
+        UNION ALL
+    SELECT Name, id FROM TS_group_Master 
+
+***********************************
+C:Display two table
+----------------------------------------------------------------------
+1. select * from table_name1,table_name2
+
+
+Mathematic Fumctions
+---------------------------------
+1. ABS- Returns the absolute and positive value.
+	Syntax - ABS ( numeric )
+
+Eg:
+
+SELECT ABS(-1.0) -- Value = 1.0
+SELECT ABS(0.0) -- Value = 0.0
+SELECT ABS(1.0) -- Value = 1.0
+
+2. FLOOR- Returns the largest integer less than or equal to the given numeric expression.
+	Syntax - FLOOR( numeric) 
+
+Eg:
+
+SELECT FLOOR(32.15) -- Value = 32
+SELECT FLOOR(-32.15) -- Value = -33
+SELECT FLOOR($32.15) -- Value = 32.0000
+
+3. CEILING- Returns the smallest integer greater than, or equal to the input value
+	Syntax - CEILING( numeric)
+
+Eg:
+SELECT CEILING(32.15) -- Value = 33
+SELECT CEILING(-32.15) -- Value = -32
+SELECT CEILING($32.15) -- Value = 33.00
+
+4. ROUND- Return rounded value.
+	Syntax - ROUND( numeric, length) 
+
+Eg:
+
+SELECT ROUND(32.15 ,1) -- Value = 32.20
+SELECT ROUND(32.14 ,1) -- Value = 32.10
+SELECT ROUND(32.14998 ,4) -- Value = 32.15000
+
+SQL Aggregate Functions
+---------------------------------------
+1. AVG - Average value of columns
+Eg:
+Select AVG(Salary) FROM A
+
+2. COUNT - number of rows
+Eg:
+Select COUNT(*) FROM A
+SELECT COUNT (DISTINCT Salary) FROM CUSTOMERS
+
+3. MAX - Maximun or Highest number in a column
+Eg:
+SELECT MAX(Salary) FROM CUSTOMERS
+
+4. MIN - Minimum or Lowest number in a column 
+Eg:
+SELECT MIN(Salary) FROM CUSTOMERS 
+
+5. SUM - Total number in a column
+Eg:
+SELECT SUM(Salary) FROM CUSTOMERS
+
+
+
+SQL String Functions
+-------------------------------
+1.  ASCII - Returns the ASCII code value of a keyboard button and the rest etc (@,R,9,*) .
+Syntax - ASCII ( character)
+
+Eg:
+SELECT ASCII('a')
+
+2. SPACE -Returns spaces in your SQL query (you can specific the size of space). 
+Syntax - SPACE ( integer)
+
+Eg:
+SELECT ('SQL') + SPACE(1) + ('String')+SPACE(1)+('Functions')
+
+
+3.REPLACE-Replaces all occurrences of the string2 in the string1 with string3.
+Syntax - REPLACE ( 'string1' , 'string2' , 'string3' )
+
+Eg:
+SELECT REPLACE('All Function' , 'All', 'SQL')
+
+4.LEFT-Returns left part of a string with the specified number of characters.
+Syntax - LEFT ( string , integer) 
+
+Eg:
+SELECT LEFT('TravelYourself', 6) 
+
+5.RIGHT-Returns right part of a string with the specified number of characters.
+Syntax - RIGHT( string , integer)
+
+Eg:
+SELECT RIGHT('TravelYourself', 6)
+
+6. REPLICATE-Repeats string for a specified number of times.
+Syntax - REPLICATE (string, integer)
+
+Eg:
+SELECT REPLICATE('Sql', 2) 
+
+7.SUBSTRING-Returns part of a string.
+Syntax - SUBSTRING ( string, startindex , length )
+
+Eg:
+SELECT SUBSTRING('SQLServer', 4, 3) 
+
+8. LEN-Returns number of characters in a string.
+Syntax - LEN( string) 
+
+Eg:
+SELECT LEN('SQLServer')
+
+9.  REVERSE-Returns reverse a string.
+Syntax - REVERSE( string)
+
+Eg:
+SELECT REVERSE('SQLServer') 
+
+10. LOWER-Convert string to lowercase.
+Syntax - LOWER( string )
+
+Eg:
+SELECT LOWER('SQLSERVER') 
+
+11.  UPPER-Convert string to Uppercase.
+Syntax - UPPER( string ) 
+
+Eg:
+SELECT UPPER('sqlserver') 
+
+12.LTRIM-Returns a string after removing leading blanks on Left side.
+Syntax - LTRIM( string )
+
+Eg:
+SELECT LTRIM(' sqlserver')
+
+13. RTRIM -Returns a string after removing leading blanks on Right side.
+Syntax - RTRIM( string )
+
+Eg:
+SELECT RTRIM('SqlServer ')
+
+and ,or , in ,<,>,>=,<=,not,between
+-------------------------------------------------
+
+1. select * from TS_Company_Master where name='veena' and id=3
+
+2. select * from TS_Company_Master where name='veena' or id=8
+
+3. SELECT Name, Remarks
+FROM TS_Company_Master
+    WHERE name IN ('Ammu', 'Veena','priya', 'Jenifar')
+
+4. SELECT Name, Remarks
+FROM TS_Company_Master
+    WHERE name not IN ('Ammu', 'Veena','priya', 'Jenifar')
+
+5. select * from TS_Purchse_detail  where header_id in(select id from TS_Purchse_Header where purchase_no not in('A001','A003'))
+
+6. select * from TS_Company_Master where id >=2
+
+7. select * from TS_Company_Master where id >2
+
+8. select * from TS_Company_Master where id <=2
+
+9. select * from TS_Company_Master where id <2
+
+10. select * from TS_Company_Master where id = 2
+
+11. select * from TS_Company_Master where id between 2 and 4
+
+
+gRoup by
+--------
+select name from TS_Company_Master group by name
+select name,Count(*) from TS_Company_Master group by name
+select name,count(name) from TS_Company_Master where name='ammu' group by name
+
+
+Condition having
+------------------------
+select name,count(*) from TS_Company_Master group by name having max(id)>4
+select name from TS_Company_Master group by name having avg(id)>1
+
+Oder by
+-----------
+Ascending,Desc
+
+select name from TS_Company_Master order by name
+select name from TS_Company_Master order by name desc
+select * from ts_company_master where order by name desc
+
+
+Distinct
+------------
+select distinct(name) from TS_Company_Master
+
+cast,convert
+-------------------
+SELECT CAST(10.6496 AS int) 
+
+SELECT CAST(10.3496847 AS money)
+
+SELECT 'The salary is ' + CAST(salary AS varchar(12)) AS Salary
+FROM employee
+WHERE salary BETWEEN 2000 AND 3000
+
+
+
+
+
