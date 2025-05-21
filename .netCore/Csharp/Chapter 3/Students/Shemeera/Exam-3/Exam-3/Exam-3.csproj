@@ -3,11 +3,15 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+<<<<<<< HEAD
 <<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Students/Shemeera/Exam-3/Exam-3/Exam-3.csproj
     <RootNamespace>Exam_3</RootNamespace>
 ========
     <RootNamespace>c_mainexammm</RootNamespace>
 >>>>>>>> 5a0410bdae39117bddb4223f3c76dce48817305a:.netCore/c# exam/c#mainexammm/c#mainexammm.csproj
+=======
+    <RootNamespace>Exam_3</RootNamespace>
+>>>>>>> b077ca0a6f5a017181bd795ee991308f5d2394ed
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

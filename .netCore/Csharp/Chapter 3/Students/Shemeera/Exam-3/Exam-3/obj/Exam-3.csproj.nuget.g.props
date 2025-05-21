@@ -5,20 +5,28 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD
 <<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Students/Shemeera/Exam-3/Exam-3/obj/Exam-3.csproj.nuget.g.props
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\razal\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
 ========
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mohammed sageer\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
 >>>>>>>> 5a0410bdae39117bddb4223f3c76dce48817305a:.netCore/c# exam/c#mainexammm/obj/c#mainexammm.csproj.nuget.g.props
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\razal\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+>>>>>>> b077ca0a6f5a017181bd795ee991308f5d2394ed
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.2</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
 <<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Students/Shemeera/Exam-3/Exam-3/obj/Exam-3.csproj.nuget.g.props
     <SourceRoot Include="C:\Users\razal\.nuget\packages\" />
 ========
     <SourceRoot Include="C:\Users\mohammed sageer\.nuget\packages\" />
 >>>>>>>> 5a0410bdae39117bddb4223f3c76dce48817305a:.netCore/c# exam/c#mainexammm/obj/c#mainexammm.csproj.nuget.g.props
+=======
+    <SourceRoot Include="C:\Users\razal\.nuget\packages\" />
+>>>>>>> b077ca0a6f5a017181bd795ee991308f5d2394ed
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
 </Project>
