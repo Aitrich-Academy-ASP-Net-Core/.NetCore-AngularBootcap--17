@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\razal\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+      "projectUniqueName": "C:\\activity 2\\Library management\\Library managementneha.csproj",
+      "projectName": "Library managementneha",
+      "projectPath": "C:\\activity 2\\Library management\\Library managementneha.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\activity 2\\Library management\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "projectName": "TaskManagementSystemss",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "projectName": "TaskManagementSystemss",
+      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\obj\\",
+=======
+      "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "projectName": "TaskManagementSystemss",
+      "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\TaskManagementSystemss.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Collections\\TaskManagementSystem\\TaskManagementSystem\\obj\\",
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+      },
+      "SdkAnalysisLevel": "9.0.200"
+=======
+<<<<<<< HEAD
+      },
+      "SdkAnalysisLevel": "9.0.200"
+=======
+<<<<<<< HEAD
+      },
+      "SdkAnalysisLevel": "9.0.200"
+=======
+      }
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+<<<<<<< HEAD:.netCore/Csharp/Chapter 3/Machinetest neha/Library managementneha/obj/project.assets.json
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 5667952bbedb287ec6672acd6f73df993bb10048
+>>>>>>> b9462e99ed4039b66818133eb4c9502464bb077b
+>>>>>>> 54dffd72696d957b2cfb137694cb39783671df35:.netCore/Csharp/Chapter 3/Collections/TaskManagementSystem/TaskManagementSystem/obj/project.assets.json
+      }
+    }
+  }
+}
