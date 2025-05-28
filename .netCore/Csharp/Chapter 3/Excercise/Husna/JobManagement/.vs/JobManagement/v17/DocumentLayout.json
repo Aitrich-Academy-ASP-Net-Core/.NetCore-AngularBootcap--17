@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\Chapter3\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\manager\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:manager\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\manager\\jobprovidermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:manager\\jobprovidermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\manager\\jobseekermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:manager\\jobseekermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\exceptions\\jobnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:exceptions\\jobnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\exceptions\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:exceptions\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|c:\\asp.net\\chapter3\\jobmanagement\\exceptions\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1147F074-D8AB-41D1-A054-DBBC8FFE2343}|JobManagement.csproj|solutionrelative:exceptions\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Manager\\MainMenuManager.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\MainMenuManager.cs",
+              "RelativeToolTip": "Manager\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:18:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobSeekerManager.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\JobSeekerManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobSeekerManager.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\JobSeekerManager.cs",
+              "RelativeToolTip": "Manager\\JobSeekerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:16:12.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobProviderManager.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\JobProviderManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobProviderManager.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Manager\\JobProviderManager.cs",
+              "RelativeToolTip": "Manager\\JobProviderManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:13:13.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobNotFoundException.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\JobNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\JobNotFoundException.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\JobNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\JobNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:12:06.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvalidLoginException.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\InvalidLoginException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidLoginException.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\InvalidLoginException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidLoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:10:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidChoiceException.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\InvalidChoiceException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidChoiceException.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Exceptions\\InvalidChoiceException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidChoiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:08:42.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMenu.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "Interfaces\\IMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:55:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobRepository.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IJobRepository.cs",
+              "RelativeToolTip": "Interfaces\\IJobRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:54:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:53:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:49:37.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:15:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Enum\\Roles.cs",
+              "RelativeDocumentMoniker": "Enum\\Roles.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Enum\\Roles.cs",
+              "RelativeToolTip": "Enum\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:12:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\Chapter3\\JobManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Asp.net\\Chapter3\\JobManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:23:24.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
