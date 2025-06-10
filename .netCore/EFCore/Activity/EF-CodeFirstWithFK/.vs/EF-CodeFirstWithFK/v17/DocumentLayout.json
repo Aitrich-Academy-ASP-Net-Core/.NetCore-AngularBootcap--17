@@ -1,12 +1,63 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17933E3C-0676-4FDB-A348-E1284709AC0E}|EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\efcore\\activity\\ef-codefirstwithfk\\ef-codefirstwithfk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17933E3C-0676-4FDB-A348-E1284709AC0E}|EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj|solutionrelative:ef-codefirstwithfk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17933E3C-0676-4FDB-A348-E1284709AC0E}|EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\efcore\\activity\\ef-codefirstwithfk\\ef-codefirstwithfk\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17933E3C-0676-4FDB-A348-E1284709AC0E}|EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj|solutionrelative:ef-codefirstwithfk\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstWithFK\\Model\\Student.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\Model\\Student.cs",
+              "RelativeToolTip": "EF-CodeFirstWithFK\\Model\\Student.cs",
+              "ViewState": "AgIAAAwAAACQ/////389wBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:53:21.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\Program.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstWithFK\\Program.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\Program.cs",
+              "RelativeToolTip": "EF-CodeFirstWithFK\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAnpmZmRkwwI4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:12:10.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
     }
   ]
 }

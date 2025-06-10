@@ -4734,23 +4734,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Laptop\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
       "projectName": "EF-CodeFirstWithFK",
       "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\obj\\",
+=======
+      "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
+      "projectName": "EF-CodeFirstWithFK",
+      "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\obj\\",
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

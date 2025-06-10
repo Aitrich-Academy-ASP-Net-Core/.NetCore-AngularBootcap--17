@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\",
+=======
+  "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\",
+>>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
   "Documents": [],
   "DocumentGroupContainers": [
     {
