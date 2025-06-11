@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d5fd96892bff4d3ab5b94e24a6705940cee46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
