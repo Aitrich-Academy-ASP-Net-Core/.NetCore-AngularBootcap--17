@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "codefirstexec/1.0.0": {
+        "runtime": {
+          "codefirstexec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "codefirstexec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
