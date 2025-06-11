@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\ENROLLMENTSTUDENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|d:\\c#\\enrollmentstudent\\enrollmentstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|solutionrelative:enrollmentstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|d:\\c#\\enrollmentstudent\\enrollmentstudent\\migrations\\20250610054910_studentsenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|solutionrelative:enrollmentstudent\\migrations\\20250610054910_studentsenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|d:\\c#\\enrollmentstudent\\enrollmentstudent\\models\\enrollmentstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|solutionrelative:enrollmentstudent\\models\\enrollmentstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|d:\\c#\\enrollmentstudent\\enrollmentstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|solutionrelative:enrollmentstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|d:\\c#\\enrollmentstudent\\enrollmentstudent\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883A691-0056-45A9-9F8E-400A3A6CD4B3}|ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT.csproj|solutionrelative:enrollmentstudent\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250610054910_studentsenrollment.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Migrations\\20250610054910_studentsenrollment.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Migrations\\20250610054910_studentsenrollment.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Migrations\\20250610054910_studentsenrollment.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Migrations\\20250610054910_studentsenrollment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:49:11.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Models\\Subject.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\Subject.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:16:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentStudentContext.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\EnrollmentStudentContext.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Models\\EnrollmentStudentContext.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\EnrollmentStudentContext.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Models\\EnrollmentStudentContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:19:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Models\\Student.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Models\\Student.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:16:57.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Program.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Program.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Program.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwGYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:07:37.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250610053958_Enrollment.cs",
+              "DocumentMoniker": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs",
+              "RelativeDocumentMoniker": "ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs",
+              "ToolTip": "D:\\c#\\ENROLLMENTSTUDENT\\ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs",
+              "RelativeToolTip": "ENROLLMENTSTUDENT\\Migrations\\20250610053958_Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:39:58.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
