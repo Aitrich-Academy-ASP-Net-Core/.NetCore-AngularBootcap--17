@@ -1,0 +1,5 @@
+C:\Users\mohammed sageer\source\repos\dbfirstexec\obj\Debug\net8.0\dbfirstexec.csproj.AssemblyReference.cache
+C:\Users\mohammed sageer\source\repos\dbfirstexec\obj\Debug\net8.0\dbfirstexec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\dbfirstexec\obj\Debug\net8.0\dbfirstexec.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\dbfirstexec\obj\Debug\net8.0\dbfirstexec.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\dbfirstexec\obj\Debug\net8.0\dbfirstexec.csproj.CoreCompileInputs.cache
