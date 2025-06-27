@@ -1,0 +1,14 @@
+C:\Users\mohammed sageer\source\repos\codefirstexec\bin\Debug\net8.0\codefirstexec.exe
+C:\Users\mohammed sageer\source\repos\codefirstexec\bin\Debug\net8.0\codefirstexec.deps.json
+C:\Users\mohammed sageer\source\repos\codefirstexec\bin\Debug\net8.0\codefirstexec.runtimeconfig.json
+C:\Users\mohammed sageer\source\repos\codefirstexec\bin\Debug\net8.0\codefirstexec.dll
+C:\Users\mohammed sageer\source\repos\codefirstexec\bin\Debug\net8.0\codefirstexec.pdb
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.csproj.CoreCompileInputs.cache
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.dll
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\refint\codefirstexec.dll
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.pdb
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\codefirstexec.genruntimeconfig.cache
+C:\Users\mohammed sageer\source\repos\codefirstexec\obj\Debug\net8.0\ref\codefirstexec.dll
