@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Workshop\\JobManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 7\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 7\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\migrations\\20250702184040_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\migrations\\20250702184040_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IJobService.cs",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
-              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
-              "RelativeToolTip": "JobManagement\\Interface\\IJobService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "20250702184040_data.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Migrations\\20250702184040_data.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Migrations\\20250702184040_data.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Migrations\\20250702184040_data.cs",
+              "RelativeToolTip": "JobManagement\\Migrations\\20250702184040_data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:09:33.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T18:40:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:39:41.729Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:09:33.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "IJobRepository.cs",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
               "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobRepository.cs",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
               "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T04:39:29.373Z",
               "EditorCaption": ""

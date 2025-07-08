@@ -1,0 +1,30 @@
+﻿@page
+@model WebApplication1.Pages.Mypage.CreateModel
+@{
+}
+<h2>Add New Student</h2>
+<br />
+<form method="post">
+    <div class="form-group">
+        <label asp-for="StudDto.Name"></label>
+        <input asp-for="StudDto.Name" class="form-control" />
+        <span asp-validation-for="StudDto.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StudDto.Age"></label>
+        <input asp-for="StudDto.Age" class="form-control" />
+        <span asp-validation-for="StudDto.Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StudDto.Course"></label>
+        <input asp-for="StudDto.Course" class="form-control" />
+        <span asp-validation-for="StudDto.Course" class="text-danger"></span>
+    </div>
+    <br />
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+

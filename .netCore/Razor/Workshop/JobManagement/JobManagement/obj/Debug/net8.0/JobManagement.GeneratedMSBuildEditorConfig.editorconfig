@@ -17,55 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JobManagement
 build_property.RootNamespace = JobManagement
-build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 7\Workshop\JobManagement\JobManagement\
+build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.netCore\Razor\Workshop\JobManagement\JobManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 7\Workshop\JobManagement\JobManagement
+build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore\Razor\Workshop\JobManagement\JobManagement
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Error.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/home.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Job/Create.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Job/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Job/Delete.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Job/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Job/Edit.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Job/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Job/Index.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Job/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Privacy.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/_ViewImports.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/_ViewStart.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Reeshma/.netCore Bootcamp/15.batch 15/.NetCore-FS-15/Chapter 7/Workshop/JobManagement/JobManagement/Pages/Shared/_Layout.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Workshop/JobManagement/JobManagement/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fma97w8xae

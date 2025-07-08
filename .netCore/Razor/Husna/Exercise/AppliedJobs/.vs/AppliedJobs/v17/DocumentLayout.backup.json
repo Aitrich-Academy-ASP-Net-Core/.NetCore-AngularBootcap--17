@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\appliedj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\appliedj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\appliedj.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\appliedj.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\pages\\mypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:pages\\mypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\appliedjobs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:appliedjobs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\migrations\\20250704045210_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:migrations\\20250704045210_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exercise\\appliedjobs\\migrations\\20250703195057_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94900186-BE40-4393-8B36-858BA3866D64}|AppliedJobs.csproj|solutionrelative:migrations\\20250703195057_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:50:32.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppliedJ.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\AppliedJ.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\AppliedJ.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\AppliedJ.cshtml.cs",
+              "RelativeToolTip": "Pages\\MyPage\\AppliedJ.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:06:08.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppliedJ.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\AppliedJ.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\AppliedJ.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\AppliedJ.cshtml",
+              "RelativeToolTip": "Pages\\MyPage\\AppliedJ.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:05:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\MyPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:03:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Index.cshtml",
+              "RelativeToolTip": "Pages\\MyPage\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T18:02:18.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\MyPage\\Login.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:57:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\MyPage\\Register.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:55:17.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Login.cshtml",
+              "RelativeToolTip": "Pages\\MyPage\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T17:54:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MyPage\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Pages\\MyPage\\Register.cshtml",
+              "RelativeToolTip": "Pages\\MyPage\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T17:53:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:50:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:46:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:40:09.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Service\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\ApplicationService.cs",
+              "RelativeToolTip": "Service\\ApplicationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:35:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repository\\ApplicationRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:32:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IApplicationRepository.cs",
+              "RelativeToolTip": "Interface\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:30:32.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IApplicationService.cs",
+              "RelativeToolTip": "Interface\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:39:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:38:12.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-07-04T05:37:38.672Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:30:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:29:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Service\\JobService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Service\\JobService.cs",
+              "RelativeToolTip": "Service\\JobService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:03:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:01:36.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250704045210_first.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Migrations\\20250704045210_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250704045210_first.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Migrations\\20250704045210_first.cs",
+              "RelativeToolTip": "Migrations\\20250704045210_first.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:52:10.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:54:18.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250703195057_start.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Migrations\\20250703195057_start.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250703195057_start.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Migrations\\20250703195057_start.cs",
+              "RelativeToolTip": "Migrations\\20250703195057_start.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:50:58.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:38:22.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:36:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T19:34:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\ApplicationDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ApplicationDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\ApplicationDto.cs",
+              "RelativeToolTip": "Dto\\ApplicationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:07:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "Dto\\JobDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\JobDto.cs",
+              "RelativeToolTip": "Dto\\JobDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:07:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:07:09.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppliedJobs.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\AppliedJobs.csproj",
+              "RelativeDocumentMoniker": "AppliedJobs.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\AppliedJobs.csproj",
+              "RelativeToolTip": "AppliedJobs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T19:02:15.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:00:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "Model\\Application.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\Application.cs",
+              "RelativeToolTip": "Model\\Application.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:45:42.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:44:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Model\\Job.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exercise\\AppliedJobs\\Model\\Job.cs",
+              "RelativeToolTip": "Model\\Job.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:41:43.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
