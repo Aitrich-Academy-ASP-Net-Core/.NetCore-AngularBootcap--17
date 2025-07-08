@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\pages\\userlogin\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\pages\\userlogin\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\pages\\userlogin\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\pages\\userlogin\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\pages\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\pages\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\pages\\userlogin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\pages\\userlogin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|d:\\c#\\login\\login\\migrations\\20250630054023_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34333C4-9CD5-4C76-B679-2BEB245CA785}|Login\\Login.csproj|solutionrelative:login\\migrations\\20250630054023_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Login\\Pages\\Userlogin\\Login.cshtml.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Login.cshtml.cs",
+              "RelativeToolTip": "Login\\Pages\\Userlogin\\Login.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:43:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Register.cshtml",
+              "RelativeDocumentMoniker": "Login\\Pages\\Userlogin\\Register.cshtml",
+              "ToolTip": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Register.cshtml",
+              "RelativeToolTip": "Login\\Pages\\Userlogin\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T05:41:19.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250630054023_login.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Migrations\\20250630054023_login.cs",
+              "RelativeDocumentMoniker": "Login\\Migrations\\20250630054023_login.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Migrations\\20250630054023_login.cs",
+              "RelativeToolTip": "Login\\Migrations\\20250630054023_login.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:40:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:35:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\User.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Model\\User.cs",
+              "RelativeToolTip": "Login\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:31:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Login\\Pages\\Userlogin\\Register.cshtml.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Register.cshtml.cs",
+              "RelativeToolTip": "Login\\Pages\\Userlogin\\Register.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:41:51.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Login\\Pages\\Userlogin\\Login.cshtml",
+              "ToolTip": "D:\\c#\\Login\\Login\\Pages\\Userlogin\\Login.cshtml",
+              "RelativeToolTip": "Login\\Pages\\Userlogin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T05:41:49.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Login\\appsettings.json",
+              "ToolTip": "D:\\c#\\Login\\Login\\appsettings.json",
+              "RelativeToolTip": "Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T05:33:54.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Login\\Model\\UserDbContext.cs",
+              "ToolTip": "D:\\c#\\Login\\Login\\Model\\UserDbContext.cs",
+              "RelativeToolTip": "Login\\Model\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:32:03.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.csproj",
+              "DocumentMoniker": "D:\\c#\\Login\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "D:\\c#\\Login\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T05:31:06.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

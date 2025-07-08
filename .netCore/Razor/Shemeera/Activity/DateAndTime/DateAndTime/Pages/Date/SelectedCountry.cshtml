@@ -1,0 +1,13 @@
+﻿@page
+@model DateAndTime.Pages.Date.SelectedCountryModel
+@{
+}
+<h2>Select a Country</h2>
+
+<form method="post">
+    <label>Select a country:</label>
+    <select asp-for="CountryData.SelectedCountry" asp-items="Model.Countries" class="form-control"></select>
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+</form>
+
+
