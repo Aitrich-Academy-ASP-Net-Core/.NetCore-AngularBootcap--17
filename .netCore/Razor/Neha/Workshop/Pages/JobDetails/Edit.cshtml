@@ -1,0 +1,53 @@
+﻿@page
+@model Workshop.Pages.JobDetails.EditModel
+@{
+    ViewData["Title"] = "Edit Job";
+}
+<form method="post">
+    <input type="hidden" asp-for="JobPost.Id"/>
+    <div class="form-group">
+        <label asp-for="JobPost.Jobtitle" class="control-label"></label>
+        <input asp-for="JobPost.Jobtitle" class="form-control" />
+        <span asp-validation-for="JobPost.Jobtitle" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.Company" class="control-label"></label>
+        <input asp-for="JobPost.Company" class="form-control" />
+        <span asp-validation-for="JobPost.Company" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.Location" class="control-label"></label>
+        <input asp-for="JobPost.Location" class="form-control" />
+        <span asp-validation-for="JobPost.Location" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.Employmenttype" class="control-label"></label>
+        <input asp-for="JobPost.Employmenttype" class="form-control" />
+        <span asp-validation-for="JobPost.Employmenttype" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.Salary" class="control-label"></label>
+        <input asp-for="JobPost.Salary" class="form-control" />
+        <span asp-validation-for="JobPost.Salary" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.JobDescription" class="control-label"></label>
+        <input asp-for="JobPost.JobDescription" class="form-control" />
+        <span asp-validation-for="JobPost.JobDescription" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="JobPost.Requirements" class="control-label"></label>
+        <input asp-for="JobPost.Requirements" class="form-control" />
+        <span asp-validation-for="JobPost.Requirements" class="text-danger"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="Index" class="btn btn-primary">Cancel</a>
+
+</form>

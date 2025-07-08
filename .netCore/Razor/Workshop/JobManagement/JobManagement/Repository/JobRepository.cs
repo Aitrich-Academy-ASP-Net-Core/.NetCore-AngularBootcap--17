@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿
+using AutoMapper;
 using JobManagement.Dto;
 using JobManagement.Interface;
 using JobManagement.Model;
