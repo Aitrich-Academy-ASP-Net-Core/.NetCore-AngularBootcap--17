@@ -150,3 +150,12 @@ C:\activity 2\EF data fest 2\obj\Debug\net8.0\refint\EF data fest 2.dll
 C:\activity 2\EF data fest 2\obj\Debug\net8.0\EF data fest 2.pdb
 C:\activity 2\EF data fest 2\obj\Debug\net8.0\EF data fest 2.genruntimeconfig.cache
 C:\activity 2\EF data fest 2\obj\Debug\net8.0\ref\EF data fest 2.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.csproj.AssemblyReference.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.AssemblyInfoInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.AssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.sourcelink.json
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\refint\EF data fest 2.dll
+C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Neha\Act 1-6\EF data fest 2\obj\Debug\net8.0\EF data fest 2.pdb
