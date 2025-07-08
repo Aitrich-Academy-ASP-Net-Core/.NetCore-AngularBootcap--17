@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {}
+    "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {}
   },
   "projects": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {
+    "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+        "projectUniqueName": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
         "projectName": "RazorEmployeeManagement",
-        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\obj\\",
+        "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
+        "outputPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

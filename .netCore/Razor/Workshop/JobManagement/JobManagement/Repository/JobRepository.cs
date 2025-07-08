@@ -10,7 +10,6 @@ namespace JobManagement.Repository
     {
         private readonly ApplicationDbContext _context;
         private readonly IMapper _mapper;
-
         public JobRepository(ApplicationDbContext context, IMapper mapper)
         {
             _context = context;

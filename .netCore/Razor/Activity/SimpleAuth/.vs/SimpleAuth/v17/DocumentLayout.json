@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 7\\Activity\\SimpleAuth\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\migrations\\20250701051211_initialll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\migrations\\20250701051211_initialll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T05:43:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:54:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250701051211_Initialll.cs",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250701051211_Initialll.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Migrations\\20250701051211_Initialll.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250701051211_Initialll.cs",
+              "RelativeToolTip": "SimpleAuth\\Migrations\\20250701051211_Initialll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:12:11.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleAuth\\appsettings.json",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "RelativeToolTip": "SimpleAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T05:09:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T05:03:56.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
