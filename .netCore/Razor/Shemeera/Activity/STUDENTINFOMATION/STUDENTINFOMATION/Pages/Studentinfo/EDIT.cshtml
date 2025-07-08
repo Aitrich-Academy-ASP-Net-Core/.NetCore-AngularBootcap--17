@@ -1,0 +1,35 @@
+﻿@page "{Id:int}"
+@model STUDENTINFOMATION.Pages.Studentinfo.EDITModel
+@{
+}
+<h2>Update Student</h2>
+
+<form method="Post">
+	<input type="hidden" asp-for="Student.StudentId" />
+
+	<div class="mb-3">
+		<label>StuentName</label>
+
+		<input asp-for="Student.StudentName" class="form-control" />
+
+
+	</div>
+
+	<div class="mb-3">
+		<label>EMAIL</label>
+		<input asp-for="Student.StudentEmail" class="form-control" />
+
+
+	</div>
+
+	<div class="mb-3">
+		<label>COURSE</label>
+		<input asp-for="Student.Course" class="form-control" />
+
+
+	</div>
+
+	<button type="submit" class="btn btn-success">UPDATE</button>
+	<a asp-page="Index" class="btn btn-primary">Cancel</a>
+
+</form>

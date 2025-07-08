@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\SchoolIdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F8ED12-F14E-4E0E-BE79-FE9D73ACE6C7}|SchoolIdb\\SchoolIdb.csproj|d:\\c#\\schoolidb\\schoolidb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F8ED12-F14E-4E0E-BE79-FE9D73ACE6C7}|SchoolIdb\\SchoolIdb.csproj|solutionrelative:schoolidb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F8ED12-F14E-4E0E-BE79-FE9D73ACE6C7}|SchoolIdb\\SchoolIdb.csproj|d:\\c#\\schoolidb\\schoolidb\\modals\\schoolidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F8ED12-F14E-4E0E-BE79-FE9D73ACE6C7}|SchoolIdb\\SchoolIdb.csproj|solutionrelative:schoolidb\\modals\\schoolidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolidbContext.cs",
+              "DocumentMoniker": "D:\\c#\\SchoolIdb\\SchoolIdb\\Modals\\SchoolidbContext.cs",
+              "RelativeDocumentMoniker": "SchoolIdb\\Modals\\SchoolidbContext.cs",
+              "ToolTip": "D:\\c#\\SchoolIdb\\SchoolIdb\\Modals\\SchoolidbContext.cs",
+              "RelativeToolTip": "SchoolIdb\\Modals\\SchoolidbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:34:18.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\SchoolIdb\\SchoolIdb\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolIdb\\Program.cs",
+              "ToolTip": "D:\\c#\\SchoolIdb\\SchoolIdb\\Program.cs",
+              "RelativeToolTip": "SchoolIdb\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:25:44.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

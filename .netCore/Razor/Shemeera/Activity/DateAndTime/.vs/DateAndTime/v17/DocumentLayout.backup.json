@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\DateAndTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\pages\\date\\selectedcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\pages\\date\\selectedcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\pages\\date\\selectedcountry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\pages\\date\\selectedcountry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\pages\\date\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\pages\\date\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\model\\countrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\model\\countrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\pages\\date\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\pages\\date\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|d:\\c#\\dateandtime\\dateandtime\\migrations\\20250620082116_country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494BCE62-64D1-452B-ACA9-34F3BF76F4E4}|DateAndTime\\DateAndTime.csproj|solutionrelative:dateandtime\\migrations\\20250620082116_country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectedCountry.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\SelectedCountry.cshtml.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Pages\\Date\\SelectedCountry.cshtml.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\SelectedCountry.cshtml.cs",
+              "RelativeToolTip": "DateAndTime\\Pages\\Date\\SelectedCountry.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:43:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryContext.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Model\\CountryContext.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Model\\CountryContext.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Model\\CountryContext.cs",
+              "RelativeToolTip": "DateAndTime\\Model\\CountryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:16:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectedCountry.cshtml",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\SelectedCountry.cshtml",
+              "RelativeDocumentMoniker": "DateAndTime\\Pages\\Date\\SelectedCountry.cshtml",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\SelectedCountry.cshtml",
+              "RelativeToolTip": "DateAndTime\\Pages\\Date\\SelectedCountry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T10:43:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\Index.cshtml",
+              "RelativeDocumentMoniker": "DateAndTime\\Pages\\Date\\Index.cshtml",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\Index.cshtml",
+              "RelativeToolTip": "DateAndTime\\Pages\\Date\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T08:22:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Pages\\Date\\Index.cshtml.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Pages\\Date\\Index.cshtml.cs",
+              "RelativeToolTip": "DateAndTime\\Pages\\Date\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:24:05.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Model\\Country.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Model\\Country.cs",
+              "RelativeToolTip": "DateAndTime\\Model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:15:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\appsettings.json",
+              "RelativeDocumentMoniker": "DateAndTime\\appsettings.json",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\appsettings.json",
+              "RelativeToolTip": "DateAndTime\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T08:13:34.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Program.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Program.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Program.cs",
+              "RelativeToolTip": "DateAndTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:18:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250620082116_Country.cs",
+              "DocumentMoniker": "D:\\c#\\DateAndTime\\DateAndTime\\Migrations\\20250620082116_Country.cs",
+              "RelativeDocumentMoniker": "DateAndTime\\Migrations\\20250620082116_Country.cs",
+              "ToolTip": "D:\\c#\\DateAndTime\\DateAndTime\\Migrations\\20250620082116_Country.cs",
+              "RelativeToolTip": "DateAndTime\\Migrations\\20250620082116_Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:21:16.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\",
   "Documents": [
     {
@@ -23,10 +24,15 @@
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\migrations\\20250701051211_initialll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\",
+  "Documents": [],
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -100,6 +106,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
     }
   ]
 }
