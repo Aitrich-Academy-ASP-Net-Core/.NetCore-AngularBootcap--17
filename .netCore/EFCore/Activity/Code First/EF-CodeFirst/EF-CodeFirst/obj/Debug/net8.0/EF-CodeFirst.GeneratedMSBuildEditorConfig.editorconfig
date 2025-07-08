@@ -20,11 +20,19 @@ build_property.RootNamespace = EF_CodeFirst
 build_property.ProjectDir = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\EFCore\Activity\Code First\EF-CodeFirst\EF-CodeFirst\
 =======
 <<<<<<< HEAD
+build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\EFCore\Activity\Code First\EF-CodeFirst\EF-CodeFirst\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\EFCore\Activity\Code First\EF-CodeFirst\EF-CodeFirst\
+=======
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\EFCore\Activity\Code First\EF-CodeFirst\EF-CodeFirst\
 =======
 build_property.ProjectDir = C:\batch 17 repo\.NetCore-AngularBootcap--17\.netCore\EFCore\Activity\Code First\EF-CodeFirst\EF-CodeFirst\
 >>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
 >>>>>>> b53938cb2e245e2c297742f3c51cb7c9f69adb60
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

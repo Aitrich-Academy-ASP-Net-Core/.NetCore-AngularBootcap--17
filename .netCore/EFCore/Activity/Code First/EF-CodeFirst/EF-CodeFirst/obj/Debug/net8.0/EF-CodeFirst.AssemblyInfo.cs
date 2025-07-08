@@ -15,10 +15,18 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f1939bc0cc19b49e5341f8860073a2736875514")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623c793e15f26b768093bab84d023cb02fc607ef")]
+=======
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2d5a3219b06d67360988f0bcc4de23e40c83bd")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623c793e15f26b768093bab84d023cb02fc607ef")]
 >>>>>>> b53938cb2e245e2c297742f3c51cb7c9f69adb60
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
 [assembly: System.Reflection.AssemblyProductAttribute("EF-CodeFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF-CodeFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

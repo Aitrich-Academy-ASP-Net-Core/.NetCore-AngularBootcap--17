@@ -2,6 +2,22 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
+  },
+  "projects": {
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
+        "projectName": "EF-CodeFirst",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
+=======
+<<<<<<< HEAD
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
     "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
   },
   "projects": {
@@ -13,6 +29,8 @@
         "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
         "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
+<<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
@@ -40,6 +58,8 @@
         "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
 >>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
 >>>>>>> b53938cb2e245e2c297742f3c51cb7c9f69adb60
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,11 +69,19 @@
           "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
 <<<<<<< HEAD
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 92d2463f99dd465266e2d03058a6b3d24973db71
 >>>>>>> b53938cb2e245e2c297742f3c51cb7c9f69adb60
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,6 +90,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+          "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,8 +111,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< HEAD
+        }
+=======
         },
         "SdkAnalysisLevel": "9.0.200"
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
       },
       "frameworks": {
         "net8.0": {
@@ -120,8 +156,16 @@
 <<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
 =======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
 >>>>>>> b53938cb2e245e2c297742f3c51cb7c9f69adb60
+>>>>>>> 73eee7309864438575fe2081aa7534bdfa3311e7
+>>>>>>> 775a87e32f9c7f245924bac4791db27c6fa56b45
         }
       }
     }

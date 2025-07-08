@@ -1,0 +1,43 @@
+﻿@page
+@model STUDENTINFOMATION.Pages.Studentinfo.IndexModel
+@{
+}
+<h2>List Student Data</h2>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>StudentName</th>
+			<th>Email</th>
+			<th>StudentCourse</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+
+		@foreach (var stud in Model.Students)
+		{
+			<tr>
+				<td>@stud.StudentId</td>
+				<td>@stud.StudentName</td>
+				<td>@stud.StudentEmail</td>
+				<td>@stud.Course</td>
+
+				<td>
+
+					<a asp-page="Edit" asp-route-id="@stud.StudentId" class="btn btn-success">EDIT</a>
+					<a asp-page="Delete" asp-route-id="@stud.StudentId" class="btn btn-danger">DELETE</a>
+				</td
+
+			</tr>
+
+		}
+
+
+	</tbody>
+
+
+
+
+
+</table>
