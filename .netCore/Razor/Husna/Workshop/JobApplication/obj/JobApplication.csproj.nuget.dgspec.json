@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Asp.net\\JobApplication\\JobApplication.csproj": {}
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\JobApplication.csproj": {}
   },
   "projects": {
-    "C:\\Asp.net\\JobApplication\\JobApplication.csproj": {
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\JobApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net\\JobApplication\\JobApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\JobApplication.csproj",
         "projectName": "JobApplication",
-        "projectPath": "C:\\Asp.net\\JobApplication\\JobApplication.csproj",
+        "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\JobApplication.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net\\JobApplication\\obj\\",
+        "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

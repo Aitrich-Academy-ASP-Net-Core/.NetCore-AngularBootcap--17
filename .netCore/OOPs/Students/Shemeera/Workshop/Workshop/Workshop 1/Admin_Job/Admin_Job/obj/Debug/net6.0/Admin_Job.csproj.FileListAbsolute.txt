@@ -1,0 +1,14 @@
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.exe
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.deps.json
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.runtimeconfig.json
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.dll
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.pdb
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.AssemblyInfoInputs.cache
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.AssemblyInfo.cs
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.csproj.CoreCompileInputs.cache
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.dll
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\refint\Admin_Job.dll
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.pdb
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.genruntimeconfig.cache
+D:\c#\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\ref\Admin_Job.dll

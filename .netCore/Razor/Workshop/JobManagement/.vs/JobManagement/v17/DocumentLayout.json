@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\",
   "Documents": [
     {
@@ -17,6 +18,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\migrations\\20250702184040_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\migrations\\20250702184040_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +50,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "20250702184040_data.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Migrations\\20250702184040_data.cs",
@@ -51,10 +72,23 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T17:39:41.729Z"
+=======
+              "DocumentIndex": 0,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobManagement\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:47:13.296Z",
+              "EditorCaption": ""
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "IJobService.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
               "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
@@ -73,9 +107,40 @@
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
               "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+=======
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wCYAAAAwAAAAAAAAAA==",
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T04:39:29.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T06:13:28.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:09:33.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:39:29.373Z"
             }
           ]
         }

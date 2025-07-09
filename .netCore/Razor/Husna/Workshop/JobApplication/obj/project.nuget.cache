@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XM8QHwFccIw=",
+  "dgSpecHash": "LYY+ARIxDm0=",
   "success": true,
-  "projectFilePath": "C:\\Asp.net\\JobApplication\\JobApplication.csproj",
+  "projectFilePath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Workshop\\JobApplication\\JobApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

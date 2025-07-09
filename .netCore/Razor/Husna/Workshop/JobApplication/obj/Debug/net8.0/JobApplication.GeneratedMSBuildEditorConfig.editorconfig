@@ -17,57 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JobApplication
 build_property.RootNamespace = JobApplication
-build_property.ProjectDir = C:\Asp.net\JobApplication\
+build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.netCore\Razor\Husna\Workshop\JobApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Asp.net\JobApplication
+build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore\Razor\Husna\Workshop\JobApplication
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Asp.net/JobApplication/Pages/Error.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Index.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Jobs/Create.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Jobs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9ic1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Jobs/Delete.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Jobs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9ic1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Jobs/Edit.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Jobs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9ic1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Jobs/Index.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Jobs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9ic1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Privacy.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/_ViewImports.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/_ViewStart.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/JobApplication/Pages/Shared/_Layout.cshtml]
+[C:/Users/Laptop/Batch17Aitrich/.netCore/Razor/Husna/Workshop/JobApplication/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q1s6q1qndl

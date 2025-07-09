@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\",
   "Documents": [
     {
@@ -37,6 +38,45 @@
     {
       "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
     }
   ],
   "DocumentGroupContainers": [
@@ -46,6 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -59,12 +100,41 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T07:42:00.818Z",
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:43:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:38:22.68Z",
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
@@ -72,14 +142,83 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T07:41:30.508Z"
+=======
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T07:38:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T07:41:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:42:00.818Z",
+              "EditorCaption": ""
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+<<<<<<< HEAD
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\appsettings.json",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
+=======
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T07:41:06.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:39:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
               "RelativeToolTip": "RazorEmployeeManagement\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -87,6 +226,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
@@ -156,6 +296,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T07:38:19.073Z"
+=======
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:36:57.356Z"
+>>>>>>> e1935d9f3730fa76d763337f9888d71d9bdcac43
             }
           ]
         }

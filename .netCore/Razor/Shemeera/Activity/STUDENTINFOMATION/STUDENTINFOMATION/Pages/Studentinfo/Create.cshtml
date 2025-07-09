@@ -1,0 +1,33 @@
+﻿@page
+@model STUDENTINFOMATION.Pages.Studentinfo.CreateModel
+@{
+}
+
+<a asp-page="Index" class="btn btn-primary">List STudents</a>
+
+<h1> ADD STUDENT</h1>
+<form method="post">
+
+
+	<div class="form-group">
+		<label asp-for=Student.StudentName>StudentName</label>
+		<input asp-for=Student.StudentName class="form-control" />
+		<span asp-validation-for="Student.StudentName"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Student.StudentEmail">Email</label>
+		<input asp-for="Student.StudentEmail" class="form-control" />
+		<span asp-validation-for="Student.StudentEmail" class="text-danger"></span>
+	</div>
+
+
+
+	<div class="form-group">
+		<label asp-for=Student.Course>Course</label>
+		<input asp-for=Student.Course class="form-control" />
+		<span asp-validation-for="Student.Course"></span>
+	</div>
+
+	<button type="submit" class="btn btn-outline-primary">SAVE</button>
+</form>

@@ -1,5 +1,6 @@
 ﻿using AppliedJobs.Dto;
 using AppliedJobs.Interface;
+
 using AppliedJobs.Model;
 using AppliedJobs.Repository;
 using AutoMapper;
