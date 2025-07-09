@@ -1,0 +1,12 @@
+﻿@page "{Id:int}"
+@model ExamRazor.Pages.Library.DeleteModel
+@{
+}
+<h2>Delete Book</h2>
+
+<p>Are you sure you want to delete the book titled "<strong>@Model.Book.Title</strong>" by @Model.Book.Author?</p>
+
+<form method="post">
+    <button type="submit">Yes, Delete</button>
+    <a href="/BookList">Cancel</a>
+</form>
