@@ -1,0 +1,31 @@
+﻿@page "{id:int}"
+@model WebApplication1.Pages.Mypage.EditModel
+@{
+    ViewData["Title"] = "Edit Student";
+}
+<h2>Edit Student</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="StudDto.Id" />
+
+    <div class="form-group">
+        <label asp-for="StudDto.Name"></label>
+        <input asp-for="StudDto.Name" class="form-control" />
+        <span asp-validation-for="StudDto.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StudDto.Age"></label>
+        <input asp-for="StudDto.Age" class="form-control" />
+        <span asp-validation-for="StudDto.Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StudDto.Course"></label>
+        <input asp-for="StudDto.Course" class="form-control" />
+        <span asp-validation-for="StudDto.Course" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,25 @@
+﻿@page
+@model LibraryManagement.Pages.Library.AddModel
+@{
+    ViewData["Title"] = "Add Book";
+}
+<h2>Add New Book</h2>
+
+<form method="post">
+    <div>
+        <label>Title</label>
+        <input asp-for="BookDto.Title" />
+    </div>
+    <div>
+        <label>Author</label>
+        <input asp-for="BookDto.Author" />
+    </div>
+    <div>
+        <label>Quantity</label>
+        <input asp-for="BookDto.Quantity" />
+    </div>
+    <button type="submit" class="btn btn-dark">Add Book</button>
+</form>
+<hr/>
+
+<a asp-page="/Library/Index1">Back to Book List</a>
