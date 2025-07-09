@@ -1,3 +1,4 @@
+using ExamRazor.Interface;
 using ExamRazor.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -6,27 +7,24 @@ namespace ExamRazor.Pages.Library
 {
     public class BookAddModel : PageModel
     {
-        private readonly LibraryDbContext _context;
+        private readonly ILibraryService _libraryService;
 
-        public BookAddModel(LibraryDbContext context)
+        public BookAddModel(ILibraryService libraryService)
         {
-            _context = context;
+            _libraryService = libraryService;
         }
 
         [BindProperty]
         public Book NewBook { get; set; }
 
-        public void OnGet()
-        {
-        }
+        
 
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
                 return Page();
 
-            _context.Books.Add(NewBook);
-            await _context.SaveChangesAsync();
+            await _libraryService.AddBookAsync(NewBook);
 
             return RedirectToPage("BookList");
         }

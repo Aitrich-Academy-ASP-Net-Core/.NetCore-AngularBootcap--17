@@ -19,7 +19,7 @@ namespace ExamRazor.Pages.Library
 
         public async Task OnGetAsync()
         {
-            Role = HttpContext.Session.GetString("Role") ?? "Guest";
+            Role = HttpContext.Session.GetString("Role") ;
             Books = await _service.GetAllBooksAsync();
         }
     }

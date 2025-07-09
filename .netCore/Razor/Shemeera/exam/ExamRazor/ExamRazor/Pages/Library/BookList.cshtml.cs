@@ -1,3 +1,4 @@
+using ExamRazor.Interface;
 using ExamRazor.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -7,18 +8,18 @@ namespace ExamRazor.Pages.Library
 {
     public class BookListModel : PageModel
     {
-        private readonly LibraryDbContext _context;
+        private readonly ILibraryService _libraryService;
 
-        public BookListModel(LibraryDbContext context)
+        public BookListModel(ILibraryService libraryService)
         {
-            _context = context;
+            _libraryService = libraryService;
         }
 
         public List<Book> Books { get; set; }
 
         public async Task OnGetAsync()
         {
-            Books = await _context.Books.ToListAsync();
+            Books = await _libraryService.GetAllBooksAsync();
         }
     }
 }

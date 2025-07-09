@@ -4722,23 +4722,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\activity 2\\EF data fest 2\\EF data fest 2.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Neha\\Act 1-6\\EF data fest 2\\EF data fest 2.csproj",
       "projectName": "EF data fest 2",
-      "projectPath": "C:\\activity 2\\EF data fest 2\\EF data fest 2.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\activity 2\\EF data fest 2\\obj\\",
+      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Neha\\Act 1-6\\EF data fest 2\\EF data fest 2.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Neha\\Act 1-6\\EF data fest 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

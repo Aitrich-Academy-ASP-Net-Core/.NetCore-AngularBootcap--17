@@ -22,7 +22,7 @@ namespace JobManagement.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("JobManagement.Model.Job", b =>
+            modelBuilder.Entity("JobManagement.Model.Jobs", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

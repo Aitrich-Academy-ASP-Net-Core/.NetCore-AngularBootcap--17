@@ -1,0 +1,18 @@
+﻿@page
+@model LibraryManagement.Pages.Library.TotalCountModel
+@{
+    ViewData["Title"] = "Total Book Count";
+}
+
+<h2>Total Book Count</h2>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}
+else
+{
+    <p><strong>Total books in library (sum of quantities):</strong> @Model.TotalCount</p>
+}
+
+<a asp-page="Index1">Back to Book List</a>

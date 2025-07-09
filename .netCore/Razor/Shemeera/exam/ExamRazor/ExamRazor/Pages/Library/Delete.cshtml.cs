@@ -8,36 +8,32 @@ namespace ExamRazor.Pages.Library
 {
     public class DeleteModel : PageModel
     {
-        private readonly ILibraryService _service;
-        public DeleteModel(LibraryService service)
+        private readonly ILibraryService _libraryService;
+
+        public DeleteModel(ILibraryService libraryService)
         {
-            _service = service;
+            _libraryService = libraryService;
         }
 
         [BindProperty]
-        public Book BookToDelete { get; set; }
+        public Book Book { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int id)
         {
-            BookToDelete = await _service.Books.FindAsync(id);
+            Book = await _libraryService.GetBookByIdAsync(id);
 
-            if (BookToDelete == null)
+            if (Book == null)
+            {
                 return NotFound();
+            }
 
             return Page();
         }
 
         public async Task<IActionResult> OnPostAsync(int id)
         {
-            var book = await _service.Books.FindAsync(id);
-
-            if (book == null)
-                return NotFound();
-
-            _service.Books.Remove(book);
-            await _service.SaveChangesAsync();
-
-            return RedirectToPage("BookList");
+            await _libraryService.DeleteBookAsync(id);
+            return RedirectToPage("BookList"); 
         }
     }
 }
