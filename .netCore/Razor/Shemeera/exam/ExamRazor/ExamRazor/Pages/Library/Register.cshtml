@@ -1,0 +1,34 @@
+﻿@page
+@model ExamRazor.Pages.Library.RegisterModel
+@{
+}
+<h2>User Registration</h2>
+
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form method="post">
+    <div>
+        <label asp-for="NewUser.Username"></label><br />
+        <input asp-for="NewUser.Username" class="form-control" />
+        <span asp-validation-for="NewUser.Username" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="NewUser.Password"></label><br />
+        <input asp-for="NewUser.Password" type="password" class="form-control" />
+        <span asp-validation-for="NewUser.Password" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="NewUser.Role"></label><br />
+        <select asp-for="NewUser.Role" class="form-control">
+            <option value="">-- Select Role --</option>
+            <option>User</option>
+            <option>Admin</option>
+        </select>
+        <span asp-validation-for="NewUser.Role" class="text-danger"></span>
+    </div>
+
+    <button type="submit">Register</button>
+</form>

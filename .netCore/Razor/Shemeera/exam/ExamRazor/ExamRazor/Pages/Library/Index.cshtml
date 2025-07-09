@@ -1,0 +1,13 @@
+﻿@page
+@model ExamRazor.Pages.Library.IndexModel
+@{
+}
+@if (Model.Role == "Admin")
+{
+    <a asp-page="/BookAdd">Add Book</a>
+}
+
+@foreach (var book in Model.Books)
+{
+    <div>@book.Title by @book.Author</div>
+}

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "JobManagement\\Repository\\JobRepository.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Repository\\JobRepository.cs",
               "RelativeToolTip": "JobManagement\\Repository\\JobRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T10:47:13.296Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Service\\JobService.cs",
               "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wCYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T06:13:28.67Z"
+              "WhenOpened": "2025-07-01T06:13:28.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +62,10 @@
               "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
               "RelativeToolTip": "JobManagement\\Interface\\IJobService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:09:33.775Z"
+              "WhenOpened": "2025-06-25T08:09:33.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T04:39:29.373Z"
+              "WhenOpened": "2025-06-25T04:39:29.373Z",
+              "EditorCaption": ""
             }
           ]
         }
