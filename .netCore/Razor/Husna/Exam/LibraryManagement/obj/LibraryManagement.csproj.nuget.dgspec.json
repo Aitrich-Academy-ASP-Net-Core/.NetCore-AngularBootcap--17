@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/obj/SimpleAuth.csproj.nuget.dgspec.json
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj": {}
+  },
+  "projects": {
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+        "projectName": "SimpleAuth",
+        "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\obj\\",
+=======
     "C:\\Asp.net\\LibraryManagement\\LibraryManagement.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Asp.net\\LibraryManagement\\LibraryManagement.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
         "outputPath": "C:\\Asp.net\\LibraryManagement\\obj\\",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Husna/Exam/LibraryManagement/obj/LibraryManagement.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/obj/SimpleAuth.csproj.nuget.dgspec.json
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Husna/Exam/LibraryManagement/obj/LibraryManagement.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

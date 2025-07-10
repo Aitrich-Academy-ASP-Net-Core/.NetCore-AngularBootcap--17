@@ -1,0 +1,28 @@
+﻿@page
+@model Library_Management.Pages.Library.CreateModel
+@{
+}
+
+
+<h2>Add Book</h2>
+
+<form method="post">
+    <div>
+        <label>Title</label>
+        <input asp-for="Books3.Title" class="form-control" />
+    </div>
+    <div>
+        <label>Author</label>
+        <input asp-for="Books3.Author" class="form-control" />
+    </div>
+    <div>
+        <label>Quantity</label>
+        <input asp-for="Books3.Quantity" type="number" class="form-control" />
+    </div>
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

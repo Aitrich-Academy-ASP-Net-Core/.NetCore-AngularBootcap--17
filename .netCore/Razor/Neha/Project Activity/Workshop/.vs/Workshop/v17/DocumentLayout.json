@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Activity\\Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\jobdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\jobdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\migrations\\20250702072108_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:migrations\\20250702072108_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|c:\\project activity\\workshop\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511911AB-6CD7-444D-B60E-77242C368727}|Workshop.csproj|solutionrelative:models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Create.cshtml",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Create.cshtml",
+              "RelativeToolTip": "Pages\\JobDetails\\Create.cshtml",
+              "ViewState": "AgIAABYAAACALzMzMzP7vyQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T16:29:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Edit.cshtml",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\JobDetails\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T04:45:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobDetails\\Edit.cshtml.cs",
+              "ViewState": "AgIAABgAAAAATGZmZmbmvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:06:07.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobRepo.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Repository\\JobRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepo.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Repository\\JobRepo.cs",
+              "RelativeToolTip": "Repository\\JobRepo.cs",
+              "ViewState": "AgIAABYAAADA/v///z8swB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:12:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAMAAABgZWZmZmYtwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:14:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "DTO\\JobDto.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\DTO\\JobDto.cs",
+              "RelativeToolTip": "DTO\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:34:16.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Index.cshtml",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Index.cshtml",
+              "RelativeToolTip": "Pages\\JobDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T07:06:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Index.cshtml.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobDetails\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:25:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAYAAADAMDMzMzMbwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:28:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Delete.cshtml",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\JobDetails\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T05:27:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobDetails\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:27:29.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobDetails\\Create.cshtml.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\JobDetails\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobDetails\\Create.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:30:52.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Services\\JobServices.cs",
+              "RelativeDocumentMoniker": "Services\\JobServices.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Services\\JobServices.cs",
+              "RelativeToolTip": "Services\\JobServices.cs",
+              "ViewState": "AgIAAAsAAABgwszMzMwWwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:26:40.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IJobservice.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Interfaces\\IJobservice.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobservice.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Interfaces\\IJobservice.cs",
+              "RelativeToolTip": "Interfaces\\IJobservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:23:18.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJobrepository.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Interfaces\\IJobrepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobrepository.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Interfaces\\IJobrepository.cs",
+              "RelativeToolTip": "Interfaces\\IJobrepository.cs",
+              "ViewState": "AgIAAAQAAAAAk5mZmZnxvw8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:23:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:32:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Project Activity\\Workshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T06:37:07.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAZmZmZmYUwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:38:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAABiPR4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:29:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250702072108_Initial.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Migrations\\20250702072108_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250702072108_Initial.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Migrations\\20250702072108_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250702072108_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:21:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "C:\\Project Activity\\Workshop\\Models\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobDbContext.cs",
+              "ToolTip": "C:\\Project Activity\\Workshop\\Models\\JobDbContext.cs",
+              "RelativeToolTip": "Models\\JobDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:21:46.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
