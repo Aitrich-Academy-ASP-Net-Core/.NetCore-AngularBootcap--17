@@ -1,0 +1,21 @@
+﻿@page
+@model LibraryManagementSystem.Pages.UserBook.LoginModel
+@{
+}
+<h2> Registration Successfully please login</h2>
+<form method="post">
+<div>
+	<label asp-for="Email">EmailAddress</label>
+	<input type="email" asp-for="Email" />
+	<span asp-validation-for="Email" class="text-danger"></span>
+</div>
+
+<div>
+	<label asp-for="Password">Password</label>
+	<input type="text" asp-for="Password" />
+	<span asp-validation-for="Password" class="text-danger"></span>
+</div>
+<div >
+	<button type="submit" class="btn btn-primary">Login</button>
+</div>
+</form>

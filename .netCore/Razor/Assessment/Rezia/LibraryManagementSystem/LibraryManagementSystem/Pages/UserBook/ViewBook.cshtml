@@ -1,0 +1,28 @@
+﻿@page
+@model LibraryManagementSystem.Pages.UserBook.ViewBookModel
+@{
+}
+<h2> Book List</h2>
+<table class="table-bordered">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Author</th>
+			<th>Quantity</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var books in Model.booklist){
+			<tr>
+				<td>@books.Title</td>
+				<td>@books.Author</td>
+				<td>@books.Quantity</td>
+				<td>
+					<a asp-page="DeleteBook" asp-route-id="@books.Id" class="btn btn-primary">Delete</a>
+					<a asp-page="ViewBook" class="btn btn-primary">Cancel</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
