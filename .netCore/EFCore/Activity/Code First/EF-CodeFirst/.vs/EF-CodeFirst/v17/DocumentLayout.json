@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+<<<<<<< HEAD:.netCore/Razor/Activity/SimpleAuth/.vs/SimpleAuth/v17/DocumentLayout.json
+  "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\SimpleAuth\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\Code First\\EF-CodeFirst\\",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/EFCore/Activity/Code First/EF-CodeFirst/.vs/EF-CodeFirst/v17/DocumentLayout.json
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    }
+  ]
+}

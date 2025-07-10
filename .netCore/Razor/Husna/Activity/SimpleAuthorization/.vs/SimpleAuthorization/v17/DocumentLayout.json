@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\pages\\mypage\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:pages\\mypage\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\simpleauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:simpleauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\activity\\simpleauthorization\\migrations\\20250701173436_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD47912-5BBD-4272-B325-D237E40A15F0}|SimpleAuthorization.csproj|solutionrelative:migrations\\20250701173436_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T18:29:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Mypage\\Login.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:26:53.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Mypage\\Register.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:23:24.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Index1.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Index1.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Index1.cshtml.cs",
+              "RelativeToolTip": "Pages\\Mypage\\Index1.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:01:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Mypage\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T18:01:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Mypage\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T18:01:13.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Mypage\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Pages\\Mypage\\Index1.cshtml",
+              "RelativeToolTip": "Pages\\Mypage\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T17:59:57.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250701173436_init.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Migrations\\20250701173436_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250701173436_init.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Migrations\\20250701173436_init.cs",
+              "RelativeToolTip": "Migrations\\20250701173436_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:34:36.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:27:55.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T17:25:24.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:22:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:22:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimpleAuthorization.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\SimpleAuthorization.csproj",
+              "RelativeDocumentMoniker": "SimpleAuthorization.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Activity\\SimpleAuthorization\\SimpleAuthorization.csproj",
+              "RelativeToolTip": "SimpleAuthorization.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T17:20:35.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "Registration_Activity/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.6",
@@ -14,17 +15,35 @@
         },
         "runtime": {
           "Registration_Activity.dll": {}
+========
+      "SimpleAuth/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.2"
+        },
+        "runtime": {
+          "SimpleAuth.dll": {}
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         }
       },
       "Azure.Core/1.38.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
           "System.ClientModel": "1.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Diagnostics.DiagnosticSource": "9.0.6",
           "System.Memory.Data": "1.0.2",
           "System.Numerics.Vectors": "4.5.0",
           "System.Text.Encodings.Web": "9.0.6",
           "System.Text.Json": "9.0.6",
+========
+          "System.Diagnostics.DiagnosticSource": "9.0.2",
+          "System.Memory.Data": "1.0.2",
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Text.Encodings.Web": "9.0.2",
+          "System.Text.Json": "9.0.2",
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
@@ -41,7 +60,11 @@
           "Microsoft.Identity.Client.Extensions.Msal": "4.61.3",
           "System.Memory": "4.5.4",
           "System.Security.Cryptography.ProtectedData": "6.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Json": "9.0.6",
+========
+          "System.Text.Json": "9.0.2",
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
@@ -245,7 +268,11 @@
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
           "Microsoft.CodeAnalysis.Common": "4.8.0",
           "System.Composition": "7.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.IO.Pipelines": "9.0.6",
+========
+          "System.IO.Pipelines": "9.0.2",
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           "System.Threading.Channels": "7.0.0"
         },
         "runtime": {
@@ -301,7 +328,11 @@
           "Microsoft.Build.Framework": "17.8.3",
           "Microsoft.CodeAnalysis.Common": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Json": "9.0.6"
+========
+          "System.Text.Json": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll": {
@@ -365,12 +396,20 @@
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.35.0",
           "Microsoft.SqlServer.Server": "1.0.0",
           "System.Configuration.ConfigurationManager": "6.0.1",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Diagnostics.DiagnosticSource": "9.0.6",
+========
+          "System.Diagnostics.DiagnosticSource": "9.0.2",
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           "System.Runtime.Caching": "6.0.0",
           "System.Security.Cryptography.Cng": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0",
           "System.Text.Encoding.CodePages": "6.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Encodings.Web": "9.0.6"
+========
+          "System.Text.Encodings.Web": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
@@ -417,6 +456,7 @@
           }
         }
       },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "Microsoft.EntityFrameworkCore/9.0.6": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "9.0.6",
@@ -441,6 +481,32 @@
       },
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.6": {},
       "Microsoft.EntityFrameworkCore.Design/9.0.6": {
+========
+      "Microsoft.EntityFrameworkCore/9.0.2": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "9.0.2",
+          "Microsoft.EntityFrameworkCore.Analyzers": "9.0.2",
+          "Microsoft.Extensions.Caching.Memory": "9.0.2",
+          "Microsoft.Extensions.Logging": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6701"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/9.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6701"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Analyzers/9.0.2": {},
+      "Microsoft.EntityFrameworkCore.Design/9.0.2": {
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         "dependencies": {
           "Humanizer.Core": "2.14.1",
           "Microsoft.Build.Framework": "17.8.3",
@@ -448,6 +514,7 @@
           "Microsoft.CodeAnalysis.CSharp": "4.8.0",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.MSBuild": "4.8.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "Microsoft.EntityFrameworkCore.Relational": "9.0.6",
           "Microsoft.Extensions.Caching.Memory": "9.0.6",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.6",
@@ -502,10 +569,67 @@
       "Microsoft.Extensions.Caching.Abstractions/9.0.6": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "9.0.6"
+========
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.2",
+          "Microsoft.Extensions.Caching.Memory": "9.0.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
+          "Microsoft.Extensions.DependencyModel": "9.0.2",
+          "Microsoft.Extensions.Logging": "9.0.2",
+          "Mono.TextTemplating": "3.0.0",
+          "System.Text.Json": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6701"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Relational/9.0.2": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.2",
+          "Microsoft.Extensions.Caching.Memory": "9.0.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Logging": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6701"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.2": {
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.1.6",
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.2",
+          "Microsoft.Extensions.Caching.Memory": "9.0.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Logging": "9.0.2",
+          "System.Formats.Asn1": "9.0.2",
+          "System.Text.Json": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6701"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/9.0.2": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "9.0.2"
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -517,10 +641,24 @@
           "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
           "Microsoft.Extensions.Options": "9.0.6",
           "Microsoft.Extensions.Primitives": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "9.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Options": "9.0.2",
+          "Microsoft.Extensions.Primitives": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -528,10 +666,20 @@
       "Microsoft.Extensions.Configuration.Abstractions/9.0.6": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -539,10 +687,20 @@
       "Microsoft.Extensions.DependencyInjection/9.0.6": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -572,10 +730,42 @@
           "Microsoft.Extensions.DependencyInjection": "9.0.6",
           "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
           "Microsoft.Extensions.Options": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyModel/9.0.2": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "9.0.2",
+          "System.Text.Json": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyModel.dll": {
+            "assemblyVersion": "9.0.0.2",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "9.0.2",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Options": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Logging.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -584,10 +774,21 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6",
           "System.Diagnostics.DiagnosticSource": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2",
+          "System.Diagnostics.DiagnosticSource": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -596,10 +797,21 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6",
           "Microsoft.Extensions.Primitives": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2",
+          "Microsoft.Extensions.Primitives": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Options.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -609,13 +821,28 @@
           "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.625.26613"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         }
       },
       "Microsoft.Identity.Client/4.61.3": {
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "6.35.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Diagnostics.DiagnosticSource": "9.0.6"
+========
+          "System.Diagnostics.DiagnosticSource": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net6.0/Microsoft.Identity.Client.dll": {
@@ -648,8 +875,13 @@
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": "6.35.0",
           "System.Text.Encoding": "4.3.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Encodings.Web": "9.0.6",
           "System.Text.Json": "9.0.6"
+========
+          "System.Text.Encodings.Web": "9.0.2",
+          "System.Text.Json": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
@@ -746,7 +978,11 @@
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Json": "9.0.6"
+========
+          "System.Text.Json": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net6.0/System.ClientModel.dll": {
@@ -836,11 +1072,19 @@
           }
         }
       },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "System.Diagnostics.DiagnosticSource/9.0.6": {
         "runtime": {
           "lib/net8.0/System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.625.26613"
+========
+      "System.Diagnostics.DiagnosticSource/9.0.2": {
+        "runtime": {
+          "lib/net8.0/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         }
       },
@@ -869,11 +1113,19 @@
           }
         }
       },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "System.Formats.Asn1/9.0.6": {
         "runtime": {
           "lib/net8.0/System.Formats.Asn1.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.625.26613"
+========
+      "System.Formats.Asn1/9.0.2": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         }
       },
@@ -889,19 +1141,32 @@
           }
         }
       },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "System.IO.Pipelines/9.0.6": {
         "runtime": {
           "lib/net8.0/System.IO.Pipelines.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.625.26613"
+========
+      "System.IO.Pipelines/9.0.2": {
+        "runtime": {
+          "lib/net8.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         }
       },
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Text.Encodings.Web": "9.0.6",
           "System.Text.Json": "9.0.6"
+========
+          "System.Text.Encodings.Web": "9.0.2",
+          "System.Text.Json": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/netstandard2.0/System.Memory.Data.dll": {
@@ -945,7 +1210,11 @@
       "System.Security.AccessControl/6.0.0": {},
       "System.Security.Cryptography.Cng/5.0.0": {
         "dependencies": {
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
           "System.Formats.Asn1": "9.0.6"
+========
+          "System.Formats.Asn1": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         }
       },
       "System.Security.Cryptography.ProtectedData/6.0.0": {
@@ -989,11 +1258,19 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
       "System.Text.Encodings.Web/9.0.6": {
         "runtime": {
           "lib/net8.0/System.Text.Encodings.Web.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.625.26613"
+========
+      "System.Text.Encodings.Web/9.0.2": {
+        "runtime": {
+          "lib/net8.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         },
         "runtimeTargets": {
@@ -1001,6 +1278,7 @@
             "rid": "browser",
             "assetType": "runtime",
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
           }
         }
@@ -1009,11 +1287,25 @@
         "dependencies": {
           "System.IO.Pipelines": "9.0.6",
           "System.Text.Encodings.Web": "9.0.6"
+========
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "System.Text.Json/9.0.2": {
+        "dependencies": {
+          "System.IO.Pipelines": "9.0.2",
+          "System.Text.Encodings.Web": "9.0.2"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
         },
         "runtime": {
           "lib/net8.0/System.Text.Json.dll": {
             "assemblyVersion": "9.0.0.0",
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
             "fileVersion": "9.0.625.26613"
+========
+            "fileVersion": "9.0.225.6610"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
           }
         }
       },
@@ -1041,7 +1333,11 @@
     }
   },
   "libraries": {
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "Registration_Activity/1.0.0": {
+========
+    "SimpleAuth/1.0.0": {
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1151,6 +1447,7 @@
       "path": "microsoft.data.sqlclient.sni.runtime/5.1.1",
       "hashPath": "microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512"
     },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "Microsoft.EntityFrameworkCore/9.0.6": {
       "type": "package",
       "serviceable": true,
@@ -1269,6 +1566,126 @@
       "sha512": "sha512-BHniU24QV67qp1pJknqYSofAPYGmijGI8D+ci9yfw33iuFdyOeB9lWTg78ThyYLyQwZw3s0vZ36VMb0MqbUuLw==",
       "path": "microsoft.extensions.primitives/9.0.6",
       "hashPath": "microsoft.extensions.primitives.9.0.6.nupkg.sha512"
+========
+    "Microsoft.EntityFrameworkCore/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P90ZuybgcpW32y985eOYxSoZ9IiL0UTYQlY0y1Pt1iHAnpZj/dQHREpSpry1RNvk8YjAeoAkWFdem5conqB9zQ==",
+      "path": "microsoft.entityframeworkcore/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oVSjNSIYHsk0N66eqAWgDcyo9etEFbUswbz7SmlYR6nGp05byHrJAYM5N8U2aGWJWJI6WvIC2e4TXJgH6GZ6HQ==",
+      "path": "microsoft.entityframeworkcore.abstractions/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Analyzers/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w4jzX7XI+L3erVGzbHXpx64A3QaLXxqG3f1vPpGYYZGpxOIHkh7e4iLLD7cq4Ng1vjkwzWl5ZJp0Kj/nHsgFYg==",
+      "path": "microsoft.entityframeworkcore.analyzers/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WWRmTxb/yd05cTW+k32lLvIhffxilgYvwKHDxiqe7GRLKeceyMspuf5BRpW65sFF7S2G+Be9JgjUe1ypGqt9tg==",
+      "path": "microsoft.entityframeworkcore.design/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.design.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Relational/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r7O4N5uaM95InVSGUj7SMOQWN0f1PBF2Y30ow7Jg+pGX5GJCRVd/1fq83lQ50YMyq+EzyHac5o4CDQA2RsjKJQ==",
+      "path": "microsoft.entityframeworkcore.relational/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.relational.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PN65soRvSajLqr1kVRvpUwqI/rmab4x/6TxcYzyUVvg52DMPxx4Y760EZ6OzFhJnilP/WFEEzdftHsTsHQ64IQ==",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5D4LQ9zYexFOcq0WzXOCCnP74+s9mBGNjh5mtkWFzM/DbY+rpDqrXjPq7peob/ZHAAqK+9Pfv2VK+tNf8C6QaQ==",
+      "path": "microsoft.entityframeworkcore.tools/9.0.2",
+      "hashPath": "microsoft.entityframeworkcore.tools.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a7QhA25n+BzSM5r5d7JznfyluMBGI7z3qyLlFviZ1Eiqv6DdiK27sLZdP/rpYirBM6UYAKxu5TbmfhIy13GN9A==",
+      "path": "microsoft.extensions.caching.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AlEfp0DMz8E1h1Exi8LBrUCNmCYcGDfSM4F/uK1D1cYx/R3w0LVvlmjICqxqXTsy7BEZaCf5leRZY2FuPEiFaw==",
+      "path": "microsoft.extensions.caching.memory/9.0.2",
+      "hashPath": "microsoft.extensions.caching.memory.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I0O/270E/lUNqbBxlRVjxKOMZyYjP88dpEgQTveml+h2lTzAP4vbawLVwjS9SC7lKaU893bwyyNz0IVJYsm9EA==",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZffbJrskOZ40JTzcTyKwFHS5eACSWp2bUQBBApIgGV+es8RaTD4OxUG7XxFr3RIPLXtYQ1jQzF2DjKB5fZn7Qg==",
+      "path": "microsoft.extensions.dependencyinjection/9.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNe7GSTBf3jQx5vYrXF0NZvn6l7hUKF6J54ENfAgCO8y6xjN1XUmKKWG464LP2ye6QqDiA1dkaWEZBYnhoZzjg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyModel/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ImbcbS68jy9sKr9Z9ToRbEEX0bvIRdb8zyf5ebtL9Av2CUCGHvaO5wsSXfRfAjr60Vrq0tlmNji9IzAxW6EOw==",
+      "path": "microsoft.extensions.dependencymodel/9.0.2",
+      "hashPath": "microsoft.extensions.dependencymodel.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-loV/0UNpt2bD+6kCDzFALVE63CDtqzPeC0LAetkdhiEr/tTNbvOlQ7CBResH7BQBd3cikrwiBfaHdyHMFUlc2g==",
+      "path": "microsoft.extensions.logging/9.0.2",
+      "hashPath": "microsoft.extensions.logging.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dV9s2Lamc8jSaqhl2BQSPn/AryDIH2sSbQUyLitLXV0ROmsb+SROnn2cH939JFbsNrnf3mIM3GNRKT7P0ldwLg==",
+      "path": "microsoft.extensions.logging.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zr98z+AN8+isdmDmQRuEJ/DAKZGUTHmdv3t0ZzjHvNqvA44nAgkXE9kYtfoN6581iALChhVaSw2Owt+Z2lVbkQ==",
+      "path": "microsoft.extensions.options/9.0.2",
+      "hashPath": "microsoft.extensions.options.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-puBMtKe/wLuYa7H6docBkLlfec+h8L35DXqsDKKJgW0WY5oCwJ3cBJKcDaZchv6knAyqOMfsl6VUbaR++E5LXA==",
+      "path": "microsoft.extensions.primitives/9.0.2",
+      "hashPath": "microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
     },
     "Microsoft.Identity.Client/4.61.3": {
       "type": "package",
@@ -1431,12 +1848,21 @@
       "path": "system.configuration.configurationmanager/6.0.1",
       "hashPath": "system.configuration.configurationmanager.6.0.1.nupkg.sha512"
     },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "System.Diagnostics.DiagnosticSource/9.0.6": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-nikkwAKqpwWUvV5J8S9fnOPYg8k75Lf9fAI4bd6pyhyqNma0Py9kt+zcqXbe4TjJ4sTPcdYpPg81shYTrXnUZQ==",
       "path": "system.diagnostics.diagnosticsource/9.0.6",
       "hashPath": "system.diagnostics.diagnosticsource.9.0.6.nupkg.sha512"
+========
+    "System.Diagnostics.DiagnosticSource/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z5CMQNLzk8UKnTEHRKb4nq03CCDWBMEF2gfP3oPKZn4F8wip6LFZCP5rF90DREHqdNddScIGAfszXJSjh4drSw==",
+      "path": "system.diagnostics.diagnosticsource/9.0.2",
+      "hashPath": "system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
     },
     "System.Drawing.Common/6.0.0": {
       "type": "package",
@@ -1445,12 +1871,21 @@
       "path": "system.drawing.common/6.0.0",
       "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
     },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "System.Formats.Asn1/9.0.6": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-8LbKs3WVqyDSszFZJA9Uxg9z+C6WbPbFTSPm/HjFEsWx49XWs0ueqaAKPWncvFJ8yl4H4C/RTnUMhCKoXkddkg==",
       "path": "system.formats.asn1/9.0.6",
       "hashPath": "system.formats.asn1.9.0.6.nupkg.sha512"
+========
+    "System.Formats.Asn1/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OKWHCPYQr/+cIoO8EVjFn7yFyiT8Mnf1wif/5bYGsqxQV6PrwlX2HQ9brZNx57ViOvRe4ing1xgHCKl/5Ko8xg==",
+      "path": "system.formats.asn1/9.0.2",
+      "hashPath": "system.formats.asn1.9.0.2.nupkg.sha512"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
     },
     "System.IdentityModel.Tokens.Jwt/6.35.0": {
       "type": "package",
@@ -1459,12 +1894,21 @@
       "path": "system.identitymodel.tokens.jwt/6.35.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512"
     },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "System.IO.Pipelines/9.0.6": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-0nlr0reXrRmkZNKifKqh2DgGhQgfkT7Qa3gQxIn/JI7/y3WDiTz67M+Sq3vFhUqcG8O5zVrpqHvIHeGPGUBsEw==",
       "path": "system.io.pipelines/9.0.6",
       "hashPath": "system.io.pipelines.9.0.6.nupkg.sha512"
+========
+    "System.IO.Pipelines/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIBaK7c/A3FyQxmX/747xw4rCUkm1BhNiVU617U5jweNJssNjLJkPUGhBsrlDG0BpKWCYKsncD+Kqpy4KmvZZQ==",
+      "path": "system.io.pipelines/9.0.2",
+      "hashPath": "system.io.pipelines.9.0.2.nupkg.sha512"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
     },
     "System.Memory/4.5.4": {
       "type": "package",
@@ -1564,6 +2008,7 @@
       "path": "system.text.encoding.codepages/6.0.0",
       "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
     },
+<<<<<<<< HEAD:.netCore/Razor/Neha/Project Activity/Registration_Activity/bin/Debug/net8.0/Registration_Activity.deps.json
     "System.Text.Encodings.Web/9.0.6": {
       "type": "package",
       "serviceable": true,
@@ -1577,6 +2022,21 @@
       "sha512": "sha512-h+ZtYTyTnTh5Ju6mHCKb3FPGx4ylJZgm9W7Y2psUnkhQRPMOIxX+TCN0ZgaR/+Yea+93XHWAaMzYTar1/EHIPg==",
       "path": "system.text.json/9.0.6",
       "hashPath": "system.text.json.9.0.6.nupkg.sha512"
+========
+    "System.Text.Encodings.Web/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/kCGdrXg0PXrvkHYyHubXJHcmCAvJrxTZ7g4XS6UCxY1JW79aMjtUW6UYNECHJmiyFZsZ/vUuWOM4CtNpiNt8Q==",
+      "path": "system.text.encodings.web/9.0.2",
+      "hashPath": "system.text.encodings.web.9.0.2.nupkg.sha512"
+    },
+    "System.Text.Json/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4TY2Yokh5Xp8XHFhsY9y84yokS7B0rhkaZCXuRiKppIiKwPVH4lVSFD9EEFzRpXdBM5ZeZXD43tc2vB6njEwwQ==",
+      "path": "system.text.json/9.0.2",
+      "hashPath": "system.text.json.9.0.2.nupkg.sha512"
+>>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Activity/SimpleAuth/SimpleAuth/bin/Debug/net8.0/SimpleAuth.deps.json
     },
     "System.Threading.Channels/7.0.0": {
       "type": "package",

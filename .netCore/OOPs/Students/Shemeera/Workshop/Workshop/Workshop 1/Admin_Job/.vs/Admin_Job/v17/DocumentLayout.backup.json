@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\c#\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\c#\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\c#\\workshop\\workshop 1\\admin_job\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\Admin.cs",
+              "ToolTip": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\Admin.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:35:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:44:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJob.cs",
+              "ToolTip": "D:\\c#\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:29:36.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

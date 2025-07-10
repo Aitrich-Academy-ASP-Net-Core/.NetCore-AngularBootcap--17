@@ -1,0 +1,44 @@
+﻿@page
+@model AppliedJobs.Pages.MyPage.IndexModel
+@{
+    ViewData["Title"] = "Job Listings";
+}
+
+<h2>Available Jobs</h2>
+<div>
+    <a asp-page="/MyPage/AppliedJ">View Applied Jobs</a>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Description</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var job in Model.Jobs)
+        {
+            <tr>
+                <td>@job.Title</td>
+                <td>@job.Company</td>
+                <td>@job.Location</td>
+                <td>@job.Description</td>
+                <td>
+                    <form method="post" asp-page-handler="Apply">
+                        <input type="hidden" name="jobId" value="@job.Id" />
+                        <button type="submit">Apply</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}

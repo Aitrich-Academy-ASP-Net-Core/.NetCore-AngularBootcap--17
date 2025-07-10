@@ -1,0 +1,30 @@
+﻿@page
+@model ExamRazor.Pages.Library.BookListModel
+@{
+}
+<h2>Books List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>
+                
+                    <a asp-page="/DeleteBook" asp-route-id="@book.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
