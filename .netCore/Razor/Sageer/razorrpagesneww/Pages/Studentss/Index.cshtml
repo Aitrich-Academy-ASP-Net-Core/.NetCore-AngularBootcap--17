@@ -1,0 +1,33 @@
+﻿
+
+@page
+@model razorrpagesneww.Pages.Studentss.IndexModel
+@{
+}
+<h2>Student Deatails</h2>
+<table class="table table-bordered">
+	<thead>
+
+		<tr>
+			
+			<th>Name</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+
+
+		@foreach (var stud in Model.StudentList)
+		{
+			<tr>
+
+				
+				<td>@stud.Name</td> 
+				
+			</tr>
+
+
+		}
+
+	</tbody>
+</table>

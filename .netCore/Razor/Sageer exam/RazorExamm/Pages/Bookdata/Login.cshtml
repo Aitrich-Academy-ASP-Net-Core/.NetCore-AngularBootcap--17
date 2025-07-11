@@ -1,0 +1,16 @@
+﻿@page
+@model RazorExamm.Pages.Bookdata.LoginModel
+@{
+}
+<h2>Login</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="Uname"> UserName</label>
+        <input asp-for="Uname" />
+        <span asp-validation-for="Uname"></span>
+    </div>
+    <div>
+        <button type="submit">submit</button>
+    </div>
+</form>

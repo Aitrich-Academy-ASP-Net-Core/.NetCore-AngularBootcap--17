@@ -1,0 +1,34 @@
+﻿@page
+@model RazorWS.Pages.Shared.JobDetails.IndexModel
+@{
+}
+<h2>Job Listing</h2>
+<a class="btn btn-primary">create a new job</a>
+<table>
+    <thead>
+        <tr>
+            <th>Job Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Employment Type</th>
+            <th>Salary Range</th>
+            <th>Actions</th>
+        </tr>
+
+        <tbody>
+            @foreach(var j in Model.JobPost){
+        <tr>
+                <td>j.JobTitle</td>
+                <td>j.Company</td>
+                <td>j.Location</td>
+                <td>j.JobType</td>
+                <td>j.Salary</td>
+                <td><a asp-page="Edit" asp-route-id="@j.id" class=" btn btn-warning">Edit</a></td>
+                <td><a asp-page="Details" asp-route-id="@j.id" class=" btn btn-warning">Details</a></td>
+                <td><a asp-page="Delte" asp-route-id="@j.id" class=" btn btn-warning">Delete</a></td>
+        </tr>
+        }
+            
+        </tbody>
+    </thead>
+</table>

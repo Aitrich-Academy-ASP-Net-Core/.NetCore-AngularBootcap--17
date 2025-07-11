@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\pages\\shared\\jobdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:pages\\shared\\jobdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\migrations\\20250704070949_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:migrations\\20250704070949_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorws\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7BD762-CC8D-4AB7-8330-12EAAA1F8A5C}|RazorWS.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:28:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Repository\\JobRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepo.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Repository\\JobRepo.cs",
+              "RelativeToolTip": "Repository\\JobRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:13:10.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:37:59.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:28:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Models\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:41:56.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\JobDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\JobDBContext.cs",
+              "RelativeToolTip": "Models\\JobDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:41:55.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IJobrepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Interface\\IJobrepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobrepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Interface\\IJobrepository.cs",
+              "RelativeToolTip": "Interface\\IJobrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:12:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Services\\JobServices.cs",
+              "RelativeDocumentMoniker": "Services\\JobServices.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Services\\JobServices.cs",
+              "RelativeToolTip": "Services\\JobServices.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:32:59.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T05:06:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T07:21:20.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:31:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T05:31:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Delete.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:47:04.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T05:41:13.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T04:43:35.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\JobDetails\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Pages\\Shared\\JobDetails\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\JobDetails\\Create.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:43:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:31:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250704070949_InItiall.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Migrations\\20250704070949_InItiall.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250704070949_InItiall.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Migrations\\20250704070949_InItiall.cs",
+              "RelativeToolTip": "Migrations\\20250704070949_InItiall.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:09:49.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IJobservice.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Interface\\IJobservice.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobservice.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Interface\\IJobservice.cs",
+              "RelativeToolTip": "Interface\\IJobservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:12:28.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T06:37:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "DTO\\JobDto.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\DTO\\JobDto.cs",
+              "RelativeToolTip": "DTO\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:34:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorWS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T02:25:45.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

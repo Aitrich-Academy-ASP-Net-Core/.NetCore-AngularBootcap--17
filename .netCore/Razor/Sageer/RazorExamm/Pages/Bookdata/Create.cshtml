@@ -1,0 +1,26 @@
+﻿@page
+@model RazorExamm.Pages.Bookdata.CreateModel
+@{
+}
+<h2>Add Book</h2>
+
+
+<form method="post">
+    <div>
+        <label asp-for="book.BookTitle"></label>
+        <input asp-for="book.BookTitle" type="type" name="name" value="" />
+        <span asp-validation-for="book.BookTitle"></span>
+    </div>
+
+    <div>
+        <label asp-for="book.Author"></label>
+        <input asp-for="book.Author" type="type" name="name" value="" />
+        <span asp-validation-for="book.Author"></span>
+    </div>
+
+    <div>
+        
+        <button type="submit">submit</button>
+    </div>
+
+</form>
