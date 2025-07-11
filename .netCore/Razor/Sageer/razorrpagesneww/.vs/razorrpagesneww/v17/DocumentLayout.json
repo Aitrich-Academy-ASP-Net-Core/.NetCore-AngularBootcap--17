@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\deleteemode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\deleteemode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\createmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\createmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\deleteemode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\deleteemode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\pages\\studentss\\createmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:pages\\studentss\\createmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorrpagesneww\\razorrpagesneww.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1442FC3-D77E-4E73-B8B5-487D05ED01BD}|razorrpagesneww.csproj|solutionrelative:razorrpagesneww.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Studentss\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T06:54:31.459Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Studentss\\Edit.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:55:21.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\CreateModel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\CreateModel.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\CreateModel.cshtml",
+              "RelativeToolTip": "Pages\\Studentss\\CreateModel.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T06:22:00.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\Student.cs",
+              "RelativeDocumentMoniker": "models\\Student.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\Student.cs",
+              "RelativeToolTip": "models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:26:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteeMode.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\DeleteeMode.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\DeleteeMode.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\DeleteeMode.cshtml",
+              "RelativeToolTip": "Pages\\Studentss\\DeleteeMode.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T05:40:22.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteeMode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\DeleteeMode.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\DeleteeMode.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\DeleteeMode.cshtml.cs",
+              "RelativeToolTip": "Pages\\Studentss\\DeleteeMode.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:40:52.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:42:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\CreateModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Studentss\\CreateModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\Pages\\Studentss\\CreateModel.cshtml.cs",
+              "RelativeToolTip": "Pages\\Studentss\\CreateModel.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:53:05.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T07:51:49.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\models\\StudentDBContext.cs",
+              "RelativeToolTip": "models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:26:38.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T07:51:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "razorrpagesneww.csproj",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\razorrpagesneww.csproj",
+              "RelativeDocumentMoniker": "razorrpagesneww.csproj",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\razorrpagesneww\\razorrpagesneww.csproj",
+              "RelativeToolTip": "razorrpagesneww.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T07:25:38.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

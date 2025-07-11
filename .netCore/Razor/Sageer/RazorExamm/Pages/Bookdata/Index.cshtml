@@ -1,0 +1,17 @@
+﻿@page
+@model RazorExamm.Pages.Bookdata.IndexModel
+@{
+}
+<h2>Books</h2>
+
+
+<table>
+    <tr><th>Title</th><th>Author</th></tr>
+    @foreach(var b in Model.Bookdetails)
+    {
+       <tr>
+           <td>@b.BookTitle</td>
+           <td>@b.Author</td>
+       </tr>
+    }
+</table>

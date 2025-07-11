@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/RazorEmployeeManagement.csproj.nuget.dgspec.json
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {}
+  },
+  "projects": {
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+        "projectName": "RazorEmployeeManagement",
+        "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\obj\\",
+=======
     "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
         "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\EFCore\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\obj\\",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/EFCore/Activity/EF-CodeFirstWithFK/EF-CodeFirstWithFK/obj/EF-CodeFirstWithFK.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/RazorEmployeeManagement.csproj.nuget.dgspec.json
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/EFCore/Activity/EF-CodeFirstWithFK/EF-CodeFirstWithFK/obj/EF-CodeFirstWithFK.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +99,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/RazorEmployeeManagement.csproj.nuget.dgspec.json
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/EFCore/Activity/EF-CodeFirstWithFK/EF-CodeFirstWithFK/obj/EF-CodeFirstWithFK.csproj.nuget.dgspec.json
         }
       }
     }

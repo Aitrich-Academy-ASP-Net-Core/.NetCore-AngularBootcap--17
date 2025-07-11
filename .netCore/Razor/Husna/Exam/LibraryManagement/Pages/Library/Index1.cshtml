@@ -1,0 +1,46 @@
+﻿@page
+@model LibraryManagement.Pages.Library.Index1Model
+@{
+    ViewData["Title"] = "Library Books";
+}
+
+<h2>All Books</h2>
+
+
+    <a asp-page="/Library/Add">Add New Book</a>
+    <br />
+    <a asp-page="/Library/TotalCount">View Total Book Count</a>
+    <br />
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Quantity</th>
+            
+                <th>Action</th>
+        
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Quantity</td>
+               
+                    <td>
+                        <form method="post" asp-page-handler="Delete">
+                            <input type="hidden" name="id" value="@book.Id" />
+                            <button type="submit">Delete</button>
+                        </form>
+                    </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

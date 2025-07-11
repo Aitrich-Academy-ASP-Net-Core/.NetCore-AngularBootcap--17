@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|c:\\users\\mohammed sageer\\source\\repos\\dropdownlist\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|c:\\users\\mohammed sageer\\source\\repos\\dropdownlist\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|c:\\users\\mohammed sageer\\source\\repos\\dropdownlist\\model\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|solutionrelative:model\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|c:\\users\\mohammed sageer\\source\\repos\\dropdownlist\\dropdownlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77E8BB9E-E63C-4D29-B57F-6AF5DD9CF7DA}|DropdownList.csproj|solutionrelative:dropdownlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:35:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Model\\Main.cs",
+              "RelativeDocumentMoniker": "Model\\Main.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Model\\Main.cs",
+              "RelativeToolTip": "Model\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:34:29.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DropdownList.csproj",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\DropdownList.csproj",
+              "RelativeDocumentMoniker": "DropdownList.csproj",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\DropdownList.csproj",
+              "RelativeToolTip": "DropdownList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T18:34:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DropdownList\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:32:51.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

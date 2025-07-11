@@ -1,0 +1,17 @@
+﻿@page
+@model Library_Management.Pages.Library.LoginModel
+@{
+}
+<h2>Login</h2>
+<form method="post">
+    <label>Username:</label>
+    <input asp-for="LoginDto.Username" />
+    <br />
+    <label>Password:</label>
+    <input asp-for="LoginDto.Password" type="password" />
+    <br/>
+    <label>Role:</label>
+    <input asp-for="LoginDto.Role" type="password" />
+    <br />
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>

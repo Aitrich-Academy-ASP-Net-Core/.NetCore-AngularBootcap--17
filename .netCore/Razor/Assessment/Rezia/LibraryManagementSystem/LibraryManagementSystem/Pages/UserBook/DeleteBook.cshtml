@@ -1,0 +1,35 @@
+﻿@page
+@model LibraryManagementSystem.Pages.UserBook.DeleteBookModel
+@{
+}
+
+<h2>Confirm Deletion</h2>
+
+<p>Are you sure you want to delete this book?</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+        
+            <tr>
+                <td>@Model.Bookpost.Title</td>
+                <td>@Model.Bookpost.Author</td>
+                <td>@Model.Bookpost.Quantity</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@Model.Bookpost.Id">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,34 @@
+﻿@page
+@model AddStudentt.Pages.AddStudentModel
+@{
+}
+<h1>Add Student</h1>
+
+
+    <div>
+        <form method="post">
+
+        <h2>Create Student</h2>
+
+        <div>
+            <strong>Id:</strong> @Model.Student.Id
+        </div>
+        <div>
+            <strong>Name:</strong> @Model.Student.Name
+        </div>
+        <div>
+            <strong>Age:</strong> @Model.Student.Age
+        </div>
+        <div>
+            <strong>Course:</strong> @Model.Student.Course
+        </div>
+        <div>
+            <form method="post">
+                <button type="submit" class="btn btn-outline-primary">Create</button>
+            </form>
+            
+        </div>
+
+        </form>
+    </div>
+</div>

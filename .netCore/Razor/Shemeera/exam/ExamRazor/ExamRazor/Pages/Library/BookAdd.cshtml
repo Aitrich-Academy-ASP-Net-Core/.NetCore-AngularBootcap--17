@@ -1,0 +1,22 @@
+﻿@page
+@model ExamRazor.Pages.Library.BookAddModel
+@{
+}
+<h2>Add New Book</h2>
+
+<form method="post">
+    <div>
+        <label>Title:</label>
+        <input asp-for="NewBook.Title" />
+    </div>
+    <div>
+        <label>Author:</label>
+        <input asp-for="NewBook.Author" />
+    </div>
+    <button type="submit">Add Book</button>
+</form>
+
+<div>
+    <a href="/BookList">Back to Book List</a>
+</div>
+

@@ -1,0 +1,28 @@
+﻿@page
+@model LibraryManagementSystem.Pages.UserBook.AddbookModel
+@{
+}
+<h2>Add Book in Library System</h2>
+<form method="post">
+	<div>
+		<label>Title</label>
+		<input type="text" asp-for="AddBook.Title" />
+		<span asp-validation-for="AddBook.Title" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label>Author</label>
+		<input type="text" asp-for="AddBook.Author" />
+		<span asp-validation-for="AddBook.Author" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label>Quantity</label>
+		<input type="number" asp-for="AddBook.Quantity" />
+		<span asp-validation-for="AddBook.Quantity" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<button type="submit">Add Book</button>
+	</div>
+</form>
