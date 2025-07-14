@@ -1,0 +1,38 @@
+﻿@page
+@model Library_Management.Pages.Library.Index2Model
+@{
+   
+}
+<h2>Book List</h2>
+
+@if (Model.Role == "Admin")
+{
+    <a href="/Library/Create">Add Book</a>
+}
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Quantity</th>
+            @if (Model.Role == "Admin")
+            {
+                <th>Action</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books2)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Quantity</td>
+                @if (Model.Role == "Admin")
+                {
+                    <td><a href="/Books2/Delete" asp-route-id="@book.Id">Delete</a></td>
+                }
+            </tr>
+        }
+    </tbody>
+    <</table>

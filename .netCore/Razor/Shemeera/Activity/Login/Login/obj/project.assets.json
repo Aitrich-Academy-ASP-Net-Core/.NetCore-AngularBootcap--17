@@ -4722,23 +4722,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/project.assets.json
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\razal\\.nuget\\packages\\": {},
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Shemeera/Activity/Login/Login/obj/project.assets.json
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/project.assets.json
+      "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+      "projectName": "RazorEmployeeManagement",
+      "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\RazorEmployeeManagement.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\obj\\",
+=======
       "projectUniqueName": "D:\\c#\\Login\\Login\\Login.csproj",
       "projectName": "Login",
       "projectPath": "D:\\c#\\Login\\Login\\Login.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "D:\\c#\\Login\\Login\\obj\\",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Shemeera/Activity/Login/Login/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/project.assets.json
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Shemeera/Activity/Login/Login/obj/project.assets.json
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4805,8 +4821,20 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD:.netCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/project.assets.json
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 848f2a09c08fdb29e43f3d28636ce26316eeb6df:.netCore/Razor/Shemeera/Activity/Login/Login/obj/project.assets.json
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

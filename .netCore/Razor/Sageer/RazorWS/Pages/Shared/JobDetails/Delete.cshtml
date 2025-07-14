@@ -1,0 +1,32 @@
+﻿@page
+@model RazorWS.Pages.Shared.JobDetails.DeleteModel
+@{
+    ViewData["Title"] = "Delete Job";
+}
+<h1>Delete Job</h1>
+<h2>Do You Want To Delete This Job?</h2>
+<div>
+    <h2>Job List</h2>
+    <dl class="row">
+        <dt class="col-sm-2">Job Title</dt>
+        <dd class="col-sm-10">@Model.JobPost.JobTitle</dd>
+
+        <dt class="col-sm-2">Company</dt>
+        <dd class="col-sm-10">@Model.JobPost.Company</dd>
+
+        <dt class="col-sm-2">LOcation</dt>
+        <dd class="col-sm-10">@Model.JobPost.Location</dd>
+
+        <dt class="col-sm-2">Employment Type</dt>
+        <dd class="col-sm-10">@Model.JobPost.JobType</dd>
+
+        <dt class="col-sm-2">Salary Range</dt>
+        <dd class="col-sm-10">@Model.JobPost.Salary</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" name="name" value="" asp-for="JobPost.id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

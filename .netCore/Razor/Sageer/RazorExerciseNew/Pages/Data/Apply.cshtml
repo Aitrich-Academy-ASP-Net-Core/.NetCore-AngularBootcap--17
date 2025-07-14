@@ -1,0 +1,19 @@
+﻿@page "{id:int}"
+@model RazorExerciseNew.Pages.Data.ApplyModel
+@{
+    ViewData["Title"] = "Apply for Job";
+}
+
+<h1>Apply for Job</h1>
+
+<div class="job-card">
+    <h3>@Model.Job.Title</h3>
+    <p><strong>Company:</strong> @Model.Job.Company</p>
+    <p><strong>Location:</strong> @Model.Job.Location</p>
+    <p><strong>Description:</strong> @Model.Job.Description</p>
+    <p><strong>Posted:</strong> @Model.Job.PostedDate.ToShortDateString()</p>
+    
+    <form method="post">
+        <button type="submit" class="btn">Confirm Application</button>
+    </form>
+</div>

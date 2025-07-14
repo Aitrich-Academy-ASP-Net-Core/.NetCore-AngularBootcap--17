@@ -1,0 +1,39 @@
+﻿@page
+@model LibraryManagementSystem.Pages.UserBook.RegisterUserModel
+@{
+}
+<h2> Register</h2>
+<form method="post">
+	<div class="form-group">
+		<label asp-for="newUser.UserName">UserName</label>
+		<input type="text" asp-for="newUser.UserName" />
+		<span asp-validation-for="newUser.UserName" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label asp-for="newUser.UserEmail">EmailAddress</label>
+		<input type="email" asp-for="newUser.UserEmail" />
+		<span asp-validation-for="newUser.UserEmail" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label asp-for="newUser.Password">Password</label>
+		<input type="text" asp-for="newUser.Password" />
+		<span asp-validation-for="newUser.Password" class="text-danger"></span>
+	</div>
+	<br />
+	<div>
+		<label asp-for="newUser.Role">Select Role</label>
+		<select asp-for="newUser.Role">>
+		<option value="User">Normal User</option> />
+		<option value="Admin">Library Member</option>
+		</select>
+		<span asp-validation-for="newUser.Role" class="text-danger"></span>
+	</div>
+	<br>
+	<div>
+		<button type="submit" class="btn btn-primary">register</button>
+	</div>
+	<p> <a asp-page="Login">Already have an Account, Please Login</a></p>
+
+</form>

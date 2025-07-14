@@ -1,0 +1,46 @@
+﻿@page
+@model Mini_project.Pages.Menu.CreateModel
+@{
+    ViewData["Title"] = "Add Company Member";
+}
+
+<h2>Add Company Member</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="MemberPost.Name" class="control-label"></label>
+        <input asp-for="MemberPost.Name" class="form-control" />
+        <span asp-validation-for="MemberPost.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberPost.Age" class="control-label"></label>
+        <input asp-for="MemberPost.Age" class="form-control" />
+        <span asp-validation-for="MemberPost.Age" class="text-danger"></span>
+    </div>
+
+   
+
+    <div class="form-group">
+        <label asp-for="MemberPost.Role" class="control-label"></label>
+        <input asp-for="MemberPost.Role" class="form-control" />
+        <span asp-validation-for="MemberPost.Role" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberPost.Position" class="control-label"></label>
+        <select asp-for="MemberPost.Position" class="form-control">
+            <option value="Junior">Junior</option>
+            <option value="Mid-level">Mid-level</option>
+            <option value="Senior">Senior</option>
+        </select>
+        <span asp-validation-for="MemberPost.Position" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Add</button>
+    <a asp-page="Index2" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

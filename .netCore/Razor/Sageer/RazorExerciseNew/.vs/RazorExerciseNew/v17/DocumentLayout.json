@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\service\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:service\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\helper\\atutomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:helper\\atutomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexercisenew\\pages\\data\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB859FD-D8BA-46EE-92F7-06A137ACCCDE}|RazorExerciseNew.csproj|solutionrelative:pages\\data\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T19:55:49.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apply.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Apply.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Data\\Apply.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Apply.cshtml.cs",
+              "RelativeToolTip": "Pages\\Data\\Apply.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:52:03.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Data\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Apply.cshtml",
+              "RelativeToolTip": "Pages\\Data\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T19:50:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:43:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Data\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Data\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T18:06:47.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Data\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Data\\Register.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:07:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:12:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:03:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\JobDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Models\\JobDBContext.cs",
+              "RelativeToolTip": "Models\\JobDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:49:05.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Service\\JobServices.cs",
+              "RelativeDocumentMoniker": "Service\\JobServices.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Service\\JobServices.cs",
+              "RelativeToolTip": "Service\\JobServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:29:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T18:38:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Repository\\JobRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepo.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Repository\\JobRepo.cs",
+              "RelativeToolTip": "Repository\\JobRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:27:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Data\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Data\\Login.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T18:09:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T18:10:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AtutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Helper\\AtutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AtutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Helper\\AtutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AtutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:33:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Applicationserviceextension.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Extension\\Applicationserviceextension.cs",
+              "RelativeDocumentMoniker": "Extension\\Applicationserviceextension.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Extension\\Applicationserviceextension.cs",
+              "RelativeToolTip": "Extension\\Applicationserviceextension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:33:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJobrepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Interface\\IJobrepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobrepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Interface\\IJobrepository.cs",
+              "RelativeToolTip": "Interface\\IJobrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:15:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "DTO\\JobDto.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\DTO\\JobDto.cs",
+              "RelativeToolTip": "DTO\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:31:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IJobservice.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Interface\\IJobservice.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobservice.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Interface\\IJobservice.cs",
+              "RelativeToolTip": "Interface\\IJobservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:24:24.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Data\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Data\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:10:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Data\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExerciseNew\\Pages\\Data\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Data\\Login.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:10:00.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

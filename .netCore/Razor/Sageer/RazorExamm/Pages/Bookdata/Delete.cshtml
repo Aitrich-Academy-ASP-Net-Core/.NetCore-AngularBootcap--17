@@ -1,0 +1,22 @@
+﻿@page
+@model RazorExamm.Pages.Bookdata.DeleteModel
+@{
+}
+<h2>Delete</h2>
+<table>
+    
+    <tr>
+        <td>Title :@Model.book.BookTitle</td>
+    </tr>
+    <tr>
+        <td>Author :@Model.book.Author</td>
+    </tr>
+    <tr>
+        <td>Quantity :@Model.book.Quantity</td>
+    </tr>
+    <form action="/" method="post">
+        <input asp-for=book.Id type="type" name="name" value="" />
+        <button type="submit">submit</button>
+
+        </form>
+</table>

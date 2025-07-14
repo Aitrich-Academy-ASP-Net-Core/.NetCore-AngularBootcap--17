@@ -1,0 +1,28 @@
+﻿@page
+@model DTONewProject.Pages.Jobdata.JobIndexModel
+@{
+}
+<h2>Student Data</h2>
+<table class="table table-bordered"><thead>
+        <tr>
+            <th>job Id</th>
+            <th>Job title</th>
+            <th>Location</th>
+            <th>Job type</th>
+            <th>Company</th>
+        </tr>
+    </thead></table>
+<tbody>
+
+    @foreach(var @a in Model.Jobs)
+    {
+        
+        <tr>
+        <th>@a.JobId</th>
+        <th>@a.JobTitle</th>
+        <th>@a.Location</th>
+        <th>@a.JobType</th>
+        <th>@a.Company</th>
+        </tr>
+    }
+</tbody>

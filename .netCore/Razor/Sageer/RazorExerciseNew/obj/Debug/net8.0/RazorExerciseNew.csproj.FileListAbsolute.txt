@@ -1,0 +1,8 @@
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.csproj.AssemblyReference.cache
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.csproj.CoreCompileInputs.cache
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.RazorAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\RazorExerciseNew\obj\Debug\net8.0\RazorExerciseNew.RazorAssemblyInfo.cs
