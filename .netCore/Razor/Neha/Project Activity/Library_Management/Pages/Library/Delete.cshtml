@@ -1,0 +1,30 @@
+﻿@page
+@model Library_Management.Pages.Library.DeleteModel
+@{
+}
+<h1>Delete Book</h1>
+<h2>Do You want to delete this Book?</h2>
+<div>
+    <h2>Book List</h2>
+    <dl>
+        <dt>Book Title</dt>
+        <dd>@Model.Bookdelete.Title</dd>
+    </dl>
+    <dl>
+        <dt>Author</dt>
+        <dd>@Model.Bookdelete.Author</dd>
+    </dl>
+    <dl>
+        <dt>Quantity</dt>
+        <dd>@Model.Bookdelete.Author</dd>
+    </dl>
+    
+</div>
+<div class="form-group">
+    <form method="post">
+        <input type="hidden" asp-for="Bookdelete.Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-page="Index2" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+

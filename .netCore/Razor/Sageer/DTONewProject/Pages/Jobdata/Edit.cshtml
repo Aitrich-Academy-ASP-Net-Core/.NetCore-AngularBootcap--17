@@ -1,0 +1,16 @@
+﻿@page "{JobId:int}"
+@model DTONewProject.Pages.Jobdata.EditModel
+@{
+}
+
+
+<h2>Update Student</h2>
+<form method="post">
+    <input type="hidden" asp-for="Jobs.JobId"/>
+    <div class="mb-3">
+        <label>Name</label>
+        <input asp-for="Jobs.JobTitle" class="form-control"/>
+    </div>
+    <button type="submit" class="btn btn-success">Update</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

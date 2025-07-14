@@ -1,0 +1,16 @@
+﻿@page
+@model ActivityRazorr.Pages.Studentdata.RegisterModel
+@{
+}
+<h2>Register</h2>
+<form method="post">
+    <label>UserName</label>
+    <input asp-for="NewUser" type="text" name="name" value="Enter Username..." />
+    <span asp-validation-for="NewUser" class=" text-danger"></span>
+
+    <label>PassWord</label>
+    <input type="text" value="Enter Password..." required />
+    <span asp-validation-for="NewUser" class=" text-danger"></span>
+    <button type="submit">Submit</button>
+</form>
+<a href="">Already Have an account?Login</a>

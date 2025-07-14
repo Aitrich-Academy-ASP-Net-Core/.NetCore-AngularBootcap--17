@@ -1,0 +1,18 @@
+﻿@page
+@model Registration_Activity.Pages.LoginModel
+@{
+}
+<h1>Login</h1>
+<form method="post">
+<label>Username:</label>
+<input type="text" asp-for="Username"/>
+<span asp-validation-for="Username" class="text-danger"></span>
+    
+        <label>Password:</label>
+        <input type="password" asp-for="Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    <button type="submit">Login</button>
+
+
+</form>
+<a href="/Register">Don't have an account? Register</a>

@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\services\\jservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:services\\jservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\deletemodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\deletemodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\deletemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\deletemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\repository\\jobrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:repository\\jobrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\jobindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\jobindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\pages\\jobdata\\jobindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:pages\\jobdata\\jobindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\interfaces\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:interfaces\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\dtonewproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:dtonewproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|c:\\users\\mohammed sageer\\source\\repos\\dtonewproject\\migrations\\20250625045147_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C6C0C5-985E-484C-A39E-E5D9A3EB7BAB}|DTONewProject.csproj|solutionrelative:migrations\\20250625045147_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:15:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:34:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Models\\JobDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Models\\JobDBContext.cs",
+              "RelativeToolTip": "Models\\JobDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:58:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\DeleteModel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\DeleteModel.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\DeleteModel.cshtml",
+              "RelativeToolTip": "Pages\\Jobdata\\DeleteModel.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T06:55:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\DeleteModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\DeleteModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\DeleteModel.cshtml.cs",
+              "RelativeToolTip": "Pages\\Jobdata\\DeleteModel.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:59:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jservice.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Services\\Jservice.cs",
+              "RelativeDocumentMoniker": "Services\\Jservice.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Services\\Jservice.cs",
+              "RelativeToolTip": "Services\\Jservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:36:03.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Search.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\Search.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Search.cshtml.cs",
+              "RelativeToolTip": "Pages\\Jobdata\\Search.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:24:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:08:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:41:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T06:48:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\create.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Jobdata\\create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:26:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\create.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\create.cshtml",
+              "RelativeToolTip": "Pages\\Jobdata\\create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T06:25:29.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\DTO\\JobDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\JobDTO.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\DTO\\JobDTO.cs",
+              "RelativeToolTip": "DTO\\JobDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:06:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobRepository2.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Repository\\JobRepository2.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository2.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Repository\\JobRepository2.cs",
+              "RelativeToolTip": "Repository\\JobRepository2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:51:17.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T06:39:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Jobdata\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T07:02:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Jobdata\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:32:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Search.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\Search.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\Search.cshtml",
+              "RelativeToolTip": "Pages\\Jobdata\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T05:19:55.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\JobIndex.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\JobIndex.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\JobIndex.cshtml",
+              "RelativeToolTip": "Pages\\Jobdata\\JobIndex.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T05:47:26.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobIndex.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\JobIndex.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Jobdata\\JobIndex.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Pages\\Jobdata\\JobIndex.cshtml.cs",
+              "RelativeToolTip": "Pages\\Jobdata\\JobIndex.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:47:33.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Jobrepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Interfaces\\Jobrepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Jobrepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Interfaces\\Jobrepository.cs",
+              "RelativeToolTip": "Interfaces\\Jobrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:26:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Interfaces\\IJobService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Interfaces\\IJobService.cs",
+              "RelativeToolTip": "Interfaces\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:58:16.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DTONewProject.csproj",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\DTONewProject.csproj",
+              "RelativeDocumentMoniker": "DTONewProject.csproj",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\DTONewProject.csproj",
+              "RelativeToolTip": "DTONewProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:32:52.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250625045147_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Migrations\\20250625045147_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250625045147_Initial.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\DTONewProject\\Migrations\\20250625045147_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250625045147_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:51:48.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

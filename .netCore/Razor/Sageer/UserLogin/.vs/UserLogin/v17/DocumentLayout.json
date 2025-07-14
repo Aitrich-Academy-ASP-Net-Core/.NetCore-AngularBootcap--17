@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|c:\\users\\mohammed sageer\\source\\repos\\userlogin\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|c:\\users\\mohammed sageer\\source\\repos\\userlogin\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|c:\\users\\mohammed sageer\\source\\repos\\userlogin\\model\\validatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|solutionrelative:model\\validatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|c:\\users\\mohammed sageer\\source\\repos\\userlogin\\model\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E585D131-0ABB-4B2D-A521-8C925110C54B}|UserLogin.csproj|solutionrelative:model\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidateDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Model\\ValidateDBContext.cs",
+              "RelativeDocumentMoniker": "Model\\ValidateDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Model\\ValidateDBContext.cs",
+              "RelativeToolTip": "Model\\ValidateDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:52:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Model\\Validate.cs",
+              "RelativeDocumentMoniker": "Model\\Validate.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Model\\Validate.cs",
+              "RelativeToolTip": "Model\\Validate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:52:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:48:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\UserLogin\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:45:57.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

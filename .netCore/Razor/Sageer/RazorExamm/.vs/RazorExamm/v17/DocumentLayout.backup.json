@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\service\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:service\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\bookdata\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\bookdata\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\razorexamm\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DEC33F4-3819-4AFB-869F-E7752E12D8A8}|RazorExamm.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:07:40.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Bookdata\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:10:21.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Bookdata\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T08:10:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Bookdata\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T06:06:37.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Bookdata\\Create.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:06:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:21:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Service\\BookServices.cs",
+              "RelativeDocumentMoniker": "Service\\BookServices.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Service\\BookServices.cs",
+              "RelativeToolTip": "Service\\BookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:08:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Bookdata\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T05:49:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Models\\BookDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Models\\BookDBContext.cs",
+              "RelativeToolTip": "Models\\BookDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:22:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Bookdata\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:51:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Bookdata\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T06:33:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Bookdata\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Bookdata\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Bookdata\\Login.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:34:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:56:15.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T06:52:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\RazorExamm\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T06:47:39.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
