@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\blazorauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\blazorauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorAuth.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\BlazorAuth.csproj",
+              "RelativeDocumentMoniker": "BlazorAuth\\BlazorAuth.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\BlazorAuth.csproj",
+              "RelativeToolTip": "BlazorAuth\\BlazorAuth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T14:07:20.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
