@@ -25,7 +25,6 @@ namespace Mini_project.Pages.Menu
             {
                 return RedirectToPage("/Menu/Login");
             }
-
             {
                 Members = await _service.GetAllMemberAsync();
                 return Page();

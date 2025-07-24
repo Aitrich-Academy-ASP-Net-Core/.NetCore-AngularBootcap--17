@@ -6,9 +6,13 @@ namespace Mini_project.Interfaces
     public interface ICompanyRepo
     {
         public  Task<List<CompanyMember>> GetAllMemberAsync();
+
         public Task<CompanyMember> GetMemberbyidAsync(int id);
+
         public Task AddMemberAsync(MemberDto memberdto);
         public Task UpdateMemberAsync(int id, CompanyMember memberdto);
+
         public Task DeletememberAsync(int id);
+
     }
 }
