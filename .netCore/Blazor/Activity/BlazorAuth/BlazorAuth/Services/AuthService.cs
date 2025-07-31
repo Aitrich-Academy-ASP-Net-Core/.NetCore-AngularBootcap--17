@@ -74,6 +74,7 @@ namespace BlazorAuth.Services
             var bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));// Convert password to byte array and hash it.
             return Convert.ToBase64String(bytes);// Convert the hashed bytes to a Base64 string and return.
         }
+
     }
     }
 

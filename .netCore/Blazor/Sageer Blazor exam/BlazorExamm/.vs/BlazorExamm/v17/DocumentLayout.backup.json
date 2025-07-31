@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\model\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:model\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\extension\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:extension\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\blazorexamm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:blazorexamm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|c:\\users\\mohammed sageer\\source\\repos\\blazorexamm\\interface\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578C297-CFB5-4D6E-AD58-E5DADBFFE8DC}|BlazorExamm.csproj|solutionrelative:interface\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.razor",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Pages\\Feedback.razor",
+              "RelativeDocumentMoniker": "Pages\\Feedback.razor",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Pages\\Feedback.razor",
+              "RelativeToolTip": "Pages\\Feedback.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T06:03:28.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:00:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Extension\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extension\\Extensions.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Extension\\Extensions.cs",
+              "RelativeToolTip": "Extension\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:59:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:32:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Model\\CustomerDBContext.cs",
+              "RelativeDocumentMoniker": "Model\\CustomerDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Model\\CustomerDBContext.cs",
+              "RelativeToolTip": "Model\\CustomerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:23:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Model\\Customer.cs*",
+              "RelativeToolTip": "Model\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:23:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T05:50:39.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlazorExamm",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj",
+              "RelativeDocumentMoniker": "BlazorExamm.csproj",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj",
+              "RelativeToolTip": "BlazorExamm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T05:58:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:47:28.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Interface\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\Interface\\IFeedbackRepository.cs",
+              "RelativeToolTip": "Interface\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:47:13.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

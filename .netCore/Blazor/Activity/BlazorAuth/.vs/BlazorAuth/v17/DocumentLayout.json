@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\BlazorAuth\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|d:\\batch17repo\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Data\\WeatherForecastService.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "BlazorAuth\\Data\\WeatherForecastService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:07:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Services\\AuthService.cs",
+              "ToolTip": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Services\\AuthService.cs",
+              "RelativeToolTip": "BlazorAuth\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:23:03.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

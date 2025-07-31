@@ -1,0 +1,9 @@
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.csproj.AssemblyReference.cache
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.csproj.CoreCompileInputs.cache
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.RazorAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\BlazorExamm\obj\Debug\net7.0\BlazorExamm.RazorAssemblyInfo.cs
