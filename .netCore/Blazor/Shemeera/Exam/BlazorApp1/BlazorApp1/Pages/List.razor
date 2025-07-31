@@ -1,0 +1,128 @@
+﻿@page "/"
+@page "/list"
+@using BlazorApp1.service
+@using BlazorApp1.Model
+@inject CustomerService CustomerService
+@inject NavigationManager Navigation
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+            <h3 class="mb-0">CUSTOMER FEEDBACK</h3>
+            
+        </div>
+        <div class="card-body">
+            @if (customers == null)
+            {
+                <div class="text-center">
+                    <div class="spinner-border text-primary" role="status"></div>
+                    <p>Loading customer...</p>
+                </div>
+            }
+            else if (customers.Count == 0)
+            {
+                <p class="text-center text-muted">No Customer found.</p>
+            }
+            else
+            {
+                <table class="table table-striped table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Rating</th>
+                            <th>Commends</th>
+                           
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var c in customers)
+                        {
+                            <tr>
+                                <td>@c.FullName</td>
+                                <td>@c.Email</td>
+                                <td>@c.Rating</td>
+                                <td>@c.Commends</td>
+                               
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Add Customers</h3>
+        </div>
+        <div class="card-body">
+
+            <EditForm Model="newCustomer" OnValidSubmit="SaveCustomer">
+                <DataAnnotationsValidator />
+                <ValidationSummary class="alert alert-danger" />
+
+                <div class="mb-3">
+                    <label class="form-label">Name:</label>
+                    <InputText class="form-control" @bind-Value="newCustomer.FullName" />
+                    <ValidationMessage For="@(() => newCustomer.FullName)" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Email:</label>
+                    <InputText class="form-control" @bind-Value="newCustomer.Email" />
+                    <ValidationMessage For="@(() => newCustomer.Email)" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Rating:</label>
+                    <InputNumber class="form-control" @bind-Value="newCustomer.Rating" />
+                    <ValidationMessage For="@(() => newCustomer.Rating)" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Commends:</label>
+                    <InputTextArea class="form-control" @bind-Value="newCustomer.Commends" rows="3" />
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+@code {
+    private List<Customer> customers = new();
+    private Customer newCustomer = new();
+    protected override async Task OnInitializedAsync()
+    {
+        customers = await CustomerService.GetCustomersAsync();
+    }
+    private async Task SaveCustomer()
+    {
+        await CustomerService.AddCustomerAsync(newCustomer);
+        customers = await CustomerService.GetCustomersAsync();
+        newCustomer = new Customer();
+
+
+
+
+    }
+
+    private void Cancel()
+    {
+        Navigation.NavigateTo("/list");
+    }
+   
+}
