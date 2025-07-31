@@ -1,0 +1,341 @@
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\appsettings.Development.json
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\appsettings.json
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.staticwebassets.runtime.json
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.exe
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.deps.json
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.runtimeconfig.json
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.pdb
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Azure.Core.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Azure.Identity.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Humanizer.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.ClientModel.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.CodeDom.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Text.Json.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.AssemblyReference.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.AssemblyInfoInputs.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.AssemblyInfo.cs
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.CoreCompileInputs.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.RazorAssemblyInfo.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.RazorAssemblyInfo.cs
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.build.json
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.development.json
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.MVC-Auth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC-Auth.props
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC-Auth.props
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC-Auth.props
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\bundle\MVC-Auth.styles.css
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\projectbundle\MVC-Auth.bundle.scp.css
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.Up2Date
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.dll
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\refint\MVC-Auth.dll
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.pdb
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.genruntimeconfig.cache
+D:\MVC\MVC-Auth\MVC-Auth\obj\Debug\net8.0\ref\MVC-Auth.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\AutoMapper.dll
+D:\MVC\MVC-Auth\MVC-Auth\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\appsettings.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.staticwebassets.runtime.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\MVC-Auth.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Humanizer.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.RazorAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.RazorAssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.MVC-Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC-Auth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC-Auth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC-Auth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\bundle\MVC-Auth.styles.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\scopedcss\projectbundle\MVC-Auth.bundle.scp.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.csproj.Up2Date
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\refint\MVC-Auth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\MVC-Auth.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 9\Activity\MVC-Auth\MVC-Auth\obj\Debug\net8.0\ref\MVC-Auth.dll

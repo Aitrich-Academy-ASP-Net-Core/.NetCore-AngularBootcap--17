@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGq3I0yrQEUOqxH6EC6SzAwAAAAACAAAAAAAQZgAAAAEAACAAAADgAR4tSrY7NFoinNYN+DTSaAwVGdU2cm+5FJZpH7v4dgAAAAAOgAAAAAIAACAAAAAiDEDADJ3HZGAk8QfmCxwXg98v7Tvh/WSNRyNklo4X54AAAACIr2LH8dG2zHxo9cMKfuM+b8zzG9aKQfqV2fczEplPekAZEuqtzzmWKQWCASF3GYXADdBkqpYW94fEZowJmxHz8UZ3+HSb8GMQZOpLSrkc7v/nocVLlNO1nNM7L4H34bvPaPTbKaVtZGZ9JuMoqJhM9+ZBm93iROriuJZ3CaFo2kAAAACS0EbK4Pv7FWhfDHyNes1BGvJ26AjbsETsAbteFbjdzrOeDfWYYBdAY6jD+7rVHiB4hymzXQB7+UlqMePLfK1X</EncryptedPassword>
+    <History>False|2025-01-23T10:50:30.8130583Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="EmployeeAdminPortal.Data.ApplicationDbContext">
+      <Value>
+      </Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

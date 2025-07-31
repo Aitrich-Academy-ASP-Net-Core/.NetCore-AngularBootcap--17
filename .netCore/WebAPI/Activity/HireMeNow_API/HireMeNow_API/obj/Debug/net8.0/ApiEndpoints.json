@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "HireMeNow_API.API.JOBSeeker.JobSeekerController",
+    "Method": "Login",
+    "RelativePath": "api/JobSeeker/job-seeker/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logdata",
+        "Type": "HireMeNow_API.API.JOBSeeker.RequestObjects.JobSeekerLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_API.API.JOBSeeker.JobSeekerController",
+    "Method": "createJobSeekerSignupRequest",
+    "RelativePath": "api/JobSeeker/job-seeker/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "HireMeNow_API.API.JOBSeeker.RequestObjects.JobSeekerSignupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_API.API.JOBSeeker.JobSeekerController",
+    "Method": "createJobSeekerSignupRequest",
+    "RelativePath": "api/JobSeeker/job-seeker/signup/{jobSeekerSignupRequestId}/set-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSeekerSignupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_API.API.JOBSeeker.JobSeekerController",
+    "Method": "VerifyJobSeekerEmail",
+    "RelativePath": "api/JobSeeker/job-seeker/signup/{jobSeekerSignupRequestId}/verify-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSeekerSignupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HireMeNow_API.WeatherForecast, HireMeNow_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
