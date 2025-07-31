@@ -1,5 +1,27 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+=======
   "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\",
   "Documents": [
     {
@@ -12,6 +34,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\employee\\employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+>>>>>>> be732d35a254005af27a136017c33e1099f715de
       "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,40 +45,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:48:50.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Employee\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeToolTip": "Employee\\Pages\\Index.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T19:55:15.079Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Display.razor",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "Employee\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "RelativeToolTip": "Employee\\Pages\\Display.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB0AAAAeAAAAAAAAAA==",
+=======
               "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
               "RelativeDocumentMoniker": "Employee\\Pages\\Display.razor",
               "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
               "RelativeToolTip": "Employee\\Pages\\Display.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+>>>>>>> be732d35a254005af27a136017c33e1099f715de
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-11T07:45:29.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Employee\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
+=======
               "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Employee\\Shared\\NavMenu.razor",
               "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
+>>>>>>> be732d35a254005af27a136017c33e1099f715de
               "RelativeToolTip": "Employee\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-11T07:42:26.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "bootstrap.min.css",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+=======
               "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+>>>>>>> be732d35a254005af27a136017c33e1099f715de
               "RelativeToolTip": "Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
