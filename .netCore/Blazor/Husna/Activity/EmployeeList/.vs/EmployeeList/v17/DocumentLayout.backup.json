@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\interface\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:interface\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\employeelist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:employeelist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\husna\\activity\\employeelist\\migrations\\20250725174459_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F265BBFE-123F-4B23-A961-8B626D2FE5BA}|EmployeeList.csproj|solutionrelative:migrations\\20250725174459_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "Pages\\List.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\List.razor",
+              "RelativeToolTip": "Pages\\List.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:52:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:11:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:47:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:47:27.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:58:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Create.razor",
+              "RelativeToolTip": "Pages\\Create.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:52:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Delete.razor",
+              "RelativeToolTip": "Pages\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:52:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:11:53.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:46:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Pages\\Edit.razor",
+              "RelativeToolTip": "Pages\\Edit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T17:52:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T18:20:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250725174459_First.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Migrations\\20250725174459_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250725174459_First.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Migrations\\20250725174459_First.cs",
+              "RelativeToolTip": "Migrations\\20250725174459_First.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:44:59.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T17:37:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:30:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:15:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmpService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Interface\\IEmpService.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmpService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Interface\\IEmpService.cs",
+              "RelativeToolTip": "Interface\\IEmpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:09:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Interface\\IEmpRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmpRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\Interface\\IEmpRepository.cs",
+              "RelativeToolTip": "Interface\\IEmpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:09:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeList.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\EmployeeList.csproj",
+              "RelativeDocumentMoniker": "EmployeeList.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Husna\\Activity\\EmployeeList\\EmployeeList.csproj",
+              "RelativeToolTip": "EmployeeList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T16:44:30.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

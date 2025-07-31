@@ -1,0 +1,47 @@
+﻿@page "/addtask"
+@using TaskManagement.Interface
+@inject ITaskService TaskService
+@inject NavigationManager Navigation
+@using TaskManagement.Model
+
+
+<h3>Add New Task</h3>
+
+<EditForm Model="@task" OnValidSubmit="HandleSubmit">
+  
+    
+
+    <div >
+        <label>Title</label>
+        <InputText @bind-Value="task.TaskTitle" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Description</label>
+        <InputTextArea @bind-Value="task.Description" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Due Date</label>
+        <InputDate @bind-Value="task.DueDate" class="form-control" />
+    </div>
+
+    <button>Add Task</button>
+    <button type="button" @onclick="Cancel">Cancel</button>
+</EditForm>
+
+@code {
+    private TaskItemDto task = new();
+
+    private async Task HandleSubmit()
+    {
+        await TaskService.AddTaskAsync(task);
+        Navigation.NavigateTo("/");
+    }
+
+    private void Cancel()
+    {
+        Navigation.NavigateTo("/");
+    }
+}
+

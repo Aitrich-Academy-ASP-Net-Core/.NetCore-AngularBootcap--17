@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 8\\activity\\employee\\employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 8\\activity\\employee\\employee\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 8\\activity\\employee\\employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\employee\\employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,46 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:48:50.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Employee\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeToolTip": "Employee\\Pages\\Index.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T19:55:15.079Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Display.razor",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
               "RelativeDocumentMoniker": "Employee\\Pages\\Display.razor",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
               "RelativeToolTip": "Employee\\Pages\\Display.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAA3AAAA",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-11T07:45:29.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Employee\\Shared\\NavMenu.razor",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Employee\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T07:42:26.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T07:42:26.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeToolTip": "Employee\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-05T11:27:48.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T11:27:48.031Z"
             }
           ]
         }
