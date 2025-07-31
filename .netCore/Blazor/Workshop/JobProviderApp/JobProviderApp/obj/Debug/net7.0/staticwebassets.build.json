@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "a0P2uIXBmfNKCIGxG8EAGuGD3L6Q1larjn4QHFGH6hY=",
+=======
   "Hash": "qLCKmsXGtyZUJZbGXYdYufP9hlpl/um8Z/fBrodpkFk=",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
   "Source": "JobProviderApp",
   "BasePath": "_content/JobProviderApp",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "JobProviderApp\\wwwroot",
       "Source": "JobProviderApp",
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
       "SourceId": "JobProviderApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "JobProviderApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,6 +50,15 @@
       "Integrity": "ySrCZe2o0KPqWc5uQ2csVf0uxu6yrpBiC8WCiri824k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css"
     },
     {
@@ -42,6 +66,7 @@
       "SourceId": "JobProviderApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "JobProviderApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,6 +81,15 @@
       "Integrity": "ySrCZe2o0KPqWc5uQ2csVf0uxu6yrpBiC8WCiri824k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "OriginalItemSpec": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css"
     },
     {
@@ -63,6 +97,7 @@
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +115,17 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +143,17 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +171,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -143,10 +199,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -164,10 +227,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -185,10 +255,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -206,10 +283,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +311,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -248,10 +339,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +367,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +395,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +423,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
+      "SourceId": "JobProviderApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
       "SourceId": "JobProviderApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/JobProviderApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -335,7 +454,11 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -356,7 +479,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -380,7 +507,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +532,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -417,7 +552,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +577,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +605,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +630,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -499,7 +650,11 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -520,7 +675,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -544,7 +703,11 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +728,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +748,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -602,7 +773,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -626,7 +801,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -647,7 +826,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -663,7 +846,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -684,7 +871,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -708,7 +899,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -729,7 +924,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -753,7 +952,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -774,7 +977,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -790,7 +997,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +1022,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -835,7 +1050,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -856,7 +1075,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -872,7 +1095,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +1120,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -909,7 +1140,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -930,7 +1165,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -954,7 +1193,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +1218,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -991,7 +1238,11 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1263,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1028,7 +1283,11 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1049,7 +1308,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1073,7 +1336,11 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1094,7 +1361,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1381,11 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1406,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1434,11 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1459,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1200,7 +1487,11 @@
     },
     {
       "Route": "css/open-iconic/README.md",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\open-iconic\\README.md",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1221,7 +1512,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1532,11 @@
     },
     {
       "Route": "css/site.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1557,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1274,7 +1577,11 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\css\\site.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1295,7 +1602,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1630,11 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1340,7 +1655,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1683,11 @@
     },
     {
       "Route": "favicon.png",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\wwwroot\\favicon.png",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1385,7 +1708,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
           "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1401,7 +1728,11 @@
     },
     {
       "Route": "JobProviderApp.bundle.scp.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1753,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 18:13:22 GMT"
+=======
           "Value": "Mon, 28 Jul 2025 01:27:51 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1438,7 +1773,11 @@
     },
     {
       "Route": "JobProviderApp.styles.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1459,7 +1798,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 18:13:22 GMT"
+=======
           "Value": "Mon, 28 Jul 2025 01:27:51 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1475,7 +1818,11 @@
     },
     {
       "Route": "JobProviderApp.v2t0epb7j0.bundle.scp.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JobProviderApp.bundle.scp.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1496,7 +1843,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 18:13:22 GMT"
+=======
           "Value": "Mon, 28 Jul 2025 01:27:51 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1520,7 +1871,11 @@
     },
     {
       "Route": "JobProviderApp.v2t0epb7j0.styles.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
+=======
       "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\JobProviderApp.styles.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1541,7 +1896,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Mon, 14 Jul 2025 18:13:22 GMT"
+=======
           "Value": "Mon, 28 Jul 2025 01:27:51 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",

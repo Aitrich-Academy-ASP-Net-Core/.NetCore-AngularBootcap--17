@@ -1,5 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\workshop\\jobproviderapp\\jobproviderapp\\jobproviderapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\jobproviderapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\workshop\\jobproviderapp\\jobproviderapp\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
   "Documents": [
     {
@@ -13,6 +24,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\workshop\\jobproviderapp\\jobproviderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobProviderApp",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+              "RelativeDocumentMoniker": "JobProviderApp\\JobProviderApp.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+              "RelativeToolTip": "JobProviderApp\\JobProviderApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T05:29:07.683Z",
+=======
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -35,10 +62,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T03:30:23.135Z",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "JobProviderApp\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:17:08.607Z",
+              "EditorCaption": ""
+=======
               "DocumentIndex": 0,
               "Title": "JobProviderApp.csproj",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
@@ -61,6 +101,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-28T01:25:50.842Z"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
             }
           ]
         }

@@ -1,14 +1,34 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\migrations\\20250717091610_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\migrations\\20250717091610_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\blazorauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\blazorauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\blazorauth\\blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazorAuth\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor",
+              "RelativeToolTip": "BlazorAuth\\Pages\\Register.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T06:44:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250717091610_auth.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Migrations\\20250717091610_auth.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Migrations\\20250717091610_auth.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Migrations\\20250717091610_auth.cs",
+              "RelativeToolTip": "BlazorAuth\\Migrations\\20250717091610_auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:16:10.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\appsettings.json",
+              "RelativeToolTip": "BlazorAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T09:14:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlazorAuth.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\BlazorAuth.csproj",
+              "RelativeDocumentMoniker": "BlazorAuth\\BlazorAuth.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\BlazorAuth.csproj",
+              "RelativeToolTip": "BlazorAuth\\BlazorAuth.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T14:07:20.654Z"
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Program.cs",
               "RelativeDocumentMoniker": "BlazorAuth\\Program.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Program.cs*",
-              "RelativeToolTip": "BlazorAuth\\Program.cs*",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Program.cs",
+              "RelativeToolTip": "BlazorAuth\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T18:09:56.4Z",
@@ -35,16 +108,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "BlazorAuth\\Pages\\Register.razor",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor",
               "RelativeToolTip": "BlazorAuth\\Pages\\Register.razor",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-19T04:09:57.266Z",
               "EditorCaption": ""
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
             }
           ]
         }

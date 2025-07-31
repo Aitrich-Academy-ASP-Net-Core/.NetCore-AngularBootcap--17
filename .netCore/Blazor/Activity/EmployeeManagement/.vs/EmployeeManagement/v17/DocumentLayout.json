@@ -1,6 +1,19 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\employeemanagement\\employeemanagement\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\blazor\\activity\\employeemanagement\\employeemanagement\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\",
   "Documents": [
     {
@@ -20,10 +33,29 @@
   "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\",
   "Documents": [],
 >>>>>>> be732d35a254005af27a136017c33e1099f715de
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Pages\\List.razor",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\List.razor",
+              "RelativeToolTip": "EmployeeManagement\\Pages\\List.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T01:48:44.52Z",
+=======
 <<<<<<< HEAD
       "DocumentGroups": [
         {
@@ -41,10 +73,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T00:38:40.993Z",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\Create.razor",
+              "RelativeToolTip": "EmployeeManagement\\Pages\\Create.razor",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T01:43:06.097Z",
+              "EditorCaption": ""
+=======
               "DocumentIndex": 2,
               "Title": "20250725162535_temp.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Migrations\\20250725162535_temp.cs",
@@ -66,13 +111,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-25T16:24:40.517Z"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
             }
           ]
         }
       ]
+<<<<<<< HEAD
+=======
 =======
       "DocumentGroups": []
 >>>>>>> be732d35a254005af27a136017c33e1099f715de
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     }
   ]
 }
