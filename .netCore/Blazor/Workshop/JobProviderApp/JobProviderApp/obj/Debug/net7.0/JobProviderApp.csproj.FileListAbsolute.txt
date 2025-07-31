@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\appsettings.json
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.staticwebassets.runtime.json
@@ -81,3 +82,88 @@ C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.pdb
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.genruntimeconfig.cache
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\ref\JobProviderApp.dll
+=======
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.staticwebassets.runtime.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.staticwebassets.endpoints.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.exe
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.deps.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.runtimeconfig.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\JobProviderApp.pdb
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.csproj.AssemblyReference.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.AssemblyInfoInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.AssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.RazorAssemblyInfo.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.RazorAssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.sourcelink.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\scopedcss\bundle\JobProviderApp.styles.css
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\scopedcss\projectbundle\JobProviderApp.bundle.scp.css
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets\msbuild.JobProviderApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets\msbuild.JobProviderApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets\msbuild.build.JobProviderApp.props
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JobProviderApp.props
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JobProviderApp.props
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProvi.FA1B4F99.Up2Date
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\refint\JobProviderApp.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.pdb
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\JobProviderApp.genruntimeconfig.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\Blazor\Workshop\JobProviderApp\JobProviderApp\obj\Debug\net7.0\ref\JobProviderApp.dll
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855

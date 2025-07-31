@@ -1,12 +1,46 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BookStore\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\blazor\\activity\\bookstore\\activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BudgetBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeDocumentMoniker": "Activity\\Data\\BudgetBookService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeToolTip": "Activity\\Data\\BudgetBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:40:27.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     }
   ]
 }

@@ -1,0 +1,70 @@
+﻿@page "/"
+@inject ITaskService TaskService
+@inject NavigationManager Navigation
+@using TaskManagement.Interface
+@using TaskManagement.Model
+
+
+<h3>ListTask</h3>
+<button @onclick="NavigateToAddTask">Add New Task</button>
+@if (tasks == null)
+{
+    <p>Loading</p>
+}
+else
+{
+    <table style="width:100%">
+        <thead>
+            <tr>
+                <td>TaskTitle</td>
+                <td>DueDate</td>
+                <td>Status</td>
+                <td>Actions</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var task in tasks)
+            {
+                <tr>
+                    <td>@task.TaskTitle</td>
+                    <td>@task.DueDate</td>
+                    <td>@(task.IsFinished ? "Completed" : "Pending")</td>
+                    <td style="border: 1px solid #ccc; padding: 6px;">
+                        <button @onclick="() =>MarkAsCompleted(task.Id)">Completed</button>
+                        <button @onclick="() => DeleteTask(task.Id)">Delete</button>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+
+@code {
+    private List<TaskItemDto> tasks;
+    protected override async Task OnInitializedAsync()
+    {
+        tasks = await TaskService.GetAllTasksAsync();
+    }
+    private async Task DeleteTask(int id)
+    {
+        await TaskService.DeleteTaskAsync(id);
+        tasks = await TaskService.GetAllTasksAsync();
+    }
+
+    private async Task MarkAsCompleted(int id)
+    {
+        await TaskService.MarkAsCompletedAsync(id);
+        tasks = await TaskService.GetAllTasksAsync();
+      
+    }
+
+    private void NavigateToAddTask()
+    {
+        Navigation.NavigateTo("/addtask");
+    }
+
+
+
+}

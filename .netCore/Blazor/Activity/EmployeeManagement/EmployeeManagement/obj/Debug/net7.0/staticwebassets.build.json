@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "Ec0DAGpx5supoVLOAcTdrHqWG3tpMzk3DING0tjCgEU=",
+=======
+  "Hash": "/6SsDqmWoAj8PWUOcdK8P2KwlRFke1+eMiz7j7+DMm4=",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "EmployeeManagement\\wwwroot",
       "Source": "EmployeeManagement",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "EmployeeManagement#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,6 +50,7 @@
       "Integrity": "lOtuC/acBxBTSg9F1zvUPOYw+KnXfUc70gCofwDr+jA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css"
     },
     {
@@ -42,6 +58,15 @@
       "SourceId": "EmployeeManagement",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "EmployeeManagement#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,6 +81,7 @@
       "Integrity": "lOtuC/acBxBTSg9F1zvUPOYw+KnXfUc70gCofwDr+jA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css"
     },
     {
@@ -63,6 +89,15 @@
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +115,17 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +143,17 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +171,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -143,10 +199,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -164,10 +227,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -185,10 +255,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -206,10 +283,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +311,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -248,10 +339,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +367,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +395,17 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +423,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "BasePath": "_content/EmployeeManagement",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -335,7 +454,11 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -356,7 +479,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -380,7 +507,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +532,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -417,7 +552,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +577,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +605,11 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +630,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -499,7 +650,11 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -520,7 +675,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -544,7 +703,11 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +728,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +748,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -602,7 +773,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -626,7 +801,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -647,7 +826,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -663,7 +846,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -684,7 +871,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -708,7 +899,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -729,7 +924,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -753,7 +952,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -774,7 +977,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -790,7 +997,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +1022,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -835,7 +1050,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -856,7 +1075,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -872,7 +1095,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +1120,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -909,7 +1140,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -930,7 +1165,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -954,7 +1193,11 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +1218,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -991,7 +1238,11 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1263,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1028,7 +1283,11 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1049,7 +1308,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1073,7 +1336,11 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1094,7 +1361,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1381,11 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1406,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1434,11 @@
     },
     {
       "Route": "css/open-iconic/README.5bzwdl5l6x.md",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1459,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1200,7 +1487,11 @@
     },
     {
       "Route": "css/open-iconic/README.md",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\open-iconic\\README.md",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1221,7 +1512,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1532,11 @@
     },
     {
       "Route": "css/site.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1557,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1274,7 +1577,11 @@
     },
     {
       "Route": "css/site.zh9s866nx2.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1295,7 +1602,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1630,11 @@
     },
     {
       "Route": "EmployeeManagement.bundle.scp.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1340,7 +1655,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 17 Jul 2025 09:30:38 GMT"
+=======
+          "Value": "Fri, 25 Jul 2025 16:25:10 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1356,7 +1675,11 @@
     },
     {
       "Route": "EmployeeManagement.gh67fosll9.bundle.scp.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1377,7 +1700,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 17 Jul 2025 09:30:38 GMT"
+=======
+          "Value": "Fri, 25 Jul 2025 16:25:10 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1401,7 +1728,11 @@
     },
     {
       "Route": "EmployeeManagement.gh67fosll9.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1753,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 17 Jul 2025 09:30:38 GMT"
+=======
+          "Value": "Fri, 25 Jul 2025 16:25:10 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1446,7 +1781,11 @@
     },
     {
       "Route": "EmployeeManagement.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EmployeeManagement.styles.css",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1806,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 17 Jul 2025 09:30:38 GMT"
+=======
+          "Value": "Fri, 25 Jul 2025 16:25:10 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1483,7 +1826,11 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1504,7 +1851,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1879,11 @@
     },
     {
       "Route": "favicon.png",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
+=======
+      "AssetFile": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.png",
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1904,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 14 Jul 2025 06:12:15 GMT"
+=======
+          "Value": "Mon, 14 Jul 2025 18:45:18 GMT"
+>>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         },
         {
           "Name": "Cache-Control",

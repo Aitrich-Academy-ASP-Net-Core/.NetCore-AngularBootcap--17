@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\dto\\usedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\dto\\usedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\mvc-auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\mvc-auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 9\\activity\\mvc-auth\\mvc-auth\\migrations\\20250311085612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\migrations\\20250311085612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserService.cs",
+              "RelativeToolTip": "MVC-Auth\\Interface\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:07:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MVC-Auth\\Repository\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:06:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Service\\UserService.cs",
+              "RelativeToolTip": "MVC-Auth\\Service\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:07:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "MVC-Auth\\Controllers\\UserController.cs*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:12:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml*",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Register.cshtml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:14:03.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:14:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml*",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Dashboard.cshtml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:20:41.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
+              "RelativeToolTip": "MVC-Auth\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:53:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:03:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "MVC-Auth\\Interface\\IUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:05:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "MVC-Auth\\Helper\\MappingProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:00:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UseDto.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\UseDto.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Dto\\UseDto.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\UseDto.cs",
+              "RelativeToolTip": "MVC-Auth\\Dto\\UseDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:58:03.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "MVC-Auth\\Dto\\RegisterDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:58:14.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "MVC-Auth\\Dto\\LoginDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:58:24.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MVC-Auth\\Models\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:51:54.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC-Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\appsettings.json",
+              "RelativeToolTip": "MVC-Auth\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T08:52:33.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Models\\User.cs",
+              "RelativeToolTip": "MVC-Auth\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:51:08.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC-Auth\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:53:35.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\Home\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T10:52:22.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T10:52:20.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MVC-Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
+              "RelativeDocumentMoniker": "MVC-Auth\\MVC-Auth.csproj",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
+              "RelativeToolTip": "MVC-Auth\\MVC-Auth.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T08:57:43.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250311085612_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Migrations\\20250311085612_Initial.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Migrations\\20250311085612_Initial.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\MVC-Auth\\MVC-Auth\\Migrations\\20250311085612_Initial.cs",
+              "RelativeToolTip": "MVC-Auth\\Migrations\\20250311085612_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:56:13.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

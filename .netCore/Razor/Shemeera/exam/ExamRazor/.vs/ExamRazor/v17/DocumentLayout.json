@@ -1,117 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\ExamRazor\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\repository\\libraryreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\repository\\libraryreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\librarydto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\librarydto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\interface\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\interface\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\interface\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\interface\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\librarydto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\librarydto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\librarydto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\examrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\librarydto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\librarydto\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\interface\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\interface\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\repository\\libraryreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\repository\\libraryreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\interface\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\interface\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\examrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\examrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|d:\\c#\\examrazor\\examrazor\\migrations\\20250709060412_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\shemeera\\exam\\examrazor\\examrazor\\migrations\\20250709060412_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3FE51E-A48D-4C6E-B9A8-CC895A5DC641}|ExamRazor\\ExamRazor.csproj|solutionrelative:examrazor\\migrations\\20250709060412_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,15 +122,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -138,139 +138,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:09:25.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:09:25.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Delete.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Delete.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T08:08:53.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:08:53.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "BookAdd.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookAdd.cshtml.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T07:54:03.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:54:03.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "BookAdd.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookAdd.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookAdd.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookAdd.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T07:53:54.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:53:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
+              "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:51:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml",
+              "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml",
+              "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookList.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T07:50:08.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookList.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
-              "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
-              "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookList.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T07:51:18.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookList.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml",
-              "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\BookList.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\BookList.cshtml",
-              "RelativeToolTip": "ExamRazor\\Pages\\Library\\BookList.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T07:50:08.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Index.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml.cs",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Index.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T07:17:44.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:17:44.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Login.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml.cs",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Login.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T07:16:03.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Register.cshtml.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml.cs",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Register.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T07:12:23.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Index.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Index.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T07:12:19.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:12:19.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Login.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Login.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -278,76 +270,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml",
               "RelativeDocumentMoniker": "ExamRazor\\Pages\\Library\\Register.cshtml",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Pages\\Library\\Register.cshtml",
               "RelativeToolTip": "ExamRazor\\Pages\\Library\\Register.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-09T07:11:43.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ILibraryService.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Interface\\ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Interface\\ILibraryService.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Interface\\ILibraryService.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Interface\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Interface\\ILibraryService.cs",
               "RelativeToolTip": "ExamRazor\\Interface\\ILibraryService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T06:51:11.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LibraryService.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Service\\LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Service\\LibraryService.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Service\\LibraryService.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Service\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Service\\LibraryService.cs",
               "RelativeToolTip": "ExamRazor\\Service\\LibraryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:25:29.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LibraryReository.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Repository\\LibraryReository.cs",
-              "RelativeDocumentMoniker": "ExamRazor\\Repository\\LibraryReository.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Repository\\LibraryReository.cs",
-              "RelativeToolTip": "ExamRazor\\Repository\\LibraryReository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:24:32.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:25:29.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LibraryReository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Repository\\LibraryReository.cs",
+              "RelativeDocumentMoniker": "ExamRazor\\Repository\\LibraryReository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Repository\\LibraryReository.cs",
+              "RelativeToolTip": "ExamRazor\\Repository\\LibraryReository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:24:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ILibraryRepository.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Interface\\ILibraryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Interface\\ILibraryRepository.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Interface\\ILibraryRepository.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Interface\\ILibraryRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Interface\\ILibraryRepository.cs",
               "RelativeToolTip": "ExamRazor\\Interface\\ILibraryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T06:11:45.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 14,
               "Title": "Automapper.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Helper\\Automapper.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Helper\\Automapper.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Helper\\Automapper.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Helper\\Automapper.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Helper\\Automapper.cs",
               "RelativeToolTip": "ExamRazor\\Helper\\Automapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T06:10:24.651Z"
             },
@@ -355,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "20250709060412_Initial.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Migrations\\20250709060412_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Migrations\\20250709060412_Initial.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Migrations\\20250709060412_Initial.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Migrations\\20250709060412_Initial.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Migrations\\20250709060412_Initial.cs",
               "RelativeToolTip": "ExamRazor\\Migrations\\20250709060412_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,35 +355,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Program.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Program.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Program.cs",
               "RelativeToolTip": "ExamRazor\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T05:54:34.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Extension\\ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Extension\\ApplicationServiceExtension.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Extension\\ApplicationServiceExtension.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Extension\\ApplicationServiceExtension.cs",
               "RelativeToolTip": "ExamRazor\\Extension\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T05:49:46.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Model\\LibraryDbContext.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\LibraryDbContext.cs",
               "RelativeToolTip": "ExamRazor\\Model\\LibraryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "BooksDto.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\LIbraryDto\\BooksDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\LIbraryDto\\BooksDto.cs",
               "RelativeDocumentMoniker": "ExamRazor\\LIbraryDto\\BooksDto.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\LIbraryDto\\BooksDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\LIbraryDto\\BooksDto.cs",
               "RelativeToolTip": "ExamRazor\\LIbraryDto\\BooksDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +403,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 7,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\LIbraryDto\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\LIbraryDto\\UserDto.cs",
               "RelativeDocumentMoniker": "ExamRazor\\LIbraryDto\\UserDto.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\LIbraryDto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\LIbraryDto\\UserDto.cs",
               "RelativeToolTip": "ExamRazor\\LIbraryDto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,9 +417,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\Book.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Model\\Book.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\Book.cs",
               "RelativeToolTip": "ExamRazor\\Model\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,9 +429,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\User.cs",
               "RelativeDocumentMoniker": "ExamRazor\\Model\\User.cs",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\Model\\User.cs",
               "RelativeToolTip": "ExamRazor\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,9 +441,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ExamRazor.csproj",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\ExamRazor.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\ExamRazor.csproj",
               "RelativeDocumentMoniker": "ExamRazor\\ExamRazor.csproj",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\ExamRazor.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\ExamRazor.csproj",
               "RelativeToolTip": "ExamRazor\\ExamRazor.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -461,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\c#\\ExamRazor\\ExamRazor\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\appsettings.json",
               "RelativeDocumentMoniker": "ExamRazor\\appsettings.json",
-              "ToolTip": "D:\\c#\\ExamRazor\\ExamRazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Shemeera\\exam\\ExamRazor\\ExamRazor\\appsettings.json",
               "RelativeToolTip": "ExamRazor\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
