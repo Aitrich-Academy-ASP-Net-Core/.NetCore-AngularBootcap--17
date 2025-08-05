@@ -1,6 +1,10 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
   "Documents": [
     {
@@ -27,6 +31,7 @@
 >>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     }
   ],
+>>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
