@@ -1,126 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Project Activity\\Mini_project\\",
+  "WorkspaceRootPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project Activity\\Mini_project\\Migrations\\20250708094228_Enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250708094228_Enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project Activity\\Mini_project\\Migrations\\20250708092103_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250708092103_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\interfaces\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\interfaces\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:interfaces\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\services\\membservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\services\\membservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\repository\\membrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\repository\\membrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project Activity\\Mini_project\\Migrations\\20250708074233_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250708074233_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\migrations\\20250708094228_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:migrations\\20250708094228_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\services\\membservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\services\\membservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\repository\\membrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\repository\\membrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\pages\\menu\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\pages\\menu\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:pages\\menu\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\migrations\\20250705070059_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\migrations\\20250705070059_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:migrations\\20250705070059_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\project activity\\mini_project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\migrations\\20250708092103_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:migrations\\20250708092103_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|c:\\batch 17 repo\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\mini_project\\migrations\\20250708074233_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56CA41-60A9-46AD-8A62-DD6F14A7738E}|Mini_project.csproj|solutionrelative:migrations\\20250708074233_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,107 +130,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Index2.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Menu\\Index2.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml.cs",
               "RelativeToolTip": "Pages\\Menu\\Index2.cshtml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T07:52:10.143Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250708094228_Enter.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Migrations\\20250708094228_Enter.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250708094228_Enter.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Migrations\\20250708094228_Enter.cs",
-              "RelativeToolTip": "Migrations\\20250708094228_Enter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:42:29.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CompanyMember.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Models\\CompanyMember.cs",
-              "RelativeDocumentMoniker": "Models\\CompanyMember.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Models\\CompanyMember.cs",
-              "RelativeToolTip": "Models\\CompanyMember.cs",
-              "ViewState": "AgIAAAkAAABImZmZmRkxwAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T05:37:36.286Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Create.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Menu\\Create.cshtml",
-              "ViewState": "AgIAAAQAAADgZWZmZmYkwBUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T14:43:15.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Delete.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Menu\\Delete.cshtml",
-              "ViewState": "AgIAABIAAACAKDMzMzMLwBEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T15:24:22.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Edit.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Menu\\Edit.cshtml",
-              "ViewState": "AgIAABUAAADAZmZmZmYkwBQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T15:08:43.714Z",
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAoAAADOy8zMzMw3wA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:44:45.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Index2.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml",
-              "RelativeToolTip": "Pages\\Menu\\Index2.cshtml",
-              "ViewState": "AgIAAAEAAAC4ZWZmZmYUwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T07:45:58.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MemberDto.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\DTO\\MemberDto.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\DTO\\MemberDto.cs",
               "RelativeDocumentMoniker": "DTO\\MemberDto.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\DTO\\MemberDto.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\DTO\\MemberDto.cs",
               "RelativeToolTip": "DTO\\MemberDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,50 +173,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250708092103_again.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Migrations\\20250708092103_again.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250708092103_again.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Migrations\\20250708092103_again.cs",
-              "RelativeToolTip": "Migrations\\20250708092103_again.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAIAAADYZWZmZmYkwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:21:04.52Z",
+              "WhenOpened": "2025-07-05T06:48:17.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Create.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Menu\\Create.cshtml.cs",
-              "ViewState": "AgIAAAUAAADgzMzMzMwtwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:45:05.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICompanyService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Interfaces\\ICompanyService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICompanyService.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Interfaces\\ICompanyService.cs",
-              "RelativeToolTip": "Interfaces\\ICompanyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:53:57.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "ICompanyRepo.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Interfaces\\ICompanyRepo.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Interfaces\\ICompanyRepo.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICompanyRepo.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Interfaces\\ICompanyRepo.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Interfaces\\ICompanyRepo.cs",
               "RelativeToolTip": "Interfaces\\ICompanyRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,102 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Menu\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T15:09:52.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MembService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Services\\MembService.cs",
-              "RelativeDocumentMoniker": "Pages\\Services\\MembService.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Services\\MembService.cs",
-              "RelativeToolTip": "Pages\\Services\\MembService.cs",
-              "ViewState": "AgIAABEAAADg/////384wB8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T08:43:42.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MembRepo.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Repository\\MembRepo.cs",
-              "RelativeDocumentMoniker": "Pages\\Repository\\MembRepo.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Repository\\MembRepo.cs",
-              "RelativeToolTip": "Pages\\Repository\\MembRepo.cs",
-              "ViewState": "AgIAABQAAABA0czMzMwUwCQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T08:11:19.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Menu\\Delete.cshtml.cs",
-              "ViewState": "AgIAAA0AAACg/v////8nwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T15:24:39.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250708074233_final.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Migrations\\20250708074233_final.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250708074233_final.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Migrations\\20250708074233_final.cs",
-              "RelativeToolTip": "Migrations\\20250708074233_final.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T07:42:34.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Login.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml",
-              "RelativeToolTip": "Pages\\Menu\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T07:11:28.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Menu\\Login.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml.cs",
-              "RelativeToolTip": "Pages\\Menu\\Login.cshtml.cs",
-              "ViewState": "AgIAABMAAABAY2ZmZmYcwBkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:14:35.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\DTO\\UserDto.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "DTO\\UserDto.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\DTO\\UserDto.cs",
               "RelativeToolTip": "DTO\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +212,204 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250708094228_Enter.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708094228_Enter.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250708094228_Enter.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708094228_Enter.cs",
+              "RelativeToolTip": "Migrations\\20250708094228_Enter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:42:29.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Edit.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Menu\\Edit.cshtml",
+              "ViewState": "AgIAABUAAADAZmZmZmYkwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T15:08:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Delete.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Menu\\Delete.cshtml",
+              "ViewState": "AgIAABIAAACAKDMzMzMLwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T15:24:22.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Create.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Menu\\Create.cshtml",
+              "ViewState": "AgIAAAQAAADgZWZmZmYkwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T14:43:15.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyMember.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\CompanyMember.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyMember.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\CompanyMember.cs",
+              "RelativeToolTip": "Models\\CompanyMember.cs",
+              "ViewState": "AgIAAAkAAABImZmZmRkxwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:37:36.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Index2.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Index2.cshtml",
+              "RelativeToolTip": "Pages\\Menu\\Index2.cshtml",
+              "ViewState": "AgIAAAEAAAC4ZWZmZmYUwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T07:45:58.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250708092103_again.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708092103_again.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250708092103_again.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708092103_again.cs",
+              "RelativeToolTip": "Migrations\\20250708092103_again.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:21:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Create.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Menu\\Create.cshtml.cs",
+              "ViewState": "AgIAAAUAAADgzMzMzMwtwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:45:05.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:53:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Edit.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Menu\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:09:52.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MembService.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Services\\MembService.cs",
+              "RelativeDocumentMoniker": "Pages\\Services\\MembService.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Services\\MembService.cs",
+              "RelativeToolTip": "Pages\\Services\\MembService.cs",
+              "ViewState": "AgIAABEAAADg/////384wB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:43:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MembRepo.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Repository\\MembRepo.cs",
+              "RelativeDocumentMoniker": "Pages\\Repository\\MembRepo.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Repository\\MembRepo.cs",
+              "RelativeToolTip": "Pages\\Repository\\MembRepo.cs",
+              "ViewState": "AgIAABQAAABA0czMzMwUwCQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:11:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Delete.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Menu\\Delete.cshtml.cs",
+              "ViewState": "AgIAAA0AAACg/v////8nwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:24:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250708074233_final.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708074233_final.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250708074233_final.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250708074233_final.cs",
+              "RelativeToolTip": "Migrations\\20250708074233_final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:42:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Login.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Menu\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T07:11:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Menu\\Login.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Menu\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAABAY2ZmZmYcwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:14:35.803Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Program.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Program.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAB0AAAAAmJmZmZktwCcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,9 +419,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml",
               "RelativeDocumentMoniker": "Pages\\Menu\\Register.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml",
               "RelativeToolTip": "Pages\\Menu\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -419,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\appsettings.json",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\appsettings.json",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -431,35 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Helper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Helper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:48:17.697Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Extension\\ApplicationServiceExtension.cs",
-              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Extension\\ApplicationServiceExtension.cs",
-              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAAoAAAAAKjMzMzP7vxEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:44:45.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAIAAAA4zMzMzMwnwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -467,11 +453,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Menu\\Register.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Pages\\Menu\\Register.cshtml.cs",
               "RelativeToolTip": "Pages\\Menu\\Register.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,11 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "20250705070059_Initial.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Migrations\\20250705070059_Initial.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250705070059_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250705070059_Initial.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Migrations\\20250705070059_Initial.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Migrations\\20250705070059_Initial.cs",
               "RelativeToolTip": "Migrations\\20250705070059_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,11 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Mini_project\\Models\\User.cs",
+              "DocumentMoniker": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Project Activity\\Mini_project\\Models\\User.cs",
+              "ToolTip": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Mini_project\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

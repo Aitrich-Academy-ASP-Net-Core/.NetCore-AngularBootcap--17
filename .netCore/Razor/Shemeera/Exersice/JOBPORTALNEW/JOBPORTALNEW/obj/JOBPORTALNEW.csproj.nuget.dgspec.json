@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj": {}
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Shemeera\\Exersice\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj": {}
   },
   "projects": {
-    "D:\\c#\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj": {
+    "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Shemeera\\Exersice\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj",
+        "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Shemeera\\Exersice\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj",
         "projectName": "JOBPORTALNEW",
-        "projectPath": "D:\\c#\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj",
-        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\JOBPORTALNEW\\JOBPORTALNEW\\obj\\",
+        "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Shemeera\\Exersice\\JOBPORTALNEW\\JOBPORTALNEW\\JOBPORTALNEW.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Shemeera\\Exersice\\JOBPORTALNEW\\JOBPORTALNEW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

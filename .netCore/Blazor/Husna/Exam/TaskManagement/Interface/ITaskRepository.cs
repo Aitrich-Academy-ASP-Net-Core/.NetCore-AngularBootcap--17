@@ -1,0 +1,14 @@
+﻿using TaskManagement.Model;
+
+namespace TaskManagement.Interface
+{
+    public interface ITaskRepository
+    {
+        Task<List<TaskItem>> GetAllTasksAsync();
+        Task<TaskItem> GetTaskByIdAsync(int id);
+        Task AddTaskAsync(TaskItem task);
+     
+        Task DeleteTaskAsync(int id);
+        Task MarkAsCompletedAsync(int id);
+    }
+}

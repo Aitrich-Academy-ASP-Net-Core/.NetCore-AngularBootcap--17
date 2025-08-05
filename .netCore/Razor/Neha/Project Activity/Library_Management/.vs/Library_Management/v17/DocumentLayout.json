@@ -1,117 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Project Activity\\Library_Management\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\index2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:pages\\library\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\migrations\\20250709073404_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\migrations\\20250709073404_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:migrations\\20250709073404_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\migrations\\20250709062143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\migrations\\20250709062143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:migrations\\20250709062143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|c:\\project activity\\library_management\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\library_management\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52662BBD-D354-4514-9B92-80077C89F0DD}|Library_Management.csproj|solutionrelative:models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,17 +122,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Library\\Login.cshtml",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml",
               "RelativeToolTip": "Pages\\Library\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-09T07:25:52.338Z",
               "EditorCaption": ""
@@ -141,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Library\\Delete.cshtml",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Library\\Delete.cshtml",
               "ViewState": "AgIAAAkAAAAA9/////8gwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -151,62 +151,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Extension\\ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Extension\\ApplicationServiceExtension.cs",
               "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Extension\\ApplicationServiceExtension.cs",
               "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAAQAAAAQmZmZmRkwwBMAAAAuAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:08:03.481Z"
+              "WhenOpened": "2025-07-09T06:08:03.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T06:16:13.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Models\\User.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T05:36:31.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T05:36:31.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\DTO\\UserDto.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "DTO\\UserDto.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\DTO\\UserDto.cs",
               "RelativeToolTip": "DTO\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:04:27.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:04:27.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index2.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Library\\Index2.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml.cs",
               "RelativeToolTip": "Pages\\Library\\Index2.cshtml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,9 +215,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Library\\Create.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Library\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -240,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Library\\Login.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Login.cshtml.cs",
               "RelativeToolTip": "Pages\\Library\\Login.cshtml.cs",
               "ViewState": "AgIAAA8AAAAgZGZmZuYrwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\DTO\\BookDto.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\DTO\\BookDto.cs",
               "RelativeDocumentMoniker": "DTO\\BookDto.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\DTO\\BookDto.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\DTO\\BookDto.cs",
               "RelativeToolTip": "DTO\\BookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Library\\Create.cshtml",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Create.cshtml",
               "RelativeToolTip": "Pages\\Library\\Create.cshtml",
               "ViewState": "AgIAAAcAAACAZmZmZmYUwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -276,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml",
               "RelativeDocumentMoniker": "Pages\\Library\\Index2.cshtml",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Index2.cshtml",
               "RelativeToolTip": "Pages\\Library\\Index2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -288,9 +287,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Library\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Pages\\Library\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\Library\\Delete.cshtml.cs",
               "ViewState": "AgIAAAQAAADAYmZmZmYhwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Interfaces\\IBookService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Interfaces\\IBookService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IBookService.cs",
               "RelativeToolTip": "Interfaces\\IBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,9 +311,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Repository\\BookRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Repository\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Repository\\BookRepository.cs",
               "RelativeToolTip": "Repository\\BookRepository.cs",
               "ViewState": "AgIAABAAAACgZmZmZmYjwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -324,9 +323,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,9 +335,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "IUserRepo.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Interfaces\\IUserRepo.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IUserRepo.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserRepo.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IUserRepo.cs",
               "RelativeToolTip": "Interfaces\\IUserRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,9 +347,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Services\\BookService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Services\\BookService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Services\\BookService.cs",
               "RelativeToolTip": "Services\\BookService.cs",
               "ViewState": "AgIAABQAAAAALzMzMzMDwAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,9 +359,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "IBookRepo.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Interfaces\\IBookRepo.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IBookRepo.cs",
               "RelativeDocumentMoniker": "Interfaces\\IBookRepo.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Interfaces\\IBookRepo.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Interfaces\\IBookRepo.cs",
               "RelativeToolTip": "Interfaces\\IBookRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,9 +371,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "20250709073404_final.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Migrations\\20250709073404_final.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Migrations\\20250709073404_final.cs",
               "RelativeDocumentMoniker": "Migrations\\20250709073404_final.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Migrations\\20250709073404_final.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Migrations\\20250709073404_final.cs",
               "RelativeToolTip": "Migrations\\20250709073404_final.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,9 +383,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Services\\UserService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Services\\UserService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AgIAAAIAAAAoODMzMzMLwBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,9 +395,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Repository\\UserRepository.cs",
               "RelativeToolTip": "Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,9 +407,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "AutomapperProfile.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Helper\\AutomapperProfile.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Helper\\AutomapperProfile.cs",
               "RelativeDocumentMoniker": "Helper\\AutomapperProfile.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Helper\\AutomapperProfile.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Helper\\AutomapperProfile.cs",
               "RelativeToolTip": "Helper\\AutomapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,9 +419,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "20250709062143_Initial.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Migrations\\20250709062143_Initial.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Migrations\\20250709062143_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250709062143_Initial.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Migrations\\20250709062143_Initial.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Migrations\\20250709062143_Initial.cs",
               "RelativeToolTip": "Migrations\\20250709062143_Initial.cs",
               "ViewState": "AgIAABkAAADAaGZmZmYSwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,9 +431,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\appsettings.json",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\appsettings.json",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -444,9 +443,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Models\\LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "Models\\LibraryDbContext.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Models\\LibraryDbContext.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\LibraryDbContext.cs",
               "RelativeToolTip": "Models\\LibraryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -456,9 +455,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Library_Management\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Project Activity\\Library_Management\\Models\\Book.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Library_Management\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

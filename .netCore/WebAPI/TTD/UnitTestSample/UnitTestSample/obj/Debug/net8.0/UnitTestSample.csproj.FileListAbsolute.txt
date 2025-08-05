@@ -1,0 +1,58 @@
+D:\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+D:\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+D:\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+D:\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+D:\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+D:\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
+D:\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+D:\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+D:\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+D:\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+D:\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+D:\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 10\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
