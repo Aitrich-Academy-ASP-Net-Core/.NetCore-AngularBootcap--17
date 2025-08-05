@@ -8,39 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\razal\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Activity.csproj",
       "projectName": "Activity",
       "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Activity.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Activity.csproj",
-      "projectName": "Activity",
-      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\Activity.csproj",
-      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\obj\\",
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -91,12 +75,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\BookStore\\Activity\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

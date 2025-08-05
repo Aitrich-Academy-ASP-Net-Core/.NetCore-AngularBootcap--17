@@ -8,55 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\razal\\.nuget\\packages\\": {},
-=======
-<<<<<<< HEAD
-    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
->>>>>>> be732d35a254005af27a136017c33e1099f715de
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
       "projectName": "Employee",
       "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\obj\\",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
-      "projectName": "Employee",
-      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
-      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Activity\\Employee\\Employee\\obj\\",
-=======
-      "projectUniqueName": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
-      "projectName": "Employee",
-      "projectPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\Employee.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\batch 17 repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\obj\\",
->>>>>>> be732d35a254005af27a136017c33e1099f715de
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> be732d35a254005af27a136017c33e1099f715de
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -83,15 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.200"
-=======
-<<<<<<< HEAD
-      "SdkAnalysisLevel": "9.0.200"
-=======
-      "SdkAnalysisLevel": "9.0.300"
->>>>>>> be732d35a254005af27a136017c33e1099f715de
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
     },
     "frameworks": {
       "net7.0": {
@@ -115,16 +75,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
->>>>>>> be732d35a254005af27a136017c33e1099f715de
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\Employee\\Employee\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
