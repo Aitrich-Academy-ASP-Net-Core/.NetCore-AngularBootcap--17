@@ -4767,23 +4767,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\afraa\\.nuget\\packages\\": {},
+    "C:\\Users\\razal\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\JobPortal-Activity\\JobPortal-Activity\\JobPortal-Activity.csproj",
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\JobPortal-Activity\\JobPortal-Activity\\JobPortal-Activity.csproj",
       "projectName": "JobPortal-Activity",
-      "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\JobPortal-Activity\\JobPortal-Activity\\JobPortal-Activity.csproj",
-      "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 9\\Activity\\JobPortal-Activity\\JobPortal-Activity\\obj\\",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\JobPortal-Activity\\JobPortal-Activity\\JobPortal-Activity.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\JobPortal-Activity\\JobPortal-Activity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4792,7 +4792,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4810,7 +4809,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4860,7 +4860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
