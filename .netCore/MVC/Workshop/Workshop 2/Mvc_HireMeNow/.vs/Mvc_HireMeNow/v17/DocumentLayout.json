@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\workshop\\workshop 2\\mvc_hiremenow\\mvc_hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|solutionrelative:mvc_hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc_HireMeNow\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\appsettings.json",
+              "RelativeToolTip": "Mvc_HireMeNow\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T18:59:22.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

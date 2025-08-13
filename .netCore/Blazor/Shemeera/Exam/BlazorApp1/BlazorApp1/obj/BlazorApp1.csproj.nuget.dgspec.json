@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Shemeera\\Exam\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "D:\\c#\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Shemeera\\Exam\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Shemeera\\Exam\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "D:\\c#\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
-        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\BlazorApp1\\BlazorApp1\\obj\\",
+        "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Shemeera\\Exam\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Shemeera\\Exam\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
