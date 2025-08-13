@@ -1,0 +1,61 @@
+﻿@page "/feedback"
+@inject BlazorExamm.Services.CustomerService CustomerService
+
+
+<h3>Feedback</h3>
+<form>
+    <p>
+    <label >Fullname:</label><br />
+    <input @bind="fullname"/>
+    </p>
+
+    <p>
+        <label>Email:</label><br />
+        <input @bind="email" />
+</p>
+<p>
+        <label>Rating:</label><br />
+        <input @bind="rating" />
+</p>
+<p>
+        <label>Comments:</label><br />
+        <input @bind="comments" />
+</p>
+
+</form>
+<button onclick="SubmitEvent">submit</button>
+
+<table>
+    <thead>
+    <tr>
+        <th>Name:</th>
+        <th>Email:</th>
+        <th>Rating:</th>
+        <th>Comments:</th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in feedbacklist) {
+            <tr>
+                <td>@a.fullname</td>
+                <td>@a.email</td>
+                <td>@a.rating</td>
+                <td>@a.comments</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public string fullname=string.Empty;
+    public string email = string.Empty;
+    public int rating = 0;
+    public string comments = string.Empty;
+
+    public List<Feedback> feedbacklist = new();
+
+    protected override void OnInitialized()
+    {
+        feedbacklist = CustomerService.GetAllFeedback().ToList();
+    }
+}
