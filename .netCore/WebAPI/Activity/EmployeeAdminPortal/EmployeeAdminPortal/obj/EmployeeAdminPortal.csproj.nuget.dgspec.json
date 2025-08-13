@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {}
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
         "projectName": "EmployeeAdminPortal",
-        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
         "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

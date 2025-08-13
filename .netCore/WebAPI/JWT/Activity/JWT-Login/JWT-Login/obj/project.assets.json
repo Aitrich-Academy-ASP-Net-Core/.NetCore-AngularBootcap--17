@@ -4287,11 +4287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+      "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
       "projectName": "JWT-Login",
-      "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+      "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
       "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 10\\JWT\\Activity\\JWT-Login\\JWT-Login\\obj\\",
+      "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

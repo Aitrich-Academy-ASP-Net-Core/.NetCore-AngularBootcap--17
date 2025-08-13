@@ -3539,55 +3539,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\mohammed sageer\\.nuget\\packages\\": {},
-=======
-<<<<<<< HEAD
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
->>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
+    "C:\\Users\\afraa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+      "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
       "projectName": "JobProviderApp",
-      "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
-      "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
-      "outputPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
-      "projectName": "JobProviderApp",
-      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
-      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
-      "projectName": "JobProviderApp",
-      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
-      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
->>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
+      "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+      "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
->>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
+        "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3596,6 +3564,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3613,12 +3582,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-<<<<<<< HEAD
-      "SdkAnalysisLevel": "9.0.300"
-=======
-      "SdkAnalysisLevel": "9.0.200"
->>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
+      }
     },
     "frameworks": {
       "net7.0": {
@@ -3658,6 +3622,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3666,16 +3648,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
->>>>>>> 3d6a19a167da43e85f3e167eec16782eea4be855
->>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
