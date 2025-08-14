@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,18 +83,6 @@
       "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\mvc-auth\\mvc-auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7B0AE2-C437-4486-A362-0F3146FCBA44}|MVC-Auth\\MVC-Auth.csproj|solutionrelative:mvc-auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -98,60 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MVC-Auth\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "MVC-Auth\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:06:30.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "MVC-Auth\\Dto\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
-              "RelativeToolTip": "MVC-Auth\\Dto\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T08:58:14.543Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MVC-Auth.csproj",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
-              "RelativeDocumentMoniker": "MVC-Auth\\MVC-Auth.csproj",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
-              "RelativeToolTip": "MVC-Auth\\MVC-Auth.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T08:57:43.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
-              "RelativeDocumentMoniker": "MVC-Auth\\Program.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
-              "RelativeToolTip": "MVC-Auth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T08:53:07.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Dto\\LoginDto.cs",
@@ -163,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Controllers\\UserController.cs",
@@ -171,25 +122,108 @@
               "RelativeToolTip": "MVC-Auth\\Controllers\\UserController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:12:09.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T09:12:09.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Service\\UserService.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Service\\UserService.cs",
               "RelativeToolTip": "MVC-Auth\\Service\\UserService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:07:56.855Z",
+              "WhenOpened": "2025-03-11T09:07:56.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:14:03.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MVC-Auth\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:06:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:14:29.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "RelativeToolTip": "MVC-Auth\\Views\\User\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:20:41.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Program.cs",
+              "RelativeToolTip": "MVC-Auth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:53:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MVC-Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
+              "RelativeDocumentMoniker": "MVC-Auth\\MVC-Auth.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\MVC-Auth.csproj",
+              "RelativeToolTip": "MVC-Auth\\MVC-Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T08:57:43.195Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MVC-Auth\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "MVC-Auth\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:58:14.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Models\\User.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Models\\User.cs",
@@ -201,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\appsettings.json",
               "RelativeDocumentMoniker": "MVC-Auth\\appsettings.json",
@@ -213,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MVC-Auth\\Views\\Home\\Privacy.cshtml",
@@ -225,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC-Auth\\Views\\Home\\Index.cshtml",
@@ -237,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Interface\\IUserRepository.cs",
@@ -249,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ApplicationServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Extension\\ApplicationServiceExtension.cs",
@@ -261,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Helper\\MappingProfile.cs",
@@ -273,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Interface\\IUserService.cs",
@@ -285,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UseDto.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Dto\\UseDto.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Dto\\UseDto.cs",
@@ -297,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC-Auth\\Models\\AppDbContext.cs",
@@ -306,39 +340,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T08:51:54.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Dashboard.cshtml",
-              "RelativeToolTip": "MVC-Auth\\Views\\User\\Dashboard.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T09:20:41.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "MVC-Auth\\Views\\User\\Login.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T09:14:29.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "MVC-Auth\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\MVC-Auth\\MVC-Auth\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "MVC-Auth\\Views\\User\\Register.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T09:14:03.304Z"
             },
             {
               "$type": "Document",

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,53 +66,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Edit.cshtml",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
               "RelativeToolTip": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:43:39.349Z"
+              "WhenOpened": "2025-05-07T05:43:39.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:42:57.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Index.cshtml",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "LibraryManagement\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T05:41:45.178Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:40:20.468Z"
             },
             {
               "$type": "Document",
@@ -127,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Data\\AppDbContext.cs",
@@ -138,18 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Details.cshtml",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
               "RelativeToolTip": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:44:13.656Z"
+              "WhenOpened": "2025-05-07T05:44:13.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
@@ -160,14 +142,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
               "RelativeToolTip": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:44:46.218Z"
+              "WhenOpened": "2025-05-07T05:44:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:42:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:40:20.468Z"
             },
             {
               "$type": "Document",

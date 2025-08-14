@@ -1,5 +1,13 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Workshop\\JobProviderApp\\",
   "Documents": [
     {
@@ -11,6 +19,7 @@
       "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> 2a74fadd260f89da338b57754c2f789b086f7863
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
