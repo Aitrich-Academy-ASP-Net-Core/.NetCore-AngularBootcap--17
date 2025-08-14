@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Asp.net\\LibraryManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\totalcount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\totalcount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\library\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\index1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\totalcount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\totalcount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\library\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\library\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\asp.net\\librarymanagement\\migrations\\20250709182509_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\razor\\husna\\exam\\librarymanagement\\migrations\\20250709182509_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1DE5EC7-0592-466B-B67A-1195F9FE23E6}|LibraryManagement.csproj|solutionrelative:migrations\\20250709182509_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,69 +90,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TotalCount.cshtml.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Library\\TotalCount.cshtml.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml.cs",
-              "RelativeToolTip": "Pages\\Library\\TotalCount.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T21:25:44.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TotalCount.cshtml",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Library\\TotalCount.cshtml",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml*",
-              "RelativeToolTip": "Pages\\Library\\TotalCount.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T21:25:20.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Service\\BookService.cs",
-              "RelativeDocumentMoniker": "Service\\BookService.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Service\\BookService.cs",
-              "RelativeToolTip": "Service\\BookService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T21:05:29.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Repository\\BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Repository\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Repository\\BookRepository.cs",
               "RelativeToolTip": "Repository\\BookRepository.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T21:05:13.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T21:05:13.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index1.cshtml.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Index1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Index1.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Library\\Index1.cshtml.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Index1.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Index1.cshtml.cs",
               "RelativeToolTip": "Pages\\Library\\Index1.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T21:00:23.041Z",
               "EditorCaption": ""
@@ -160,23 +120,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index1.cshtml",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Index1.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Library\\Index1.cshtml",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Index1.cshtml",
-              "RelativeToolTip": "Pages\\Library\\Index1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T21:00:20.283Z",
-              "EditorCaption": ""
+              "Title": "TotalCount.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Library\\TotalCount.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml.cs",
+              "RelativeToolTip": "Pages\\Library\\TotalCount.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:25:44.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Library\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Index1.cshtml",
+              "RelativeToolTip": "Pages\\Library\\Index1.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T21:00:20.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwCIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -184,63 +155,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Add.cshtml.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Add.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Library\\Add.cshtml.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Add.cshtml.cs",
-              "RelativeToolTip": "Pages\\Library\\Add.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T19:45:02.628Z",
+              "WhenOpened": "2025-07-09T18:05:53.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeToolTip": "Service\\BookService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:05:29.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TotalCount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Library\\TotalCount.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\TotalCount.cshtml",
+              "RelativeToolTip": "Pages\\Library\\TotalCount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T21:25:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Library\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Add.cshtml.cs",
+              "RelativeToolTip": "Pages\\Library\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:45:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Add.cshtml",
               "RelativeDocumentMoniker": "Pages\\Library\\Add.cshtml",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Pages\\Library\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Pages\\Library\\Add.cshtml",
               "RelativeToolTip": "Pages\\Library\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T19:07:29.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T19:07:29.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Interface\\IBookService.cs",
+              "RelativeToolTip": "Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:42:00.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Interface\\IBookService.cs",
-              "RelativeDocumentMoniker": "Interface\\IBookService.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Interface\\IBookService.cs",
-              "RelativeToolTip": "Interface\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:42:00.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Interface\\IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Interface\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Interface\\IBookRepository.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Interface\\IBookRepository.cs",
               "RelativeToolTip": "Interface\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:41:46.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T18:41:46.328Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "20250709182509_initial.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Migrations\\20250709182509_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Migrations\\20250709182509_initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250709182509_initial.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Migrations\\20250709182509_initial.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Migrations\\20250709182509_initial.cs",
               "RelativeToolTip": "Migrations\\20250709182509_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,24 +264,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Extension\\ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Extension\\ApplicationServiceExtension.cs",
               "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Extension\\ApplicationServiceExtension.cs",
               "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:20:07.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T18:20:07.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -285,36 +288,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Helper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Helper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:05:53.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Bookdto.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Dto\\Bookdto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Dto\\Bookdto.cs",
               "RelativeDocumentMoniker": "Dto\\Bookdto.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Dto\\Bookdto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Dto\\Bookdto.cs",
               "RelativeToolTip": "Dto\\Bookdto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:01:50.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T18:01:50.055Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Model\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Model\\ApplicationDbContext.cs",
               "RelativeToolTip": "Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\Model\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Model\\Book.cs",
               "RelativeDocumentMoniker": "Model\\Book.cs",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\Model\\Book.cs",
               "RelativeToolTip": "Model\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,9 +326,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "LibraryManagement.csproj",
-              "DocumentMoniker": "C:\\Asp.net\\LibraryManagement\\LibraryManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\LibraryManagement.csproj",
               "RelativeDocumentMoniker": "LibraryManagement.csproj",
-              "ToolTip": "C:\\Asp.net\\LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\Razor\\Husna\\Exam\\LibraryManagement\\LibraryManagement.csproj",
               "RelativeToolTip": "LibraryManagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

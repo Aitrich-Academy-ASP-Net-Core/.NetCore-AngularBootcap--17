@@ -9,17 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentPortal
 build_property.RootNamespace = StudentPortal
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal\
+=======
+build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal\
+>>>>>>> 98ecc066df06b8470aad92a39d91a09dc95f93e9
+>>>>>>> 095794ba78f4fb479a081e110e5dba10408c6079
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal
+=======
+<<<<<<< HEAD
+build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal
+>>>>>>> 095794ba78f4fb479a081e110e5dba10408c6079
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+<<<<<<< HEAD
 [C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,5 +59,62 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/_ViewStart.cshtml]
+=======
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop/Batch17Aitrich/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/_ViewStart.cshtml]
+=======
+build_property.MSBuildProjectDirectory = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\MVC\Activity\Partial View-Activity\StudentPortal\StudentPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/Student/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Reeshma/.netCore Bootcamp/17. batch17/.NetCore-AngularBootcap--17/.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/Views/_ViewStart.cshtml]
+>>>>>>> 98ecc066df06b8470aad92a39d91a09dc95f93e9
+>>>>>>> 095794ba78f4fb479a081e110e5dba10408c6079
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
