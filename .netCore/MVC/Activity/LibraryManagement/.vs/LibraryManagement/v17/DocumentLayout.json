@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\mvc\\activity\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:42:57.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:42:57.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "LibraryManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:37:18.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:37:18.265Z"
             },
             {
               "$type": "Document",
@@ -119,19 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:45:19.648Z"
+              "WhenOpened": "2025-05-07T05:45:19.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
@@ -143,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
               "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T05:40:20.468Z",
               "EditorCaption": ""
