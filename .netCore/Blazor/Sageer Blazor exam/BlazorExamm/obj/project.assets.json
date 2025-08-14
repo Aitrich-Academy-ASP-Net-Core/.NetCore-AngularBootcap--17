@@ -3571,23 +3571,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD:.netCore/Blazor/Activity/EmployeeManagement/EmployeeManagement/obj/project.assets.json
+    "C:\\Users\\razal\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\mohammed sageer\\.nuget\\packages\\": {},
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/project.assets.json
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:.netCore/Blazor/Activity/EmployeeManagement/EmployeeManagement/obj/project.assets.json
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectName": "EmployeeManagement",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj",
       "projectName": "BlazorExamm",
       "projectPath": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj",
       "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\obj\\",
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD:.netCore/Blazor/Activity/EmployeeManagement/EmployeeManagement/obj/project.assets.json
+        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/project.assets.json
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3614,7 +3630,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD:.netCore/Blazor/Activity/EmployeeManagement/EmployeeManagement/obj/project.assets.json
+      "SdkAnalysisLevel": "9.0.200"
+=======
       "SdkAnalysisLevel": "9.0.300"
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/project.assets.json
     },
     "frameworks": {
       "net7.0": {
@@ -3658,8 +3678,20 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD:.netCore/Blazor/Activity/EmployeeManagement/EmployeeManagement/obj/project.assets.json
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+>>>>>>> 858f6f557aa36494db9f31617d6f7a6ec527ae33:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/project.assets.json
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
