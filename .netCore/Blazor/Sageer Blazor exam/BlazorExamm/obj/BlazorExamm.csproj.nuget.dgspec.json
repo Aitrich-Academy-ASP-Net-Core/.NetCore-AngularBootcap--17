@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<<< HEAD:.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/obj/StudentPortal.csproj.nuget.dgspec.json
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj": {}
+  },
+  "projects": {
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+        "projectName": "StudentPortal",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\obj\\",
+========
     "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\BlazorExamm.csproj",
         "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mohammed sageer\\source\\repos\\BlazorExamm\\obj\\",
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/BlazorExamm.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +36,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,9 +61,24 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<<< HEAD:.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/obj/StudentPortal.csproj.nuget.dgspec.json
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+========
             "AutoMapper": {
               "target": "Package",
               "version": "[15.0.1, )"
@@ -61,12 +90,17 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/BlazorExamm.csproj.nuget.dgspec.json
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
+<<<<<<<< HEAD:.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/obj/StudentPortal.csproj.nuget.dgspec.json
+              "version": "[8.0.8, )"
+========
               "version": "[7.0.0, )"
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/BlazorExamm.csproj.nuget.dgspec.json
             }
           },
           "imports": [
@@ -88,7 +122,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<<< HEAD:.netCore/MVC/Activity/Partial View-Activity/StudentPortal/StudentPortal/obj/StudentPortal.csproj.nuget.dgspec.json
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+========
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/obj/BlazorExamm.csproj.nuget.dgspec.json
         }
       }
     }
