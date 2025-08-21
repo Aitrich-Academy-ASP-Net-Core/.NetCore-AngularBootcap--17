@@ -9,6 +9,7 @@ public class JobsController : Controller
     public JobsController(IJobService jobService)
     {
         _jobService = jobService;
+
     }
 
     // GET: Jobs (List all jobs)
