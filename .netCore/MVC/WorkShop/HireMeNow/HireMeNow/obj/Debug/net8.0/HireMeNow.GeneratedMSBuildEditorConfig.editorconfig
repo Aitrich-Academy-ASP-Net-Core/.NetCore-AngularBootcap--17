@@ -17,57 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HireMeNow
 build_property.RootNamespace = HireMeNow
-build_property.ProjectDir = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\MVC\WorkShop\HireMeNow\HireMeNow\
+build_property.ProjectDir = D:\batch17repo\.NetCore-AngularBootcap--17\.netCore\MVC\WorkShop\HireMeNow\HireMeNow\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\MVC\WorkShop\HireMeNow\HireMeNow
+build_property.MSBuildProjectDirectory = D:\batch17repo\.NetCore-AngularBootcap--17\.netCore\MVC\WorkShop\HireMeNow\HireMeNow
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Home/Index.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Home/Privacy.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/JobProvider/AllJobs.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/JobProvider/AllJobs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iUHJvdmlkZXJcQWxsSm9icy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/JobProvider/PostJob.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/JobProvider/PostJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iUHJvdmlkZXJcUG9zdEpvYi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Public/JobProviderRegistration.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Public/JobProviderRegistration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljXEpvYlByb3ZpZGVyUmVnaXN0cmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Public/Login.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Public/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/Error.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/_ViewImports.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/_ViewStart.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/razal/Desktop/GIT/Batch -17/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/_Layout.cshtml]
+[D:/batch17repo/.NetCore-AngularBootcap--17/.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ubjd20pae7

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elora Advertising</title>
+    <style>
+        h2{
+            font-family: 'Cinzel', 'Trajan Pro', serif; font-weight:700; text-transform:uppercase; letter-spacing:0.25em;
+
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .header img {
+            max-width: 150px;
+        }
+        .nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 10px 0;
+        }
+        .nav a {
+            text-decoration: none;
+            color: #666;
+            font-weight: bold;
+        }
+        .nav a:hover {
+            color: #d4a017;
+        }
+        .hero {
+            position: relative;
+            text-align: center;
+            padding: 50px 20px;
+            background: url('https://via.placeholder.com/1200x400') no-repeat center center;
+            background-size: cover;
+        }
+        .hero img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 40px 20px;
+            gap: 20px;
+        }
+        .text-section, .image-section {
+            flex: 1;
+            min-width: 300px;
+        }
+        .text-section h2 {
+            color: #d4a017;
+            font-size: 2em;
+        }
+        .image-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        @media (max-width: 768px) {
+            .nav {
+                flex-direction: column;
+                gap: 10px;
+            }
+            .content {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="/" alt="Insaaph Logo">
+        <div class="nav">
+            <a href="#about">About Us</a>
+            <a href="#philosophy">Investment Philosophy</a>
+            <a href="#team">Meet the Team</a>
+            <a href="#portfolio">Portfolio Companies</a>
+            <a href="#contact">Contact Us</a>
+        </div>
+    </div>
+    <div class="hero">
+        <img src="https://via.placeholder.com/1200x400" alt="Cityscape Office">
+    </div>
+    <div class="content">
+        <div class="text-section">
+            <h2>Investment Philosophy</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div class="image-section">
+            <img src="https://via.placeholder.com/300x400" alt="Philosophy Image">
+            <img src="https://via.placeholder.com/300x200" alt="Symbol Image">
+        </div>
+    </div>
+</body>
+</html>

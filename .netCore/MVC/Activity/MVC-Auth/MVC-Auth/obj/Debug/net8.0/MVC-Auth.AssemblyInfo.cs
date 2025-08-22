@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+858f6f557aa36494db9f31617d6f7a6ec527ae33")]
+=======
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c4d2b83c35a5bf4648b3e07c46f8a50ddfa472")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2451074933d611a3fc6d2d7cb79a1b30fd5066c0")]
 >>>>>>> 095794ba78f4fb479a081e110e5dba10408c6079
+>>>>>>> 96ed785f39b3c2bdfb6e436572484a00d2b3e0c9
 [assembly: System.Reflection.AssemblyProductAttribute("MVC-Auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC-Auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
