@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\JobPortal-Activity.props" />
-</Project>

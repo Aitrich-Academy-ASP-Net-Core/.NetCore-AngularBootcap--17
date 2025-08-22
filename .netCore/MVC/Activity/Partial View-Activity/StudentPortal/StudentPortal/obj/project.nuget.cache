@@ -81,5 +81,15 @@
     "C:\\Users\\mohammed sageer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\mohammed sageer\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

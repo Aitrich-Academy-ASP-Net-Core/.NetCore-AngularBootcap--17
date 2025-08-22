@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "i2A9Guo2OLk=",
+<<<<<<< HEAD
+  "dgSpecHash": "dSHp77ptI4Y=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Activity\\Sample\\Sample\\Sample.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\Activity\\Sample\\Sample\\Sample.csproj",
+=======
+  "dgSpecHash": "IjO/vIwml4Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\Activity\\Sample\\Sample\\Sample.csproj",
+>>>>>>> 095794ba78f4fb479a081e110e5dba10408c6079
   "expectedPackageFiles": [],
   "logs": []
 }

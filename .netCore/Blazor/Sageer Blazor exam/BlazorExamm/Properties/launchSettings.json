@@ -1,10 +1,20 @@
+<<<<<<<< HEAD:.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Properties/launchSettings.json
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+========
 {
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/Properties/launchSettings.json
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
+<<<<<<<< HEAD:.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Properties/launchSettings.json
+      "applicationUrl": "http://localhost:3716",
+      "sslPort": 0
+========
       "applicationUrl": "http://localhost:19299",
       "sslPort": 44325
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/Properties/launchSettings.json
     }
   },
   "profiles": {
@@ -12,6 +22,9 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<<< HEAD:.netCore/MVC/WorkShop/HireMeNow/HireMeNow/Properties/launchSettings.json
+      "applicationUrl": "http://localhost:5126",
+========
       "applicationUrl": "http://localhost:5186",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -22,6 +35,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7269;http://localhost:5186",
+>>>>>>>> 1129ae1daabaee086ce8f85d126f7ba9242851d0:.netCore/Blazor/Sageer Blazor exam/BlazorExamm/Properties/launchSettings.json
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
