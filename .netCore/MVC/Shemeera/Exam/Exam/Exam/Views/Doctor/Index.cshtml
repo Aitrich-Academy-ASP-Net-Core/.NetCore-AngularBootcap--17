@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Exam.Models.Doctor>
+
+@{
+    ViewData["Title"] = "Doctors List";
+}
+
+<h2>Doctors</h2>
+
+<p>
+    <a asp-action="Add">Add New Doctor</a> |
+<p><a asp-controller="Appointment" asp-action="AllAppointments">View All Appointments</a></p> |
+    <a asp-controller="Account" asp-action="Logout">Logout</a> 
+</p>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Specialization</th>
+            <th>Available Days</th>
+            <th>Available Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.Name</td>
+                <td>@doctor.Specialization</td>
+                <td>@doctor.AvailableDays</td>
+                <td>@doctor.AvailableTime</td>
+            </tr>
+        }
+    </tbody>
+</table>
