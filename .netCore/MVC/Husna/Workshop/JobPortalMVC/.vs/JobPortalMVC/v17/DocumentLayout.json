@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\JobPortalMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\migrations\\20250815180828_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:migrations\\20250815180828_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\jobportalmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:jobportalmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|c:\\asp.net\\jobportalmvc\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55044A39-759E-4FA9-BBA2-2A96DB5EA731}|JobPortalMVC.csproj|solutionrelative:models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Services\\PublicService.cs",
+              "RelativeDocumentMoniker": "Services\\PublicService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Services\\PublicService.cs",
+              "RelativeToolTip": "Services\\PublicService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:12:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:12:56.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Controllers\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobProviderController.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Controllers\\JobProviderController.cs*",
+              "RelativeToolTip": "Controllers\\JobProviderController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:15:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T17:44:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobProviderRegistration.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeDocumentMoniker": "Views\\Public\\JobProviderRegistration.cshtml",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeToolTip": "Views\\Public\\JobProviderRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:19:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyMemberDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Dto\\CompanyMemberDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CompanyMemberDto.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Dto\\CompanyMemberDto.cs",
+              "RelativeToolTip": "Dto\\CompanyMemberDto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:14:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:55.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:14:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:54:50.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "Services\\JobService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Services\\JobService.cs",
+              "RelativeToolTip": "Services\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:12:29.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:10:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:53:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Public\\Login.cshtml",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "Views\\Public\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:19:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:12:04.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPublicService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Interface\\IPublicService.cs",
+              "RelativeDocumentMoniker": "Interface\\IPublicService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Interface\\IPublicService.cs",
+              "RelativeToolTip": "Interface\\IPublicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:11:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:11:28.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:11:13.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:12:13.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicController.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "Controllers\\PublicController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:16:15.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:09:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:17:20.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:55:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:50:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250815180828_init.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Migrations\\20250815180828_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250815180828_init.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Migrations\\20250815180828_init.cs",
+              "RelativeToolTip": "Migrations\\20250815180828_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:08:28.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:46:43.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:15.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "Dto\\JobDto.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Dto\\JobDto.cs",
+              "RelativeToolTip": "Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:14:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Exceptions\\ServiceException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ServiceException.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Exceptions\\ServiceException.cs",
+              "RelativeToolTip": "Exceptions\\ServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:13:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PostJob.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeDocumentMoniker": "Views\\JobProvider\\PostJob.cshtml",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeToolTip": "Views\\JobProvider\\PostJob.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:19:26.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AllJobs.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeDocumentMoniker": "Views\\JobProvider\\AllJobs.cshtml",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeToolTip": "Views\\JobProvider\\AllJobs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:19:09.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobPortalMVC.csproj",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\JobPortalMVC.csproj",
+              "RelativeDocumentMoniker": "JobPortalMVC.csproj",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\JobPortalMVC.csproj",
+              "RelativeToolTip": "JobPortalMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T17:41:21.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:07:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "Models\\Qualification.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Qualification.cs",
+              "RelativeToolTip": "Models\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:07:04.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Models\\Interview.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Interview.cs",
+              "RelativeToolTip": "Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Asp.net\\JobPortalMVC\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "Models\\Experience.cs",
+              "ToolTip": "C:\\Asp.net\\JobPortalMVC\\Models\\Experience.cs",
+              "RelativeToolTip": "Models\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:06:35.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

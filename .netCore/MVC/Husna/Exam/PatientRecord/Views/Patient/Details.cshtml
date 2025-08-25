@@ -1,0 +1,12 @@
+﻿@model PatientRecord.Dto.PatientDto;
+@{
+    ViewData["Title"] = "Patient Details";
+}
+<h2>Patient Details</h2>
+<p>Name:@Model.Name</p>
+<p>Name:@Model.Age</p>
+<p>Name:@Model.Gender</p>
+<p>Name:@Model.ContactNumber</p>
+<p>Name:@Model.MedicalHistory</p>
+<p>Name:@Model.DateOfVisit</p>
+<a asp-action="GetAllPatients">Back to List</a>

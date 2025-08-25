@@ -4722,23 +4722,47 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
+<<<<<<< HEAD
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\mohammed sageer\\.nuget\\packages\\": {},
+>>>>>>> 21b0b7b476a77bf9139ac4a1b1dc907180b24e0d
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:.netCore/MVC/Shemeera/Exam/Exam/Exam/obj/project.assets.json
       "projectUniqueName": "D:\\c#\\Exam\\Exam\\Exam.csproj",
       "projectName": "Exam",
       "projectPath": "D:\\c#\\Exam\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "D:\\c#\\Exam\\Exam\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+      "projectName": "HireMeNow",
+      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\obj\\",
+=======
+      "projectUniqueName": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+      "projectName": "HireMeNow",
+      "projectPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+      "packagesPath": "C:\\Users\\mohammed sageer\\.nuget\\packages\\",
+      "outputPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\obj\\",
+>>>>>>> 21b0b7b476a77bf9139ac4a1b1dc907180b24e0d
+>>>>>>> 0d7bd10b78653b676acb8eea0cb3a38a7d8f165d:.netCore/MVC/WorkShop/HireMeNow/HireMeNow/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\mohammed sageer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 21b0b7b476a77bf9139ac4a1b1dc907180b24e0d
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4765,7 +4789,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4805,7 +4829,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 21b0b7b476a77bf9139ac4a1b1dc907180b24e0d
       }
     }
   }
