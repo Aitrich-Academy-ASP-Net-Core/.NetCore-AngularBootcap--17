@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Exam.Models.Doctor
+
+@{
+    ViewData["Title"] = "Add Doctor";
+}
+
+<h2>Add Doctor</h2>
+
+<form asp-action="Add" method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" required />
+    </div>
+    <div>
+        <label>Specialization:</label>
+        <input asp-for="Specialization" required />
+    </div>
+    <div>
+        <label>Available Days:</label>
+        <input asp-for="AvailableDays" placeholder="e.g., Mon, Wed, Fri" required />
+    </div>
+    <div>
+        <label>Available Time:</label>
+        <input asp-for="AvailableTime" placeholder="e.g., 10 AM - 4 PM" required />
+    </div>
+    <button type="submit">Add Doctor</button>
+</form>

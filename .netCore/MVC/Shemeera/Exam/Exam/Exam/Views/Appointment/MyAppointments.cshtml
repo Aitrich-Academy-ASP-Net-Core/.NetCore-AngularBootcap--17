@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Exam.Models.Appointment>
+
+<h2>My Appointments</h2>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Doctor</th>
+            <th>Date & Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appt in Model)
+        {
+            <tr>
+                <td>@appt.Doctor.Name</td>
+                <td>@appt.AppointmentDateTime.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>
