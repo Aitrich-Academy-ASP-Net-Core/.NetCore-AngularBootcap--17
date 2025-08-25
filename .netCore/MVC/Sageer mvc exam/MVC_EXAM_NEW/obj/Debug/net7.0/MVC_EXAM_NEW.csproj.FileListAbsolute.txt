@@ -1,0 +1,9 @@
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.csproj.AssemblyReference.cache
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.AssemblyInfoInputs.cache
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.AssemblyInfo.cs
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.csproj.CoreCompileInputs.cache
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.RazorAssemblyInfo.cache
+C:\Users\mohammed sageer\source\repos\MVC_EXAM_NEW\obj\Debug\net7.0\MVC_EXAM_NEW.RazorAssemblyInfo.cs
