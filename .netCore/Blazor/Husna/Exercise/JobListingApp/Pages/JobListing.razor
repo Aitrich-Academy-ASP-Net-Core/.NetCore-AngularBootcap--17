@@ -1,0 +1,93 @@
+﻿@page "/joblist"
+@inject IJobService JobService
+@inject ProtectedSessionStorage SessionStorage
+@inject NavigationManager NavigationManager
+
+<div class="d-flex vh-100">
+    <!-- Sidebar -->
+    <div class="bg-primary text-white p-3" style="width: 220px;">
+        <h4 class="text-center mb-4">HireMe Now</h4>
+        <nav class="nav flex-column">
+            <a class="nav-link text-white" href="#">All Jobs</a>
+            <a class="nav-link text-white" href="#">My Applications</a>
+            <a class="nav-link text-white" href="#">Messages</a>
+            <a class="nav-link text-white" href="#">My Profile</a>
+            <a class="nav-link text-white" href="#">Settings</a>
+        </nav>
+    </div>
+
+    <!-- Main Content -->
+    <div class="flex-fill p-4 position-relative bg-light overflow-auto">
+        <button class="btn btn-outline-primary position-absolute top-0 end-0 m-3" @onclick="Logout">Logout</button>
+
+        <h4 class="mb-4">Showing @jobs?.Count  Jobs</h4>
+
+        @if (jobSeeker == null)
+        {
+            <p class="text-danger">Redirecting to login...</p>
+        }
+        else if (jobs == null)
+        {
+            <p><em>Loading jobs...</em></p>
+        }
+        else if (jobs.Count == 0)
+        {
+            <p>No jobs available right now.</p>
+        }
+        else
+        {
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <span>Sort by:</span>
+                <select class="form-select w-auto">
+                    <option>Newest Jobs</option>
+                    <option>Oldest Jobs</option>
+                </select>
+            </div>
+
+            <div class="row">
+                @foreach (var job in jobs)
+                {
+                    <div class="col-md-6 mb-4">
+                        <div class="card shadow-sm p-3 h-100">
+                            <div class="d-flex align-items-center mb-2">
+                                <img src="https://cdn-icons-png.flaticon.com/512/3106/3106773.png" width="40" class="me-3" />
+                                <h5 class="mb-0 text-primary">@job.Title</h5>
+                            </div>
+                            <p class="text-muted mb-1"><strong>Location:</strong> @job.Location</p>
+                            <p class="mb-1"><strong>Experience:</strong> @job.ExperienceLevel</p>
+                            <p class="mb-1"><strong>Type:</strong> <span class="badge bg-secondary">@job.JobType</span></p>
+                            <p class="mb-1"><strong>Salary:</strong> <span class="badge bg-dark">@job.SalaryRange</span></p>
+                            <p class="text-muted mb-2"><strong>Description:</strong> @job.Description</p>
+                            <button class="btn btn-sm btn-outline-primary">View</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<JobDto>? jobs;
+    private JobSeekerDto? jobSeeker;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await SessionStorage.GetAsync<JobSeekerDto>("jobSeeker");
+        jobSeeker = result.Success ? result.Value : null;
+
+        if (jobSeeker == null)
+        {
+            NavigationManager.NavigateTo("/login");
+            return;
+        }
+
+        jobs = await JobService.GetAllJobsAsync();
+    }
+
+    private async Task Logout()
+    {
+        await SessionStorage.DeleteAsync("jobSeeker");
+        NavigationManager.NavigateTo("/login", forceLoad: true);
+    }
+}

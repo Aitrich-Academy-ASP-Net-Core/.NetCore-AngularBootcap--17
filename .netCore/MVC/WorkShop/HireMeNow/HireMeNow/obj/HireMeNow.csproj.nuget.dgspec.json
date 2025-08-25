@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj": {}
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj": {
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+        "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
         "projectName": "HireMeNow",
-        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
-        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\obj\\",
+        "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+        "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
