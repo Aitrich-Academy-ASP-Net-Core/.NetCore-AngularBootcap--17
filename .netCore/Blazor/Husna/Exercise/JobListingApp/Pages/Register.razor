@@ -1,0 +1,98 @@
+﻿@page "/register"
+@inject IAuthService AuthService
+@inject NavigationManager NavigationManager
+@inject ProtectedSessionStorage SessionStorage
+
+<div class="registration-container">
+    <div class="registration-image">
+        <img src="https://media.istockphoto.com/id/1463013729/photo/online-registration-form-for-modish-form-filling.jpg?s=1024x1024&w=is&k=20&c=EHI3hS1rXOMpRmM1LKEV8zxwYBFEkU-TqffuKtoBPC4=" class="me-3" />
+
+    </div>
+
+    <div class="registration-form">
+        <h3>Registration</h3>
+
+<EditForm Model="@jobSeeker" OnValidSubmit="Registerr">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+   <div class="row">
+                <div class="col-md-6 mb-3">
+        <label>First Name:</label>
+        <InputText @bind-Value="jobSeeker.FirstName" class="form-control" />
+    </div>
+
+                <div class="col-md-6 mb-3">
+        <label>Last Name:</label>
+        <InputText @bind-Value="jobSeeker.LastName" class="form-control" />
+    </div>
+
+                <div class="col-md-6 mb-3">
+        <label>Email:</label>
+        <InputText @bind-Value="jobSeeker.Email" class="form-control" />
+    </div>
+
+                <div class="col-md-6 mb-3">
+        <label>Phone Number:</label>
+        <InputText @bind-Value="jobSeeker.PhoneNumber" class="form-control" />
+    </div>
+
+                <div class="col-md-6 mb-3">
+        <label>Password:</label>
+        <InputText @bind-Value="jobSeeker.Password" type="password" class="form-control" />
+    </div>
+
+                <div class="col-md-6 mb-3">
+        <label>Confirm Password:</label>
+        <InputText @bind-Value="jobSeeker.ConfirmPassword" type="password" class="form-control" />
+    </div>
+
+                <div class="col-md-12 mb-3">
+        <label>Gender:</label>
+        <InputSelect @bind-Value="jobSeeker.Gender" class="form-control">
+            <option value="">-- Select Gender --</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </InputSelect>
+    </div>
+    </div>
+
+    <button type="submit" class="btn btn-outline-primary mt-2">Register</button>
+
+    @if (!string.IsNullOrEmpty(message))
+    {
+        <div class="mt-3 alert alert-info">@message</div>
+    }
+    <p class="mt-3">
+        Already registered? <a href="/">Please login</a>.
+    </p>
+</EditForm>
+</div>
+</div>
+
+@code {
+    private JobSeekerDto jobSeeker = new();
+    private string? message;
+
+    private async Task Registerr()
+    {
+        if (await AuthService.JobSeekerExistsAsync(jobSeeker.Email))
+        {
+            message = "Email already exists.";
+            return;
+        }
+
+        var registeredUser = await AuthService.RegisterAsync(jobSeeker);
+
+        if (registeredUser != null)
+        {
+            await SessionStorage.SetAsync("jobSeeker", registeredUser);
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            message = "Registration failed.";
+        }
+    }
+}

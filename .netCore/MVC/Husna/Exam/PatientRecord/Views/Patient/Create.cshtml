@@ -1,0 +1,18 @@
+﻿@model PatientRecord.Dto.PatientDto;
+@{
+    ViewData["Title"] = "Create Patient";
+}
+<h2>Add Patient</h2>
+
+<form asp-action="Create" method="post">
+    <partial name="PatientForm" model="Model" />
+    <br />
+    <label asp-for="DateOfVisit"></label>
+    <input asp-for="DateOfVisit" />
+    <span asp-validation-for="DateOfVisit"></span>
+    <br />
+    <button type="submit">Save</button>
+    <a asp-action="GetAllPatients">Cancel</a>
+
+</form>
+
