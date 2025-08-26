@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\controllers\\enrolmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:controllers\\enrolmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\controllers\\coursecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:controllers\\coursecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\repository\\enrolmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:repository\\enrolmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\models\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:models\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\data\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:data\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|c:\\users\\mohammed sageer\\source\\repos\\mvc_exam_new\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC622A0-8A27-4050-BE62-124541945611}|MVC_EXAM_NEW.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:37:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T08:27:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T08:27:07.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T08:24:37.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Controllers\\AccountController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:59:37.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:46:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:51:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController1.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\CourseController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController1.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\CourseController1.cs",
+              "RelativeToolTip": "Controllers\\CourseController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:59:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:05:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IEnrollmentService.cs",
+              "RelativeToolTip": "Interfaces\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:58:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrolmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\EnrolmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrolmentController.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Controllers\\EnrolmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrolmentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:00:20.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "Services\\EnrollmentService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:05:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:05:14.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnrolmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\EnrolmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EnrolmentRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\EnrolmentRepository.cs",
+              "RelativeToolTip": "Repository\\EnrolmentRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:03:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:55:33.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:47:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:03:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:53:28.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutomapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\helper\\AutomapperProfile.cs",
+              "RelativeDocumentMoniker": "helper\\AutomapperProfile.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\helper\\AutomapperProfile.cs",
+              "RelativeToolTip": "helper\\AutomapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:07:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:02:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:50:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enrolment.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\Enrolment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrolment.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\Enrolment.cs",
+              "RelativeToolTip": "Models\\Enrolment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:03:59.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Data\\CourseDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\CourseDBContext.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Data\\CourseDBContext.cs",
+              "RelativeToolTip": "Data\\CourseDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:01:47.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\UserDto.cs",
+              "RelativeToolTip": "DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:58:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\CourseDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\CourseDto.cs",
+              "RelativeToolTip": "DTO\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:58:38.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:52:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnrolmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\EnrolmentDto.cs",
+              "RelativeDocumentMoniker": "DTO\\EnrolmentDto.cs",
+              "ToolTip": "C:\\Users\\mohammed sageer\\source\\repos\\MVC_EXAM_NEW\\DTO\\EnrolmentDto.cs",
+              "RelativeToolTip": "DTO\\EnrolmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:58:59.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

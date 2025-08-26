@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\PatientRecord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\patientform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\patientform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\views\\patient\\getallpatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:views\\patient\\getallpatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\helper\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:helper\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\patientrecord.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:patientrecord.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\migrations\\20250825175420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:migrations\\20250825175420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|c:\\asp.net\\patientrecord\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{699449BF-DDFD-4D59-966C-86611C704364}|PatientRecord.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Delete.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T17:16:44.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T17:16:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:15:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "Interface\\IPatientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:02:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "Service\\PatientService.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Service\\PatientService.cs",
+              "RelativeToolTip": "Service\\PatientService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:38:01.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T17:16:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientForm.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\PatientForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\PatientForm.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\PatientForm.cshtml",
+              "RelativeToolTip": "Views\\Patient\\PatientForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T20:36:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPatients.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\GetAllPatients.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\GetAllPatients.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\GetAllPatients.cshtml",
+              "RelativeToolTip": "Views\\Patient\\GetAllPatients.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T19:25:01.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Views\\Patient\\Details.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T17:16:18.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PatientRepository.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "Repository\\PatientRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:38:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:49:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Dto\\PatientDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PatientDto.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Dto\\PatientDto.cs",
+              "RelativeToolTip": "Dto\\PatientDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:13:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:14:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Helper\\AutoMappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMappingProfile.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Helper\\AutoMappingProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:14:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:10:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Interface\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IPatientRepository.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Interface\\IPatientRepository.cs",
+              "RelativeToolTip": "Interface\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:02:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:12:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250825175420_initial.cs",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\Migrations\\20250825175420_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250825175420_initial.cs",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\Migrations\\20250825175420_initial.cs",
+              "RelativeToolTip": "Migrations\\20250825175420_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:54:20.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientRecord",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\PatientRecord.csproj",
+              "RelativeDocumentMoniker": "PatientRecord.csproj",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\PatientRecord.csproj",
+              "RelativeToolTip": "PatientRecord.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T17:09:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.net\\PatientRecord\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Asp.net\\PatientRecord\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T17:21:39.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

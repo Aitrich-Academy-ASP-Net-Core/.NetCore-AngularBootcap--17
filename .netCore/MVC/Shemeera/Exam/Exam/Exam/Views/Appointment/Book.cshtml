@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Book Appointment";
+}
+
+
+<a   asp-action="ListDoctors">DOCTORS LIST</a>
+<h2>Book Appointment with Dr. @ViewBag.DoctorName</h2>
+
+<form asp-action="Book" asp-route-id="@ViewBag.DoctorId" method="post">
+    <div>
+        <label>Date and Time:</label>
+        <input type="datetime-local" name="appointmentDateTime" required />
+    </div>
+    <button type="submit">Confirm</button>
+</form>
