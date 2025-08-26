@@ -24,7 +24,7 @@ namespace HireMeNow.Repository
 
         public List<Job> GetJobPosted(Guid cmpid)
         {
-            return _context.Jobs.Where(e => e.CompanyId == cmpid).Include(e => e.Company).ToList();
+           return _context.Jobs.Where(e => e.CompanyId == cmpid).Include(e => e.Company).ToList();
         }
 
         public List<Job> GetJobs()

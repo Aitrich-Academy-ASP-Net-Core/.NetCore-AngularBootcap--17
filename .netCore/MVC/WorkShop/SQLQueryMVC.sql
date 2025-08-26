@@ -108,3 +108,20 @@ CREATE TABLE Skills (
     Status NVARCHAR(MAX),
     CONSTRAINT FK_Skills_Users_UserId FOREIGN KEY (UserId) REFERENCES Users(Id)
 );
+INSERT INTO Companies 
+(Id, Name, Email, Website, Phone, Logo, About, Vision, Mission, Location, Address, Status, CreatedDate)
+VALUES 
+(NEWID(), -- generates a new GUID
+ 'Tech Solutions Pvt Ltd',
+ 'contact@techsolutions.com',
+ 'https://www.techsolutions.com',
+ '+91-9876543210',
+ NULL, -- Logo (set to NULL for now, or insert varbinary data)
+ 'We provide software solutions to global clients.',
+ 'To be the leader in innovative tech solutions.',
+ 'Deliver quality and reliable services to customers.',
+ 'Bangalore',
+ '123 MG Road, Bangalore, India',
+ 'Active',
+ GETDATE()); -- inserts current date and time
+ select * from Companies

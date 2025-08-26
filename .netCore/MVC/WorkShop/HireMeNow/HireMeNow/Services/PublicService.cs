@@ -13,7 +13,7 @@ namespace HireMeNow.Services
             _userRepository = userRepository;
         }
 
-        public User loggedUser = new User();
+       public User loggedUser = new User();
 
         bool _islogged = false;
 
@@ -22,16 +22,15 @@ namespace HireMeNow.Services
             try
             {
                 loggedUser = _userRepository.login(email, password);
-                
+               
                 if(loggedUser.Email != null)
                 {
                     Console.WriteLine("Login Successful");
 
-                    _islogged = true;
+                   _islogged = true;
                     Console.WriteLine(loggedUser.FirstName);
 
-                    return loggedUser;
-                }
+                    return loggedUser;                }
                 else
                 {
                     Console.WriteLine("Log in Filed");
@@ -44,8 +43,8 @@ namespace HireMeNow.Services
                 Console.WriteLine(ex.Message);
 
                 throw new ServiceException("Technical Error Occured");
-            }
-        }
+           }
+       }
 
         public User Register(User user)
         {

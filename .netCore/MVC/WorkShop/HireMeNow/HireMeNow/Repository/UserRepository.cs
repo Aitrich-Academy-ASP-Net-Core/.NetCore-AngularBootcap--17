@@ -8,7 +8,6 @@ namespace HireMeNow.Repository
     public class UserRepository : IUserRepository
     {
         private readonly AppDbContext _context;
-
         private static User loggedUser = new User();
 
         public UserRepository(AppDbContext context)
@@ -33,13 +32,12 @@ namespace HireMeNow.Repository
 
         public User getLoggedUser()
         {
-            return loggedUser;
-        }
+           return loggedUser;        }
 
 
         public User register(User user)
         {
-            user.Role = Roles.JobProvider;
+            user.Roles = Roles.JobProvider;
             _context.Users.Add(user);
             _context.SaveChanges();
             return user;

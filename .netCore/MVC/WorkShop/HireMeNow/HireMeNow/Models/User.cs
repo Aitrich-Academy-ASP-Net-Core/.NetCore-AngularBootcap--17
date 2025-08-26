@@ -27,7 +27,7 @@ namespace HireMeNow.Models
         public string? Phone { get; set; }
 
         public string password { get; set; }
-        public Roles? Role { get; set; }
+        public Roles? Roles { get; set; }
 
         public string? About { get; set; }
 

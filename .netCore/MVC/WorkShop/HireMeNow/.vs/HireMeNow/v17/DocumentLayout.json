@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20250522080249_ini.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20250522080249_ini.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20250316214041_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20250316214041_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20250316214041_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20250316214041_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20250522080249_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20250522080249_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\17. batch17\\.netcore-angularbootcap--17\\.netcore\\mvc\\workshop\\hiremenow\\hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\UserService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\UserService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:14:11.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T05:15:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:13:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\User.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\User.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:32:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\PublicService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\PublicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:14:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "HireMeNow\\Controllers\\PublicController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:18:09.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllJobs.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\JobProvider\\AllJobs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T05:14:31.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostJob.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T05:14:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobProviderRegistration.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T05:15:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Repository\\JobRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Repository\\JobRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:13:04.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250316214041_initial.Designer.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250316214041_initial.Designer.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20250316214041_initial.Designer.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250316214041_initial.Designer.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20250316214041_initial.Designer.cs",
+              "ViewState": "AQIAANUBAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:30:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250522080249_ini.Designer.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250522080249_ini.Designer.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20250522080249_ini.Designer.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250522080249_ini.Designer.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20250522080249_ini.Designer.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAAIwLEBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:35:48.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\JobService.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\JobService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\JobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:13:58.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:30:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAM0BAAAAAAAAAAAIwN4BAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:29:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250316214041_initial.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250316214041_initial.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20250316214041_initial.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250316214041_initial.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20250316214041_initial.cs",
+              "ViewState": "AQIAADgBAAAAAAAAAAAIwEsBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:29:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250522080249_ini.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250522080249_ini.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20250522080249_ini.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20250522080249_ini.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20250522080249_ini.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:28:37.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeDocumentMoniker": "HireMeNow\\appsettings.json",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeToolTip": "HireMeNow\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T05:05:49.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
