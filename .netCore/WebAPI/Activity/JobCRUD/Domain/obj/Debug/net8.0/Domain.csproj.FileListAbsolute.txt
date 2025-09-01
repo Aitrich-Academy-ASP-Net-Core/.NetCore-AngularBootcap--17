@@ -60,3 +60,18 @@ E:\Aitrich2\Asp.NetCore-Batch-05\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\ne
 E:\Aitrich2\Asp.NetCore-Batch-05\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 E:\Aitrich2\Asp.NetCore-Batch-05\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\ref\Domain.dll
 >>>>>>> 2a5ce9c9fd1115cd2c1b86d6daf1280815bd9f48
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\ref\Domain.dll
