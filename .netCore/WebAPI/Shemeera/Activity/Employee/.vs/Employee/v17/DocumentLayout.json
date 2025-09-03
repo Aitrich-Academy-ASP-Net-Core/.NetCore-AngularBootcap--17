@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\model\\entities\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\model\\entities\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|d:\\c#\\employee\\employee\\migrations\\20250902130738_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1034F8E-BE43-48F5-ACD8-9DF80F721ED6}|Employee\\Employee.csproj|solutionrelative:employee\\migrations\\20250902130738_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:09:04.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250902130738_employee.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Migrations\\20250902130738_employee.cs",
+              "RelativeDocumentMoniker": "Employee\\Migrations\\20250902130738_employee.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Migrations\\20250902130738_employee.cs",
+              "RelativeToolTip": "Employee\\Migrations\\20250902130738_employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:07:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Model\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Model\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Employee\\Model\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:03:23.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Model\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\AddEmployeeDto.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Model\\AddEmployeeDto.cs",
+              "RelativeToolTip": "Employee\\Model\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:58:48.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Employee\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Employee\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:27:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee\\appsettings.json",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\appsettings.json",
+              "RelativeToolTip": "Employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T12:26:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:26:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employeedata.cs",
+              "DocumentMoniker": "D:\\c#\\Employee\\Employee\\Model\\Entities\\Employeedata.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\Entities\\Employeedata.cs",
+              "ToolTip": "D:\\c#\\Employee\\Employee\\Model\\Entities\\Employeedata.cs",
+              "RelativeToolTip": "Employee\\Model\\Entities\\Employeedata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:22:15.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
