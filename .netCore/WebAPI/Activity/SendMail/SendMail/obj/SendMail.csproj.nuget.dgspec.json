@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\SendMail.csproj": {}
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\SendMail.csproj": {}
   },
   "projects": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\SendMail.csproj": {
+    "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\SendMail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\SendMail.csproj",
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\SendMail.csproj",
         "projectName": "SendMail",
-        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\SendMail.csproj",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\SendMail.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\obj\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

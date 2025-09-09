@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g/dygMXSG0s=",
+  "dgSpecHash": "l6WGKrdZ00k=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\Activity\\SendMail\\SendMail\\SendMail.csproj",
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMail\\SendMail\\SendMail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\mailkit\\4.8.0\\mailkit.4.8.0.nupkg.sha512",
