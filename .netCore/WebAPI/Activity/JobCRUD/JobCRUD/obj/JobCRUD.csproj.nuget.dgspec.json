@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\obj\\",
+=======
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\obj\\",
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,6 +103,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -97,12 +116,30 @@
         "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\obj\\",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj",
+        "projectName": "JobCRUD",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\JobCRUD.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\obj\\",
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,8 +154,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj"
+=======
+              "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Domain.csproj"
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
               }
             }
           }
@@ -181,7 +223,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
         }
       }
     }
