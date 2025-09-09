@@ -1,0 +1,29 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:.netCore/WebAPI/Activity/SendMail/SendMail/obj/Debug/net8.0/SendMail.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = SendMail
+build_property.RootNamespace = SendMail
+build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\SendMail\SendMail\
+=======
+build_property.RootNamespace = JWT_Login
+build_property.RootNamespace = JWT_Login
+build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\JWT-Login\JWT-Login\
+>>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3:.netCore/WebAPI/JWT/Activity/JWT-Login/JWT-Login/obj/Debug/net8.0/JWT-Login.GeneratedMSBuildEditorConfig.editorconfig
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD:.netCore/WebAPI/Activity/SendMail/SendMail/obj/Debug/net8.0/SendMail.GeneratedMSBuildEditorConfig.editorconfig
+build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\SendMail\SendMail
+=======
+build_property.MSBuildProjectDirectory = D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\JWT-Login\JWT-Login
+>>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3:.netCore/WebAPI/JWT/Activity/JWT-Login/JWT-Login/obj/Debug/net8.0/JWT-Login.GeneratedMSBuildEditorConfig.editorconfig
+build_property._RazorSourceGeneratorDebug = 
