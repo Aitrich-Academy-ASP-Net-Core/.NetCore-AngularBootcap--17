@@ -1,41 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobPortalAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobportalapi\\jobportalapi\\jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\batch17repo\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobPortalAPI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobPortalAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\JobPortalAPI.csproj",
-              "RelativeDocumentMoniker": "JobPortalAPI\\JobPortalAPI.csproj",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\JobPortalAPI.csproj",
-              "RelativeToolTip": "JobPortalAPI\\JobPortalAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-02T16:20:26.18Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
