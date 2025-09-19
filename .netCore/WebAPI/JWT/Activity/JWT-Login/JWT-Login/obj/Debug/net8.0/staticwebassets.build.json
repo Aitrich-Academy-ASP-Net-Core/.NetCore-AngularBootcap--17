@@ -1,0 +1,22 @@
+{
+  "Version": 1,
+<<<<<<< HEAD:.netCore/WebAPI/Activity/SendMail/SendMail/obj/Debug/net8.0/staticwebassets.build.json
+  "Hash": "2Y+yVgqFmLApw3mUr/gxjo/HCLY5GAJ3Pmu2nNzfWG0=",
+  "Source": "SendMail",
+  "BasePath": "_content/SendMail",
+=======
+  "Hash": "oDt/XDJnh3/np7J4wMpvmmYcz+R4G1JPWfWsV6mMf/Q=",
+  "Source": "JWT-Login",
+  "BasePath": "_content/JWT-Login",
+>>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3:.netCore/WebAPI/JWT/Activity/JWT-Login/JWT-Login/obj/Debug/net8.0/staticwebassets.build.json
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+<<<<<<< HEAD:.netCore/WebAPI/Activity/SendMail/SendMail/obj/Debug/net8.0/staticwebassets.build.json
+  "Assets": [],
+  "Endpoints": []
+=======
+  "Assets": []
+>>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3:.netCore/WebAPI/JWT/Activity/JWT-Login/JWT-Login/obj/Debug/net8.0/staticwebassets.build.json
+}
