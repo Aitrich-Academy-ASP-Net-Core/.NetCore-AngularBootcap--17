@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\",
+=======
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
   "Documents": [],
   "DocumentGroupContainers": [
     {

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\obj\\",
+=======
+    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj": {}
+  },
+  "projects": {
+    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\obj\\",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +44,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +65,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< HEAD
         },
         "SdkAnalysisLevel": "9.0.200"
+=======
+        }
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
       },
       "frameworks": {
         "net8.0": {
@@ -78,7 +104,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
         }
       }
     }

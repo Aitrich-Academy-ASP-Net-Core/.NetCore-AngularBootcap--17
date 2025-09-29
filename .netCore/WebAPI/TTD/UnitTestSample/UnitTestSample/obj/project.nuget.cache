@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BiIpIkLwhGI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
+=======
+  "dgSpecHash": "G5hBhLjwWWs=",
+  "success": true,
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
   "expectedPackageFiles": [],
   "logs": []
 }
