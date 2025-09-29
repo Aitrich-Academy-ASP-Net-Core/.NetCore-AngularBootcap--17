@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj": {}
   },
   "projects": {
@@ -12,12 +13,63 @@
         "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\",
+=======
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\TDD\\test\\obj\\",
+=======
+    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj": {}
+========
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj": {}
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\TDD\\test\\obj\\",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+========
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
+        "projectName": "SendMail",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\",
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+          "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+========
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +78,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+========
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +105,22 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< HEAD
         },
         "SdkAnalysisLevel": "9.0.200"
+=======
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+        },
+        "SdkAnalysisLevel": "9.0.200"
+=======
+        }
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+========
+        },
+        "SdkAnalysisLevel": "9.0.200"
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
       },
       "frameworks": {
         "net8.0": {
@@ -82,7 +158,19 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<<< HEAD:.netCore/WebAPI/TTD/TDD/test/obj/test.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+========
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a:.netCore/WebAPI/Activity/SendMailWithHtmlContent/SendMail/SendMail/obj/SendMail.csproj.nuget.dgspec.json
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
         }
       }
     }

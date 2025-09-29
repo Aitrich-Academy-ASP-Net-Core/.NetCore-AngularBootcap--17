@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f+04zi8fqILbGcfDllz1uv8YwYjJ/kKwjsH0BbgzCNM=",
+  "Source": "HireMeNow_WebApi",
+  "BasePath": "_content/HireMeNow_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

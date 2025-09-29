@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\UnitTestSample\\",
   "Documents": [
     {
@@ -10,12 +11,16 @@
   ],
 =======
   "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\",
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
   "Documents": [],
 >>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "DocumentGroups": [
         {
@@ -34,13 +39,26 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T17:44:23.433Z",
               "EditorCaption": ""
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
             }
           ]
         }
       ]
+<<<<<<< HEAD
 =======
       "DocumentGroups": []
 >>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+=======
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\Workshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\ttd\\workshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\hiremenow_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\hiremenow_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD46CC8-0202-4D19-84C7-4EF117C47378}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\ttd\\workshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CD46CC8-0202-4D19-84C7-4EF117C47378}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HireMeNow_WebApi",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\Workshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\HireMeNow_WebApi.csproj",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\HireMeNow_WebApi.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\Workshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\HireMeNow_WebApi.csproj",
+              "RelativeToolTip": "HireMeNow_WebApi\\HireMeNow_WebApi.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T05:51:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\Workshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\Workshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T05:50:46.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

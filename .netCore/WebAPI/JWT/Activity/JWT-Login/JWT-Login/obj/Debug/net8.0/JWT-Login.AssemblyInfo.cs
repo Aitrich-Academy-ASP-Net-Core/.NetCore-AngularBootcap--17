@@ -14,12 +14,16 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWT-Login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 <<<<<<< HEAD:.netCore/WebAPI/Activity/SendMail/SendMail/obj/Debug/net8.0/SendMail.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8961d2df043dbe0fecd664d3827638911ed812de")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendMail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendMail")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e41e2b2856e7d0fdb905ed955313c9e0e79d96a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+799927ad84a7dbcdedf39434545928be4061ad74")]
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
 [assembly: System.Reflection.AssemblyProductAttribute("JWT-Login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWT-Login")]
 >>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3:.netCore/WebAPI/JWT/Activity/JWT-Login/JWT-Login/obj/Debug/net8.0/JWT-Login.AssemblyInfo.cs
