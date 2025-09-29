@@ -8,39 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\razal\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
       "projectName": "UnitTestSample",
       "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\obj\\",
-=======
-      "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
-      "projectName": "UnitTestSample",
-      "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\UnitTestSample\\obj\\",
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -49,10 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
-        "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,12 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-<<<<<<< HEAD
       },
       "SdkAnalysisLevel": "9.0.200"
-=======
-      }
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
     },
     "frameworks": {
       "net8.0": {
@@ -96,12 +72,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
->>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
