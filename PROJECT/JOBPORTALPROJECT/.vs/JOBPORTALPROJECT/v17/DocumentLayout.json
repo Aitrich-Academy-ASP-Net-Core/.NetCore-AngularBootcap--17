@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\messagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\messagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\enum\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\laptop\\batch17aitrich\\project\\jobportalproject\\domain\\service\\jobseeker\\jobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,128 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SavedJob.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SavedJob.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\SavedJob.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SavedJob.cs",
-              "RelativeToolTip": "Domain\\Models\\SavedJob.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:55:51.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Skill.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Skill.cs",
-              "RelativeToolTip": "Domain\\Models\\Skill.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:52:29.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Resume.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Resume.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Resume.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Resume.cs",
-              "RelativeToolTip": "Domain\\Models\\Resume.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:52:20.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Qualification.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Qualification.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Qualification.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Qualification.cs",
-              "RelativeToolTip": "Domain\\Models\\Qualification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:52:54.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\MessageGroup.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\MessageGroup.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\MessageGroup.cs",
-              "RelativeToolTip": "Domain\\Models\\MessageGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:56:34.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Message.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Message.cs",
-              "RelativeToolTip": "Domain\\Models\\Message.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:56:13.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Domain\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T01:17:51.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WorkExperience.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\WorkExperience.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\WorkExperience.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\WorkExperience.cs",
-              "RelativeToolTip": "Domain\\Models\\WorkExperience.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:52:42.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JobSeeker.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeeker.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\JobSeeker.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeeker.cs",
-              "RelativeToolTip": "Domain\\Models\\JobSeeker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:50:05.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\UserRole.cs",
@@ -247,11 +82,12 @@
               "RelativeToolTip": "Domain\\Enum\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T07:04:39.402Z"
+              "WhenOpened": "2025-10-01T07:04:39.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "MessageStatus.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\MessageStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\MessageStatus.cs",
@@ -263,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "JobStatus.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\JobStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\JobStatus.cs",
@@ -275,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "ApplicationStatus.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\ApplicationStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\ApplicationStatus.cs",
@@ -287,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
               "Title": "QualificationLevel.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\QualificationLevel.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\QualificationLevel.cs",
@@ -299,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ApplicationServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Extensions\\ApplicationServiceExtension.cs",
               "RelativeDocumentMoniker": "Domain\\Extensions\\ApplicationServiceExtension.cs",
@@ -307,47 +143,12 @@
               "RelativeToolTip": "Domain\\Extensions\\ApplicationServiceExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T01:17:53.354Z"
+              "WhenOpened": "2025-10-03T01:17:53.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "JobSeekerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeekerProfile.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeekerProfile.cs",
-              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBgAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:51:29.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JobPost.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobPost.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\JobPost.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobPost.cs",
-              "RelativeToolTip": "Domain\\Models\\JobPost.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:53:06.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobApplication.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobApplication.cs",
-              "RelativeToolTip": "Domain\\Models\\JobApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:56:04.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -359,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "JobSeekerService.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\JobSeeker\\JobSeekerService.cs",
@@ -371,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
               "Title": "JobSeekerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
@@ -383,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "JobSeekerController.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\API\\JobSeeker\\JobSeekerController.cs",
               "RelativeDocumentMoniker": "JOBPORTALPROJECT\\API\\JobSeeker\\JobSeekerController.cs",
@@ -395,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Extensions\\Application.cs",
               "RelativeDocumentMoniker": "Domain\\Extensions\\Application.cs",
@@ -407,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "JOBPORTALPROJECT.csproj",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
               "RelativeDocumentMoniker": "JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
@@ -419,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
@@ -431,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
@@ -443,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Domain\\Class1.cs",
