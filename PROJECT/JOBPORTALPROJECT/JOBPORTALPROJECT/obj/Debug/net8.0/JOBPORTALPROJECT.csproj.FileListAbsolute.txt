@@ -189,3 +189,14 @@ D:\c#\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\refint\JOBPORTALPROJECT
 D:\c#\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.pdb
 D:\c#\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.genruntimeconfig.cache
 D:\c#\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\ref\JOBPORTALPROJECT.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.csproj.AssemblyReference.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.AssemblyInfoInputs.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.AssemblyInfo.cs
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.sourcelink.json
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\refint\JOBPORTALPROJECT.dll
+C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\PROJECT\JOBPORTALPROJECT\JOBPORTALPROJECT\obj\Debug\net8.0\JOBPORTALPROJECT.pdb

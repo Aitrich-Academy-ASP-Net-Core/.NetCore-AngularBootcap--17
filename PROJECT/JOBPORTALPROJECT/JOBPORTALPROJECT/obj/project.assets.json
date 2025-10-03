@@ -6043,11 +6043,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
       "projectName": "JOBPORTALPROJECT",
       "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+      "projectName": "JOBPORTALPROJECT",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\obj\\",
+>>>>>>> 403e8037f25636a360ec22b65201ca43be343cec
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6068,8 +6076,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj"
+=======
+            "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj"
+>>>>>>> 403e8037f25636a360ec22b65201ca43be343cec
             }
           }
         }

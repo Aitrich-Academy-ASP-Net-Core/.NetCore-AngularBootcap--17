@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Mh1V119Zh2E=",
   "success": true,
   "projectFilePath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+=======
+  "dgSpecHash": "GgdXbk9uxlQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+>>>>>>> 403e8037f25636a360ec22b65201ca43be343cec
   "expectedPackageFiles": [
     "C:\\Users\\Laptop\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
