@@ -6037,23 +6037,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
       "projectName": "JOBPORTALPROJECT",
-      "projectPath": "D:\\c#\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
-      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\obj\\",
+      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6068,8 +6068,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj"
+            "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj"
             }
           }
         }
@@ -6140,7 +6140,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

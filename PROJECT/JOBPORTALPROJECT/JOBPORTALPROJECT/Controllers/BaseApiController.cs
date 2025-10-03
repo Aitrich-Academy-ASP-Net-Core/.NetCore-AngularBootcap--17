@@ -1,6 +1,9 @@
-﻿namespace JOBPORTALPROJECT.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace JOBPORTALPROJECT.Controllers
 {
-    public class BaseApiController
+    [Route("api/v1")]
+    public abstract class BaseApiController<T>:ControllerBase
     {
     }
 }

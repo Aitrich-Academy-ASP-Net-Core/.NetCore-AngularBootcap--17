@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="API\" />
+    <Folder Include="API\JobSeeker\RequestObjects\" />
     <Folder Include="HubConfig\" />
   </ItemGroup>
 
@@ -29,3 +29,4 @@
   </ItemGroup>
 
 </Project>
+
