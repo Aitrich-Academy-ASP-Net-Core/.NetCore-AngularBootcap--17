@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOT7OCwIDJg=",
+  "dgSpecHash": "VvmL+DAMVFQ=",
   "success": true,
-  "projectFilePath": "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\razal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

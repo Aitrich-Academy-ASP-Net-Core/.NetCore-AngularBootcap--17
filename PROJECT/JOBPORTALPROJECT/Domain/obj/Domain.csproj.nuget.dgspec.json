@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {}
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
+    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\c#\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\JOBPORTALPROJECT\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
