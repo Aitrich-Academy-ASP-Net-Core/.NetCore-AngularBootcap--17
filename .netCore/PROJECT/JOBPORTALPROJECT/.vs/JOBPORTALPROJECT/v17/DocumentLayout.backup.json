@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\api\\adminlogin\\requestobject\\adminloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\api\\adminlogin\\requestobject\\adminloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\api\\adminlogin\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\api\\adminlogin\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\interfaces\\iauthuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\interfaces\\iauthuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\dto\\signuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\dto\\signuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\messagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\messagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\comapnyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\comapnyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\app dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\app dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\service\\authuser\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\jobportalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\jobportalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\jobportalproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54A217C-103B-476A-A802-1CDE777CBAD0}|JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj|solutionrelative:jobportalproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\project\\jobportalproject\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512A5F89-72F8-48BC-BADE-27B527198CCC}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\Dto\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\Dto\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:31:11.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\SignUpRequestDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\Dto\\SignUpRequestDTO.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\SignUpRequestDTO.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\Dto\\SignUpRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:34:10.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthUserService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:26:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:11:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthUserService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\AuthUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\AuthUserService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\AuthUserService.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\AuthUserService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:27:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\API\\AdminLogin\\AuthController.cs",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\API\\AdminLogin\\AuthController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\API\\AdminLogin\\AuthController.cs",
+              "RelativeToolTip": "JOBPORTALPROJECT\\API\\AdminLogin\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:55:21.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\API\\AdminLogin\\RequestObject\\AdminLoginRequest.cs",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\API\\AdminLogin\\RequestObject\\AdminLoginRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\API\\AdminLogin\\RequestObject\\AdminLoginRequest.cs",
+              "RelativeToolTip": "JOBPORTALPROJECT\\API\\AdminLogin\\RequestObject\\AdminLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:25:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SystemUser.cs",
+              "RelativeToolTip": "Domain\\Models\\SystemUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:35:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "Domain\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:57:22.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SignUpRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SignUpRequest.cs",
+              "RelativeToolTip": "Domain\\Models\\SignUpRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:32:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavedJob.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SavedJob.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SavedJob.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\SavedJob.cs",
+              "RelativeToolTip": "Domain\\Models\\SavedJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:01:24.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Resume.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Resume.cs",
+              "RelativeToolTip": "Domain\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:01:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Qualification.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Qualification.cs",
+              "RelativeToolTip": "Domain\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:56:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageGroup.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\MessageGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\MessageGroup.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\MessageGroup.cs",
+              "RelativeToolTip": "Domain\\Models\\MessageGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:29:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Location.cs",
+              "RelativeToolTip": "Domain\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:45:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:55:52.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:55:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobProviderCompany.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobProviderCompany.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeToolTip": "Domain\\Models\\JobProviderCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:58:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobPost.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobPost.cs",
+              "RelativeToolTip": "Domain\\Models\\JobPost.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:59:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobCategory.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobCategory.cs",
+              "RelativeToolTip": "Domain\\Models\\JobCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:44:22.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Domain\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:00:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Industry.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Industry.cs",
+              "RelativeToolTip": "Domain\\Models\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:43:46.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Experience.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Experience.cs",
+              "RelativeToolTip": "Domain\\Models\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:57:08.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Company.cs",
+              "RelativeToolTip": "Domain\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:39:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComapnyUser.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\ComapnyUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ComapnyUser.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\ComapnyUser.cs",
+              "RelativeToolTip": "Domain\\Models\\ComapnyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:46:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:00:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\App DbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\App DbContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\App DbContext.cs",
+              "RelativeToolTip": "Domain\\Models\\App DbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA0wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:47:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Admin.cs",
+              "RelativeToolTip": "Domain\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:34:37.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:07:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "RelativeToolTip": "Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:30:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "JOBPORTALPROJECT\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:28:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Program.cs",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Program.cs",
+              "RelativeToolTip": "JOBPORTALPROJECT\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:28:36.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Job.cs",
+              "RelativeToolTip": "Domain\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:47:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Models\\Message.cs",
+              "RelativeToolTip": "Domain\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:28:28.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "Domain\\Enum\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:31:25.573Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\appsettings.json",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\appsettings.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\appsettings.json",
+              "RelativeToolTip": "JOBPORTALPROJECT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T11:19:49.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Enum\\Role.cs",
+              "RelativeToolTip": "Domain\\Enum\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:04:46.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T05:41:35.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "JOBPORTALPROJECT.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+              "RelativeToolTip": "JOBPORTALPROJECT\\JOBPORTALPROJECT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T05:27:37.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JOBPORTALPROJECT\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:27:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\PROJECT\\JOBPORTALPROJECT\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:16:09.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
