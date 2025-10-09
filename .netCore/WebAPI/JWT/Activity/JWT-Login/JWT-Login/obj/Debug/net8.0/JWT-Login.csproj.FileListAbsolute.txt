@@ -139,3 +139,15 @@ D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\
 D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.pdb
 D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.genruntimeconfig.cache
 D:\Reeshma\.netCore Bootcamp\15.batch 15\.NetCore-FS-15\Chapter 10\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\ref\JWT-Login.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.csproj.AssemblyReference.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.AssemblyInfoInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.AssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.sourcelink.json
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\scopedcss\bundle\JWT-Login.styles.css
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\refint\JWT-Login.dll
+C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\JWT\Activity\JWT-Login\JWT-Login\obj\Debug\net8.0\JWT-Login.pdb
