@@ -1,0 +1,237 @@
+[
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddCategory",
+    "RelativePath": "api/admin/category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.CategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetCompanies",
+    "RelativePath": "api/admin/companies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetCompanyUsers",
+    "RelativePath": "api/admin/companyusers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "DebugAdmin",
+    "RelativePath": "api/admin/debug-admin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddIndustry",
+    "RelativePath": "api/admin/industry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.IndustryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetAllJobs",
+    "RelativePath": "api/admin/jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobSeekers",
+    "RelativePath": "api/admin/jobseekers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddLocation",
+    "RelativePath": "api/admin/location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.LocationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "Login",
+    "RelativePath": "api/admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.AdminLoginRequests",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetSkills",
+    "RelativePath": "api/admin/skills",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddSkill",
+    "RelativePath": "api/admin/skills",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skillRequest",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.SkillRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveSkill",
+    "RelativePath": "api/admin/skills/{skillId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skillId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeeker.JobSeekerAuthController",
+    "Method": "Login",
+    "RelativePath": "api/jobseeker/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeeker.JobSeekerAuthController",
+    "Method": "Register",
+    "RelativePath": "api/jobseeker/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Models.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeeker.JobSeekerAuthController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/jobseeker/auth/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "otp",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[JOBPORTALPROJECT.WeatherForecast, JOBPORTALPROJECT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
