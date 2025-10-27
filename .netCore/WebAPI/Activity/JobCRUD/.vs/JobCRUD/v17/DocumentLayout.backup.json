@@ -66,8 +66,8 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D56B933-230A-4BA3-A780-C8FDCF111085}|JobCRUD\\JobCRUD.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\jobcrud\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,14 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -96,6 +88,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\activity\\jobcrud\\domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -137,6 +137,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+=======
 <<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
@@ -229,6 +235,7 @@
             },
             {
               "$type": "Document",
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "DocumentIndex": 2,
 <<<<<<< HEAD
               "Title": "appsettings.json",
@@ -253,6 +260,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IJobService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Domain\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+=======
               "DocumentIndex": 1,
               "Title": "JobsController.cs",
 <<<<<<< HEAD
@@ -268,12 +284,16 @@
               "RelativeToolTip": "JobCRUD\\Controllers\\JobsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:45:37.279Z",
+              "WhenOpened": "2025-03-17T09:40:55.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+=======
               "DocumentIndex": 5,
 <<<<<<< HEAD
               "Title": "ApplicationServiceExtension.cs",
@@ -297,6 +317,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T09:41:29.353Z"
 =======
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Helper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Domain\\Helper\\AutoMapperProfile.cs",
@@ -309,30 +330,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IJobService.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interface\\IJobService.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
-              "RelativeToolTip": "Domain\\Interface\\IJobService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobCRUD\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\JobCRUD\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobCRUD\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:40:55.471Z",
+              "WhenOpened": "2025-03-17T09:45:37.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:39:57.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IJobRepository.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interface\\IJobRepository.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobRepository.cs",
               "RelativeToolTip": "Domain\\Interface\\IJobRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T09:38:54.358Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Service\\JobService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:41:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\JobCRUD\\Domain\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Domain\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:18:20.715Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -364,9 +427,13 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMXAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-08-29T06:09:47.94Z"
+=======
               "WhenOpened": "2025-08-29T06:09:47.94Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             },
             {
               "$type": "Document",
@@ -387,8 +454,7 @@
               "RelativeToolTip": "JobCRUD\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:24:50.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T09:24:50.59Z"
             },
             {
               "$type": "Document",
@@ -400,6 +466,9 @@
               "RelativeToolTip": "Domain\\DTOs\\JobDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-03-17T09:38:01.359Z"
+=======
               "WhenOpened": "2025-03-17T09:38:01.359Z",
               "EditorCaption": ""
             },
@@ -407,6 +476,7 @@
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             },
             {
               "$type": "Document",
@@ -427,9 +497,13 @@
               "RelativeToolTip": "Domain\\Model\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-03-17T09:17:11.574Z"
+=======
               "WhenOpened": "2025-03-17T09:17:11.574Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             },
             {
               "$type": "Document",
@@ -450,9 +524,13 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-03-17T09:13:06.544Z"
+=======
               "WhenOpened": "2025-03-17T09:13:06.544Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             },
             {
               "$type": "Document",
@@ -473,9 +551,13 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-03-17T09:14:59.776Z"
+=======
               "WhenOpened": "2025-03-17T09:14:59.776Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             },
             {
               "$type": "Document",
@@ -508,9 +590,13 @@
               "RelativeToolTip": "JobCRUD\\JobCRUD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-03-17T09:28:49.518Z"
+=======
               "WhenOpened": "2025-03-17T09:28:49.518Z",
               "EditorCaption": ""
 >>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
             }
           ]
         }

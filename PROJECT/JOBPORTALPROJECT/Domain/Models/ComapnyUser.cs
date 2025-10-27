@@ -11,6 +11,8 @@ namespace Domain.Models
         public Guid CompanyId { get; set; }
         public JobProviderCompany Company { get; set; }
         public string Position { get; set; }
+
+      
     }
 
 

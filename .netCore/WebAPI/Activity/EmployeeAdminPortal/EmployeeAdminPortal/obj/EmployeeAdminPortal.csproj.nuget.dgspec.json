@@ -2,6 +2,8 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {}
   },
@@ -28,6 +30,7 @@
         "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\17. batch17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
 >>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3
 =======
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
     "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj": {}
   },
   "projects": {
@@ -39,7 +42,6 @@
         "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
         "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
->>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

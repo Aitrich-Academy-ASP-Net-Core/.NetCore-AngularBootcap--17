@@ -8,7 +8,10 @@ namespace Domain.Models
 {
     public class Skill
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
+        public Guid Id { get; set; }  
+        public string Name { get; set; } = string.Empty;
+
+        public ICollection<ProfileSkill> ProfileSkills { get; set; } = new List<ProfileSkill>();
     }
+
 }

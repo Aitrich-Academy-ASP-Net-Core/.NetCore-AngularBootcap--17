@@ -18,6 +18,8 @@ namespace Domain.Service.Authuser
 {
     public class AuthUserService : IAuthUserService
     {
+
+
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly IAuthUserRepository _userRepository;
 
@@ -29,19 +31,40 @@ namespace Domain.Service.Authuser
 
         public string GetUserId()
         {
-            var result = string.Empty;
-            if (_httpContextAccessor.HttpContext != null)
-            {
-                result = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Sid).Value.ToString();
-            }
-            return result;
+            if (_httpContextAccessor.HttpContext == null) return null;
+            return _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Sid)?.Value;
         }
-        public async Task<CompanyUser> GetUserAsync(Guid userId)
+
+        public async Task<CompanyUser> GetCompanyUserAsync(Guid userId)
         {
-            // Call repository async method properly
-            var user = await _userRepository.GetUser(userId);
-            return user;
+            return await _userRepository.GetUser(userId);
         }
+
+
+        //private readonly IHttpContextAccessor _httpContextAccessor;
+        //private readonly IAuthUserRepository _userRepository;
+
+        //public AuthUserService(IHttpContextAccessor httpContextAccessor, IAuthUserRepository userRepository)
+        //{
+        //    _httpContextAccessor = httpContextAccessor;
+        //    _userRepository = userRepository;
+        //}
+
+        //public string GetUserId()
+        //{
+        //    var result = string.Empty;
+        //    if (_httpContextAccessor.HttpContext != null)
+        //    {
+        //        result = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Sid).Value.ToString();
+        //    }
+        //    return result;
+        //}
+        //public async Task<CompanyUser> GetUserAsync(Guid userId)
+        //{
+        //    // Call repository async method properly
+        //    var user = await _userRepository.GetUser(userId);
+        //    return user;
+        //}
 
     }
 }

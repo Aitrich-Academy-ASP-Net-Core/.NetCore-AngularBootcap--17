@@ -27,13 +27,26 @@ namespace Domain.Service.AdminLogin.Interface
         Task<bool> RemoveSkillAsync(Guid skillId);
 
         Task<Industry> AddIndustry(Industry industry);
+        Task<List<Industry>> GetIndustriesAsync();
+
+
+        Task<bool> RemoveIndustryAsync(Guid industryId);
         Task<JobCategory> AddCategory(JobCategory category);
+        Task<List<JobCategory>> GetCategoriesAsync();
+        Task<bool> RemoveCategoryAsync(Guid categoryId);
         Task<Location> AddLocation(Location location);
+        Task<List<Location>> GetLocationsAsync();
+        Task<bool> RemoveLocationAsync(Guid locationId);
+        Task<IEnumerable<JobpostDto>> GetAllJobsAsync();
 
-        Task<IEnumerable<JobDto>> GetAllJobsAsync();
+        Task<int> GetJobProviderCountAsync();
+        Task<int> GetJobSeekerCountAsync();
+        Task<int> GetJobCountAsync();
+        Task<List<JobProviderCompany>> SearchCompaniesAsync(string searchTerm);
 
+        Task<bool> RemoveCompanyAsync(Guid companyId);
 
-
+        Task<bool> RemoveCompanyUserAsync(Guid userId);
 
     }
 }

@@ -1,4 +1,4 @@
-using Domain.Models;
+﻿using Domain.Models;
 using Domain.Enums;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -8,6 +8,10 @@ using HireMeNow_WebApi.Extensions;
 using Domain.Helpers;
 using Microsoft.EntityFrameworkCore;
 using HireMeNow_WebApi.API.Admin;
+using System.Security.Claims;
+using System.IdentityModel.Tokens.Jwt;
+
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
 
 
@@ -51,9 +55,19 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(
             Encoding.UTF8.GetBytes(builder.Configuration["AuthSettings:Token"])
-        )
+        ),
+        RoleClaimType = ClaimTypes.Role  
     };
 });
+
+
+
+
+
+
+
+
+
 
 // ===== Authorization =====
 builder.Services.AddAuthorization();
@@ -86,25 +100,26 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-
-    // ? Update existing admin password (if admin already exists)
     var admin = context.AuthUsers.FirstOrDefault(u => u.Email == "admin@hiremenow.com");
+
     if (admin != null)
     {
-        admin.Password = Domain.Helpers.PasswordHelper.HashPassword("Admin@123");
+        admin.PasswordHash = PasswordHelper.HashPassword("Admin@123");
+        admin.Password = null;
+        admin.Role = Role.ADMIN; // Ensure role is correct
+        admin.IsEmailVerified = true;
         context.SaveChanges();
-        Console.WriteLine("Admin password updated with hash!");
+        Console.WriteLine("Admin updated successfully");
     }
     else
     {
-        // Or create new admin if none exists
         var newAdmin = new AuthUser
         {
             Id = Guid.NewGuid(),
             FirstName = "Admin",
             LastName = "User",
             Email = "admin@hiremenow.com",
-            Password = Domain.Helpers.PasswordHelper.HashPassword("Admin@123"),
+            PasswordHash = PasswordHelper.HashPassword("Admin@123"),
             Role = Role.ADMIN,
             ConnectionId = "",
             OnlineStatus = false,
@@ -113,9 +128,22 @@ using (var scope = app.Services.CreateScope())
         };
         context.AuthUsers.Add(newAdmin);
         context.SaveChanges();
-        Console.WriteLine("Admin user created with hashed password!");
+        Console.WriteLine("Admin created successfully");
     }
+
+    //var jobSeeker = context.AuthUsers.FirstOrDefault(u => u.Email == "testseeker1@example.com" && u.Role == Role.JOB_SEEKER);
+
+    //if (jobSeeker != null)
+    //{
+    //    jobSeeker.PasswordHash = PasswordHelper.HashPassword("Test@123"); // new password
+    //    jobSeeker.IsEmailVerified = true; // ensure verified
+    //    context.SaveChanges();
+    //    Console.WriteLine("Test JobSeeker password updated successfully!");
+    //}
 }
+
+
+
 
 // ===== Middleware =====
 app.UseSwagger();
@@ -125,7 +153,7 @@ app.UseCors("NgOrigins");
 
 app.UseHttpsRedirection();
 
-app.UseAuthentication();  // Must be BEFORE UseAuthorization
+app.UseAuthentication();  
 app.UseAuthorization();
 
 app.MapControllers();
