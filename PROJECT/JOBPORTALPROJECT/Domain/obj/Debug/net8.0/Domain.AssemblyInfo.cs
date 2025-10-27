@@ -14,15 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc98a6871c247328f4aa46cdfd6112becfea12e7")]
-=======
-<<<<<<<< HEAD:.netCore/WebAPI/TTD/Workshop/Workshop 3/HireMeNow_WebApi_/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c44c505cd5fef6f8ee9fa82e9e59cc747f5fe8")]
-========
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b632df679e2904c8e4b816cf67b853642de2e95")]
->>>>>>>> 73565dddeea44f00ec3697b5888f04e3d52b09cb:PROJECT/JOBPORTALPROJECT/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
->>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e965a123bb84c5170f04046978d160c6b3ebfca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
