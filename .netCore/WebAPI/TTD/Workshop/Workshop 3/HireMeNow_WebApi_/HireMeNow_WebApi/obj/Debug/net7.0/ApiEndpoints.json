@@ -1,0 +1,248 @@
+[
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "AddQualificationToProfile",
+    "RelativePath": "api/v1/{jobseekerId}/profile/{profileId}/Qualification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobseekerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "data",
+        "Type": "HireMeNow_WebApi.JobSeeker.QualificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "GetProfile",
+    "RelativePath": "api/v1/{jobseekerId}/profiledetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobseekerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Domain.Service.Profile.DTOs.JobSeekerProfileDTo, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "AddProfile",
+    "RelativePath": "api/v1/AddProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileRequest",
+        "Type": "HireMeNow_WebApi.JobSeeker.JobseekerProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "GetProfilesByJobSeekerId",
+    "RelativePath": "api/v1/GetJobSeekerProfile/{jobSeekerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSeekerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.JobSeeker.JobSeekerController",
+    "Method": "Login",
+    "RelativePath": "api/v1/job-seeker/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logdata",
+        "Type": "HireMeNow_WebApi.API.JobSeeker.RequestObjects.JobSeekerLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.JobSeeker.JobSeekerController",
+    "Method": "createJobSeekerSignupRequest",
+    "RelativePath": "api/v1/job-seeker/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "HireMeNow_WebApi.API.JobSeeker.RequestObjects.JobSeekerSignupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.JobSeeker.JobSeekerController",
+    "Method": "createJobSeekerSignupRequest",
+    "RelativePath": "api/v1/job-seeker/signup/{jobSeekerSignupRequestId}/set-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSeekerSignupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.JobSeeker.JobSeekerController",
+    "Method": "VerifyJobSeekerEmail",
+    "RelativePath": "api/v1/job-seeker/signup/{jobSeekerSignupRequestId}/verify-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSeekerSignupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "GetQualification",
+    "RelativePath": "api/v1/profile/{profileId}/Qualification",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Domain.Service.Profile.DTOs.JobseekerQualificationDTo, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.JobSeeker.JobSeekerProfileController",
+    "Method": "UpdateJobSeekerProfile",
+    "RelativePath": "api/v1/UpdateJobSeekerProfile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "JobseekerId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FirstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HireMeNow_WebApi.WeatherForecast, HireMeNow_WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

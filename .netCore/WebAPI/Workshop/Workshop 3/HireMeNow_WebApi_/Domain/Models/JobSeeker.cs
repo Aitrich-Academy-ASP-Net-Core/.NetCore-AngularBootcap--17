@@ -31,5 +31,5 @@ public partial class JobSeeker
 
 	//public virtual SystemUser IdNavigation { get; set; } = null!;
 
-	public virtual ICollection<SavedJob> SavedJobs { get; set; } = new List<SavedJob>();
+	//public virtual ICollection<SavedJob> SavedJobs { get; set; } = new List<SavedJob>();
 }

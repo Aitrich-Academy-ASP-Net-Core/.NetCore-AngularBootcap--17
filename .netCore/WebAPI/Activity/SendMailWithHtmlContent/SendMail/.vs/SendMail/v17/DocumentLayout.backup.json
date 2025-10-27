@@ -1,11 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\",
+=======
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\",
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -18,6 +25,7 @@
           ]
         }
       ]
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
     }
   ]
 }

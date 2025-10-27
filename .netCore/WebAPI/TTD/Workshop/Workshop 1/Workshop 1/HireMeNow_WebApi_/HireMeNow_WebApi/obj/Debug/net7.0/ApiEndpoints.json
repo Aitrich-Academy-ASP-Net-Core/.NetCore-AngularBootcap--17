@@ -1,0 +1,211 @@
+[
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddLocation",
+    "RelativePath": "api/v1/AddLocation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.LocationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetCompanies",
+    "RelativePath": "api/v1/admin/GetCompanies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobCount",
+    "RelativePath": "api/v1/admin/GetJobCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobProviderCount",
+    "RelativePath": "api/v1/admin/GetJobProviderCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobSeekers",
+    "RelativePath": "api/v1/admin/GetJobSeekers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "getalljobs",
+    "RelativePath": "api/v1/admin/jobsbyName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logdata",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.AdminLoginRequests",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "Remove",
+    "RelativePath": "api/v1/admin/RemoveCompanyUsers/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "SearchCompanies",
+    "RelativePath": "api/v1/admin/SearchCompanies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "alljobs",
+    "RelativePath": "api/v1/alljobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetLocations",
+    "RelativePath": "api/v1/GetLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveLocation",
+    "RelativePath": "api/v1/RemoveLocations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "AddSkill",
+    "RelativePath": "api/v1/skillAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skill",
+        "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.SkillRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveSkill",
+    "RelativePath": "api/v1/skillRemove/{skillId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skillId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HireMeNow_WebApi.WeatherForecast, HireMeNow_WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

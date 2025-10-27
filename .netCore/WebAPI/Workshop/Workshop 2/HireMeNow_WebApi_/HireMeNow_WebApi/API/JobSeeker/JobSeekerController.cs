@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿
+using AutoMapper;
 using Domain.Helpers;
 using Domain.Models;
 using Domain.Service.Job.DTOs;
@@ -66,6 +67,8 @@ namespace HireMeNow_WebApi.API.JobSeeker
 			await jobSeekerService.CreateJobseeker(jobSeekerSignupRequestId, password);
 			return Ok("Password Set Successfully");
 		}
+
+
 
 
 		[HttpPost]

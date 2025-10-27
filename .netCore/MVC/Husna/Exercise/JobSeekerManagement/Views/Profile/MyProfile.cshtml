@@ -1,0 +1,71 @@
+﻿@model JobSeekerManagement.Dto.ProfileDto
+
+@{
+    Layout = "_Layout"; // shared top bar + logout
+}
+
+<div style="display:flex; min-height:100vh;">
+
+    <!-- Sidebar -->
+    <div style="width:220px; background:#007bff; color:white; padding:20px; border-right:1px solid #0056b3;">
+        <h2 style="color:white; margin-bottom:30px;">Hire Me Now</h2>
+        <ul style="list-style:none; padding:0; margin:0;">
+            <li style="margin:15px 0;"><a href="/Home/Dashboard" style="color:white; text-decoration:none;">Dashboard</a></li>
+            <li style="margin:15px 0;"><a href="/Jobs/JobList" style="color:white; text-decoration:none;">Jobs</a></li>
+            <li style="margin:15px 0;"><a href="/Applications/MyApplications" style="color:white; text-decoration:none;">Applications</a></li>
+            <li style="margin:15px 0;"><a href="/Interviews/MyInterviews" style="color:white; text-decoration:none;">Interviews</a></li>
+            <li style="margin:15px 0;"><a href="/Messages/Inbox" style="color:white; text-decoration:none;">Messages</a></li>
+            <li style="margin:15px 0;"><a href="/Profile/MyProfile" style="color:white; text-decoration:none;">Settings</a></li>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div style="flex:1; padding:20px;">
+        <h2>My Profile</h2>
+
+        <form asp-action="MyProfile" method="post">
+            <!-- Personal Info -->
+            <section id="personal" style="margin-bottom:20px;">
+                <h3>Personal Information</h3>
+
+                <label>First Name</label>
+                <input asp-for="FirstName" style="width:100%; margin-bottom:10px;" />
+
+                <label>Email</label>
+                <input asp-for="Email" type="email" style="width:100%; margin-bottom:10px;" />
+
+                <label>Phone</label>
+                <input asp-for="Phone" type="tel" style="width:100%; margin-bottom:10px;" />
+
+                <label>Location</label>
+                <input asp-for="Location" style="width:100%; margin-bottom:10px;" />
+            </section>
+
+           
+
+            <!-- Skills -->
+            <section id="skills" style="margin-bottom:20px;">
+                <h3>Skills</h3>
+                <input asp-for="Skills" style="width:100%;" />
+            </section>
+
+            
+
+            <!-- Experience -->
+            <section id="experience" style="margin-bottom:20px;">
+                <h3>Experience</h3>
+                <input asp-for="Experience" style="width:100%;" />
+            </section>
+
+            <!-- Single Save Button -->
+            <button type="submit" style="background:#1e90ff; color:white; padding:10px 15px; border:none; border-radius:5px; cursor:pointer;">
+                Save Changes
+            </button>
+        </form>
+
+        @if (ViewBag.Message != null)
+        {
+            <p style="color:green; margin-top:15px;">@ViewBag.Message</p>
+        }
+    </div>
+</div>

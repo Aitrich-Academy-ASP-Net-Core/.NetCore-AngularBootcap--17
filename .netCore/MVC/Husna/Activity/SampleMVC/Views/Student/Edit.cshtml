@@ -1,0 +1,19 @@
+﻿@model SampleMVC.Models.Student
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="id" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" type="number" required />
+    </div>
+    <button type="submit" class="btn btn-warning">Update</button>
+    <a href="/Student" class="btn btn-secondary">Cancel</a>
+</form>
+
