@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore;
 
 public class AppDbContext : DbContext
 {
-    // ✅ Needed for EF CLI
+  
     public AppDbContext() { }
 
-    // ✅ Used by runtime DI
+   
     public AppDbContext(DbContextOptions<AppDbContext> options)
         : base(options)
     {
@@ -16,7 +16,7 @@ public class AppDbContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            // ✅ Correct database name
+          
             optionsBuilder.UseSqlServer("Data Source=shemeera_1990\\sqlexpress;Initial Catalog=Projectdotnetcore;Integrated Security=True;Trust Server Certificate=True");
         }
     }
@@ -43,9 +43,40 @@ public class AppDbContext : DbContext
     public DbSet<Message> Messages { get; set; }
     public DbSet<MessageGroup> MessageGroups { get; set; }
     public DbSet<SignUpRequest> SignUpRequests { get; set; }
+    public DbSet<ProfileSkill> ProfileSkills { get; set; }
+
     public DbSet<Job> Jobs { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+
+        
+
+        modelBuilder.Entity<Resume>()
+            .HasOne(r => r.JobSeeker)
+            .WithMany(j => j.Resumes)
+            .HasForeignKey(r => r.JobSeekerId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<Resume>()
+            .HasOne(r => r.Profile)
+            .WithMany(p => p.Resumes)
+            .HasForeignKey(r => r.ProfileId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<ProfileSkill>()
+            .HasKey(ps => new { ps.ProfileId, ps.SkillId });
+
+        modelBuilder.Entity<ProfileSkill>()
+            .HasOne(ps => ps.Profile);
+            //.WithMany(p => p.Skills)
+            //.HasForeignKey(ps => ps.ProfileId);
+
+        modelBuilder.Entity<ProfileSkill>()
+            .HasOne(ps => ps.Skill)
+            .WithMany(s => s.ProfileSkills)
+            .HasForeignKey(ps => ps.SkillId);
     }
+
 }

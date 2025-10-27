@@ -5,11 +5,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using MimeKit;
 using MailKit.Net.Smtp;
-using Domain.Helpers; // ✅ Add this for SmtpClient
+using Domain.Helpers;
+using MailKit.Security;
+using Microsoft.Extensions.Logging; 
 
 namespace Domain.Service
 {
-    public class EmailService : IEmailService
+      public class EmailService: IEmailService
     {
         private readonly MailSettings _mailSettings;
         private readonly IConfiguration _config;
@@ -24,37 +26,40 @@ namespace Domain.Service
         {
             try
             {
-                var fromMail = _config.GetSection("MailSettings")["FromMail"];
-                var displayName = _config.GetSection("MailSettings")["DisplayName"];
+                var fromMail = _config["MailSettings:FromMail"];
+                var displayName = _config["MailSettings:DisplayName"];
 
                 var email = new MimeMessage();
                 email.From.Add(new MailboxAddress(displayName, fromMail));
                 email.To.Add(MailboxAddress.Parse(mailRequest.ToEmail));
                 email.Subject = mailRequest.Subject;
 
-                var builder = new BodyBuilder
-                {
-                    HtmlBody = mailRequest.Body
-                };
+                var builder = new BodyBuilder { HtmlBody = mailRequest.Body };
                 email.Body = builder.ToMessageBody();
 
                 using var smtp = new SmtpClient();
-                smtp.Connect(_mailSettings.Host, _mailSettings.Port, _mailSettings.UseSSL);
 
-                // Optional: Only authenticate if required
+                // Use correct SecureSocketOptions based on port
+                var socketOptions = _mailSettings.Port == 465
+                    ? SecureSocketOptions.SslOnConnect
+                    : SecureSocketOptions.StartTls;
+
+                await smtp.ConnectAsync(_mailSettings.Host, _mailSettings.Port, socketOptions);
+
                 if (_mailSettings.DoAuthenticate)
                 {
-                    smtp.Authenticate(_mailSettings.UserMail, _mailSettings.Password);
+                    await smtp.AuthenticateAsync(_mailSettings.UserMail, _mailSettings.Password);
                 }
 
                 await smtp.SendAsync(email);
-                smtp.Disconnect(true);
+                await smtp.DisconnectAsync(true);
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Email sending failed: {ex.Message}");
-                // Optional: Log the exception or rethrow
+                // Optional: log ex.StackTrace if needed
             }
         }
     }
 }
+

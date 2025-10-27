@@ -25,40 +25,103 @@ namespace Domain.Service.Login
             _authUserRepository = authUserRepository;
         }
 
-        // ================= Job Seeker Login =================
-        public JobSeekerLoginDto login(string email, string password)
-        {
-            var user = _jobSeekerRepository.GetUserByEmailpassword(email, password);
-            if (user == null) return null;
-
-            if (!Domain.Helpers.PasswordHelper.VerifyPassword(password, user.Password))
-                return null;
-
-            var userReturn = _mapper.Map<JobSeekerLoginDto>(user);
-            userReturn.Token = _authUserRepository.CreateToken(user);
-            return userReturn;
-        }
-
-        // ================= Admin Login =================
-        public async Task<AdminLoginDto> Adminlogin(string email, string password)
+        // ================= JobSeeker Login =================
+        public async Task<JobSeekerLoginDto?> JobSeekerLoginAsync(string email, string password)
         {
             var user = await _authUserRepository.GetAuthUserByUserEmail(email);
-
-            if (user == null || user.Role != Role.ADMIN)
+            if (user == null || user.Role != Role.JOB_SEEKER || !PasswordHelper.VerifyPassword(password, user.PasswordHash))
                 return null;
 
-            // ✅ Check hashed password
-            if (!PasswordHelper.VerifyPassword(password, user.Password))
-                return null;
+            return new JobSeekerLoginDto
+            {
+                Id = user.Id,
+                FirstName = user.FirstName,
+                Email = user.Email,
+                Token = _authUserRepository.CreateToken(user) // ✅ Single token logic
+            };
+        }
+
+
+        // ================= Admin Login =================
+        public async Task<AdminLoginDto?> AdminLoginAsync(string email, string password)
+        {
+            var user = await _authUserRepository.GetAuthUserByUserEmail(email);
+            if (user == null || user.Role != Role.ADMIN) return null;
+
+            if (!PasswordHelper.VerifyPassword(password, user.PasswordHash)) return null;
 
             return new AdminLoginDto
             {
                 Email = user.Email,
                 Name = user.FirstName,
                 Role = "Admin",
-                Token = _authUserRepository.CreateToken(user)
+                Token = _authUserRepository.CreateToken(user) // same token method
             };
         }
+
+        // ================= JobProvider Login (Optional) =================
+        //public async Task<JobProviderLoginDto?> JobProviderLoginAsync(string email, string password)
+        //{
+        //    var user = await _authUserRepository.GetAuthUserByUserEmail(email);
+        //    if (user == null || user.Role != Role.JOB_PROVIDER) return null;
+
+        //    if (!PasswordHelper.VerifyPassword(password, user.PasswordHash)) return null;
+
+        //    var dto = _mapper.Map<JobProviderLoginDto>(user);
+        //    dto.Token = _authUserRepository.CreateToken(user);
+        //    return dto;
+        //}
+
+
+
+
+
+
+
+
+
+
+        ////================= Job Seeker Login =================
+        //public async Task<JobSeekerLoginDto?> JobSeekerLoginAsync(string email, string password)
+        //{
+        //    var user = await _authUserRepository.GetAuthUserByUserEmail(email);
+
+        //    if (user == null || user.Role != Role.JOB_SEEKER)
+        //        return null;
+
+        //    //  Verify against PasswordHash
+        //    if (!PasswordHelper.VerifyPassword(password, user.PasswordHash))
+        //        return null;
+
+        //    var dto = _mapper.Map<JobSeekerLoginDto>(user);
+        //    dto.Token = _authUserRepository.CreateJobSeekerToken(user);
+        //    return dto;
+        //}
+
+
+
+        //// ================= Admin Login =================
+        //public async Task<AdminLoginDto> Adminlogin(string email, string password)
+        //{
+        //    var user = await _authUserRepository.GetAuthUserByUserEmail(email);
+
+        //    if (user == null || user.Role != Role.ADMIN)
+        //        return null;
+
+        //    if (!PasswordHelper.VerifyPassword(password, user.PasswordHash))
+        //        return null;
+
+
+
+
+        //    return new AdminLoginDto
+        //    {
+        //        Email = user.Email,
+        //        Name = user.FirstName,
+        //        Role = "Admin",
+        //        Token = _authUserRepository.CreateToken(user)
+        //    };
+        //}
 
 
 

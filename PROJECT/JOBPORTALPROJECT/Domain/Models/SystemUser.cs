@@ -16,5 +16,8 @@ namespace Domain.Models
         public Role Role { get; set; }
         public DateTime CreatedAt { get; set; }
         public bool IsEmailVerified { get; set; }
+
+
+        public string PasswordHash { get; set; }
     }
 }

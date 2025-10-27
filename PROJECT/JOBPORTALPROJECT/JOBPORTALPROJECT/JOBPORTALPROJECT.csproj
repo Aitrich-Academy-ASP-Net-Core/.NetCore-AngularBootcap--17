@@ -20,16 +20,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="HubConfig\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 	<ItemGroup>
 		<None Update="appsettings.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="API\JobController\RequestObject\" />
 	</ItemGroup>
 
 

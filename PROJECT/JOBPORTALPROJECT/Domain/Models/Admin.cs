@@ -13,7 +13,6 @@ namespace Domain.Models
         public Guid Id { get; set; }
         public string Email { get; set; }
         public string PasswordHash { get; set; }
-        public Role Role { get; set; } = Role.ADMIN;  // use enum
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public Role Role { get; set; } = Role.ADMIN;  
     }
 }

@@ -15,16 +15,26 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
-    options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
+    options.SwaggerDoc("v1", new OpenApiInfo
     {
-        Description = "Standard Authorization header using the Bearer scheme (\"bearer {token}\")",
-        In = ParameterLocation.Header,
+        Title = "Tour Booking API",
+        Version = "v1",
+        Description = "API for managing tours and bookings"
+    });
+
+    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
         Name = "Authorization",
-        Type = SecuritySchemeType.ApiKey
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Enter JWT token like: Bearer {token}"
     });
 
     options.OperationFilter<SecurityRequirementsOperationFilter>();
 });
+
 
 builder.Services.AddDbContext<UserDbContext>(
     options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
