@@ -69,6 +69,8 @@ namespace HireMeNow_WebApi.API.JobSeeker
 		}
 
 
+
+
 		[HttpPost]
 		[Route("job-seeker/upload-resume")]
 		public async Task<ActionResult> UploadResume(Guid jobSeekerId, Guid profileId, string profileName, string profileSummary, string title, IFormFile file)
