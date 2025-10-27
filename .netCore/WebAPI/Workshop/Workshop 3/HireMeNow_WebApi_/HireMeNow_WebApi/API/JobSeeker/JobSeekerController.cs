@@ -18,9 +18,9 @@ namespace HireMeNow_WebApi.API.JobSeeker
 {
 	[ApiController]
 
+    [Route("api/job-seekerr")]
 
-
-	public class JobSeekerController : BaseApiController<JobSeekerController>
+    public class JobSeekerController : BaseApiController<JobSeekerController>
 	{
 		public ISignUpRequestService jobSeekerService { get; set; }
 
@@ -37,7 +37,7 @@ namespace HireMeNow_WebApi.API.JobSeeker
 
 		}
 		[HttpPost]
-		[Route("job-seeker/signup")]
+	
 		public async Task<ActionResult> createJobSeekerSignupRequest(JobSeekerSignupRequest data)
 		{
 			var jobSeekerSignupRequestDto = mapper.Map<JobSeekerSignupRequestDto>(data);

@@ -1,0 +1,35 @@
+﻿@model List<SampleMVC.Models.Student>
+
+<h2>Student List</h2>
+
+<!-- Add Student button -->
+<a class="btn btn-primary mb-3" href="/Student/Create">Add Student</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Actions</th> <!-- New column -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>
+                    <!-- Edit button -->
+                    <a asp-controller="Student" asp-action="Edit" asp-route-id="@student.id" class="btn btn-sm btn-warning">Edit</a>
+
+                    <!-- Delete button -->
+                    <a asp-controller="Student" asp-action="Delete" asp-route-id="@student.id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

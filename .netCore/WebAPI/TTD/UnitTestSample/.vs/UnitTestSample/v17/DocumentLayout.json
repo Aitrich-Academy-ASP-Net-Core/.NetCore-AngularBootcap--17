@@ -1,11 +1,45 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\UnitTestSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89FF419F-9A37-49EC-A748-034C50D92F58}|UnitTestSample\\UnitTestSample.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\ttd\\unittestsample\\unittestsample\\test\\evenoroddnumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FF419F-9A37-49EC-A748-034C50D92F58}|UnitTestSample\\UnitTestSample.csproj|solutionrelative:unittestsample\\test\\evenoroddnumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+=======
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 10\\TTD\\UnitTestSample\\",
+=======
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\TTD\\UnitTestSample\\",
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
   "Documents": [],
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenOrOddNumberTest.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\Test\\EvenOrOddNumberTest.cs",
+              "RelativeDocumentMoniker": "UnitTestSample\\Test\\EvenOrOddNumberTest.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\TTD\\UnitTestSample\\UnitTestSample\\Test\\EvenOrOddNumberTest.cs",
+              "RelativeToolTip": "UnitTestSample\\Test\\EvenOrOddNumberTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:44:23.433Z",
+              "EditorCaption": ""
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -14,10 +48,17 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
             }
           ]
         }
       ]
+<<<<<<< HEAD
+=======
+      "DocumentGroups": []
+>>>>>>> 8777a44e7549a1afb63a8a4840a0803482b58cc1
+=======
+>>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
     }
   ]
 }

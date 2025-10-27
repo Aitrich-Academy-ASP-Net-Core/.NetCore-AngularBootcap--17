@@ -1,4 +1,5 @@
-﻿using EmployeeAdminPortal.Data;
+﻿
+using EmployeeAdminPortal.Data;
 using EmployeeAdminPortal.Migrations;
 using EmployeeAdminPortal.Model;
 using EmployeeAdminPortal.Model.Entities;

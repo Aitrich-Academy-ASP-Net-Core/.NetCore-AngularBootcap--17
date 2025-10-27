@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\",
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\jwt\\activity\\jwt-login\\jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\jwt\\activity\\jwt-login\\jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,6 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -58,6 +59,11 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JWT-Login.csproj",
@@ -74,11 +80,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "JWT-Login\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
               "RelativeToolTip": "JWT-Login\\Controllers\\UserController.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwDgAAAAqAAAAAAAAAA==",
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T09:23:22.609Z",
               "EditorCaption": ""

@@ -1,7 +1,17 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B089F882-D585-48A9-8EE3-A804A88CD829}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\activity\\employeeadminportal\\employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B089F882-D585-48A9-8EE3-A804A88CD829}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+=======
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\",
   "Documents": [],
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +19,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:21:06.59Z",
+              "EditorCaption": ""
+=======
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+>>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
             }
           ]
         }

@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\MVC\\MVC_Register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\mvc_register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:mvc_register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\helper\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:helper\\automappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|c:\\asp.net\\mvc\\mvc_register\\migrations\\20250805200717_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D126C6-EC23-4D2C-AFB9-54D36D68F408}|MVC_Register.csproj|solutionrelative:migrations\\20250805200717_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:14:01.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Dashboard.cshtml",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\User\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T17:36:41.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:38:34.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:54:03.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVC_Register.csproj",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\MVC_Register.csproj",
+              "RelativeDocumentMoniker": "MVC_Register.csproj",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\MVC_Register.csproj",
+              "RelativeToolTip": "MVC_Register.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T19:36:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T17:36:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:09:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-06T21:07:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:08:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T17:36:12.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:53:52.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:48:22.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:20:59.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:43:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Helper\\AutoMappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMappingProfile.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Helper\\AutoMappingProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:48:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:41:04.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:40:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250805200717_start.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Migrations\\20250805200717_start.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250805200717_start.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Migrations\\20250805200717_start.cs",
+              "RelativeToolTip": "Migrations\\20250805200717_start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:07:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T19:39:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.net\\MVC\\MVC_Register\\Models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UserDbContext.cs",
+              "ToolTip": "C:\\Asp.net\\MVC\\MVC_Register\\Models\\UserDbContext.cs",
+              "RelativeToolTip": "Models\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:38:49.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {}
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {
+    "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+        "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
         "projectName": "JWT-Login",
-        "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
-        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\obj\\",
+        "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+        "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
