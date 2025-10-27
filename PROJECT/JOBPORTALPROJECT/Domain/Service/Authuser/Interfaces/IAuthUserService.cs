@@ -13,8 +13,8 @@ namespace Domain.Service.Authuser.Interfaces
     public interface IAuthUserService
     {
         string GetUserId();
-        Task<CompanyUser> GetUserAsync(Guid userId);
-
+        
+        Task<CompanyUser> GetCompanyUserAsync(Guid userId);
     }
 }
 

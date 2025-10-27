@@ -1,42 +1,154 @@
-﻿using Domain.Models;
+﻿using Domain.Helpers;
+using Domain.Models;
+using Domain.Service.Authuser.Dto;
+using Domain.Service.JobseekerAuth.Dto;
 using Domain.Service.JobseekerAuth.Interfaces;
+using HireMeNow_WebApi.API.Admin;
+using JOBPORTALPROJECT.API.JobSeeker.RequestObject;
+using JOBPORTALPROJECT.Controllers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JOBPORTALPROJECT.API.JobSeeker
 {
+
     [Route("api/jobseeker/auth")]
     [ApiController]
     public class JobSeekerAuthController : ControllerBase
     {
-        private readonly IJobSeekerAuthService _authService;
+        private readonly IJobSeekerAuthService _service;
 
-        public JobSeekerAuthController(IJobSeekerAuthService authService)
+        public JobSeekerAuthController(IJobSeekerAuthService service)
         {
-            _authService = authService;
+            _service = service;
         }
 
+        // ✅ 1️⃣ Register JobSeeker
         [HttpPost("register")]
-        public async Task<IActionResult> Register(SignUpRequest request)
+        public async Task<IActionResult> Register(JobSeekerRegisterRequest request)
         {
-            var result = await _authService.RegisterAsync(request);
-            if (!result) return BadRequest("Email already exists");
-            return Ok("OTP sent to your email");
+            await _service.RegisterAsync(new JobSeekerRegisterDto
+            {
+                FirstName = request.FirstName,
+                LastName = request.LastName,
+                Email = request.Email,
+                Phone = request.Phone
+            });
+
+            return Ok(new { message = "Verification email sent." });
         }
 
-        [HttpPost("verify")]
-        public async Task<IActionResult> VerifyOtp(string email, string otp)
+        // Verify Email
+        [HttpGet("verify-email")]
+        public async Task<IActionResult> VerifyEmail(Guid id, string email)
         {
-            var result = await _authService.VerifyOtpAsync(email, otp);
-            return Ok(result);
+            await _service.VerifyEmailByIdAsync(id, email);
+            return Ok("Email verified successfully!");
         }
 
+        //Set Password
+        [HttpPost("set-password")]
+        public async Task<IActionResult> SetPassword(SetPasswordRequest request)
+        {
+            try
+            {
+                await _service.SetPasswordAsync(request.UserId, request.Password);
+                return Ok("Password set successfully.");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+
+        // Login
+        [AllowAnonymous]
         [HttpPost("login")]
-        public async Task<IActionResult> Login(string email, string password)
+        public async Task<IActionResult> Login([FromBody] JobSeekerLoginRequest request)
         {
-            var token = await _authService.LoginAsync(email, password);
-            if (token == null) return Unauthorized("Invalid credentials");
-            return Ok(new { Token = token });
+            var result = await _service.LoginAsync(request.Email, request.Password);
+            if (result == null)
+                return BadRequest("Invalid email or password");
+
+            return Ok(result);
         }
     }
 }
+
+
+
+
+//    [Route("api/jobseeker/auth")]
+//    [ApiController]
+//    public class JobSeekerController : BaseApiController<JobSeekerController>
+//    {
+//        private readonly IJobSeekerAuthService _service;
+
+//        public JobSeekerController(IJobSeekerAuthService service)
+//        {
+//            _service = service;
+//        }
+
+//        [HttpPost("register")]
+//        public async Task<IActionResult> Register(JobSeekerRegisterRequest request)
+//        {
+//            await _service.RegisterAsync(new JobSeekerRegisterDto
+//            {
+//                FirstName = request.FirstName,
+//                LastName = request.LastName,
+//                Email = request.Email,
+//                Phone = request.Phone,
+
+//            });
+
+//            return Ok(new
+//            {
+//                Message = "Verification email sent."
+//            });
+//        }
+
+
+
+
+
+//        [HttpGet("verify-email")]
+//        public async Task<IActionResult> VerifyEmail(Guid id, string email)
+//        {
+//            await _service.VerifyEmailByIdAsync(id, email);
+//            return Ok("Email verified successfully!");
+//        }
+
+
+
+//        [HttpPost("set-password")]
+//        public async Task<IActionResult> SetPassword(SetPasswordRequest request)
+//        {
+//            try
+//            {
+//                await _service.SetPasswordAsync(request.UserId, request.Password);
+//                return Ok("Password set successfully.");
+//            }
+//            catch (Exception ex)
+//            {
+//                return BadRequest(ex.Message);
+//            }
+//        }
+
+
+//        [AllowAnonymous]
+//        [HttpPost("login")]
+//        public async Task<IActionResult> Login([FromBody] JobSeekerLoginRequest request)
+//        {
+//            var result = await _service.LoginAsync(request.Email, request.Password);
+
+//            if (result == null)
+//                return BadRequest("Invalid email or password");
+
+//            return Ok(result);
+//        }
+
+//    }
+//}
+
 

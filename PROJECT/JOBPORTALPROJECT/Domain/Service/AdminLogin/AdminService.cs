@@ -40,6 +40,11 @@ namespace Domain.Service.AdminLogin
             return await _adminRepository.GetCompanies();
         }
 
+        public async Task<List<JobProviderCompany>> SearchCompaniesAsync(string searchTerm)
+        {
+            return await _adminRepository.SearchCompaniesAsync(searchTerm);
+        }
+
         public async Task<List<CompanyUser>> GetCompanyUsers()
         {
             return await _adminRepository.GetCompanyUsers();
@@ -49,6 +54,17 @@ namespace Domain.Service.AdminLogin
         {
             return await _adminRepository.GetAllSkillsAsync();
         }
+
+        public async Task<bool> RemoveCompanyAsync(Guid companyId)
+        {
+            return await _adminRepository.RemoveCompanyAsync(companyId);
+        }
+
+        public async Task<bool> RemoveCompanyUserAsync(Guid userId)
+        {
+            return await _adminRepository.RemoveCompanyUserAsync(userId);
+        }
+
 
 
         // =================== Add Skill ===================
@@ -76,7 +92,7 @@ namespace Domain.Service.AdminLogin
             return await _adminRepository.RemoveSkillAsync(skillId);
         }
 
-        // ✅ Add Industry
+        // Add Industry
         public async Task<Industry> AddIndustry(Industry industry)
         {
             var existing = await _adminRepository.GetIndustryByNameAsync(industry.Name);
@@ -86,7 +102,23 @@ namespace Domain.Service.AdminLogin
             return await _adminRepository.AddIndustryAsync(industry);
         }
 
-        // ✅ Add Category
+
+        public async Task<List<Industry>> GetIndustriesAsync()
+        {
+            return await _adminRepository.GetIndustriesAsync();
+        }
+
+
+
+        public async Task<bool> RemoveIndustryAsync(Guid industryId)
+        {
+            return await _adminRepository.RemoveIndustryAsync(industryId);
+        }
+       
+        
+        
+        //  Add Category
+
         public async Task<JobCategory> AddCategory(JobCategory category)
         {
             var existing = await _adminRepository.GetCategoryByNameAsync(category.Name);
@@ -95,8 +127,20 @@ namespace Domain.Service.AdminLogin
 
             return await _adminRepository.AddCategoryAsync(category);
         }
+       
 
-        // ✅ Add Location
+        // ✅ Get All Categories
+        public async Task<List<JobCategory>> GetCategoriesAsync()
+        {
+            return await _adminRepository.GetCategoriesAsync();
+        }
+
+
+        public async Task<bool> RemoveCategoryAsync(Guid categoryId)
+        {
+            return await _adminRepository.RemoveCategoryAsync(categoryId);
+        }
+        // Add Location
         public async Task<Location> AddLocation(Location location)
         {
             // Check if a location with the same name already exists
@@ -107,12 +151,41 @@ namespace Domain.Service.AdminLogin
             // Add new location
             return await _adminRepository.AddLocationAsync(location);
         }
+        public async Task<List<Location>> GetLocationsAsync()
+        {
+            return await _adminRepository.GetLocationsAsync();
+        }
+        public async Task<bool> RemoveLocationAsync(Guid locationId)
+        {
+            return await _adminRepository.RemoveLocationAsync(locationId);
+        }
 
-        public async Task<IEnumerable<JobDto>> GetAllJobsAsync()
+        //ALLJOBS
+        public async Task<IEnumerable<JobpostDto>> GetAllJobsAsync()
         {
             var jobs = await _adminRepository.GetAllJobsAsync();
-            return _mapper.Map<IEnumerable<JobDto>>(jobs);
+            return _mapper.Map<IEnumerable<JobpostDto>>(jobs);
         }
+
+
+        //COUNT
+
+
+        public async Task<int> GetJobProviderCountAsync()
+        {
+            return await _adminRepository.GetJobProviderCountAsync();
+        }
+
+        public async Task<int> GetJobSeekerCountAsync()
+        {
+            return await _adminRepository.GetJobSeekerCountAsync();
+        }
+
+        public async Task<int> GetJobCountAsync()
+        {
+            return await _adminRepository.GetJobCountAsync();
+        }
+
 
 
     }

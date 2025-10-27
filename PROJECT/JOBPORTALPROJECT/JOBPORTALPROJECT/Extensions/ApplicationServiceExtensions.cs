@@ -19,6 +19,9 @@ using Domain.Service.User;
 
 using Domain.Service.AdminLogin.Interface;
 using Domain.Service.JobseekerAuth.Interfaces;
+using Domain.Service.JobseekerAuth;
+using Domain.Service.JobSeekerProfiles.Interfaces;
+using Domain.Service.JobSeekerProfiles;
 
 
 
@@ -46,43 +49,19 @@ namespace HireMeNow_WebApi.Extensions
 
 
             services.AddScoped<IJobSeekerAuthService, JobSeekerAuthService>();
+            services.AddScoped<IJobSeekerAuthRepository, JobSeekerAuthRepository>();
             services.AddScoped<IAuthUserRepository, AuthUserRepository>();
            services.AddScoped<IEmailService, EmailService>();
+            services.AddScoped<IJobSeekerProfileServices, JobSeekerProfileService>();
+            services.AddScoped<IJobSeekerProfileRepository, JobSeekerProfileRepository>();
 
 
-            //services.AddScoped<ISignUpRequestRepository, SignUpRequestRepository>();
-            //services.AddScoped<ISignUpRequestService, SignUpRequestService>();
+
+
+
+           
+            services.AddScoped<IAuthUserService, AuthUserService>();
             
-
-            //services.AddScoped<IJobProviderService, JobProviderService>();
-            //services.AddScoped<IJobProviderRepository, JobProviderRepository>();
-
-			//services.AddScoped<IJobRepository, JobRepository>();
-			//services.AddScoped<IJobServices, JobServices>();
-			services.AddScoped<IAuthUserService, AuthUserService>();
-            //services.AddScoped<ICompanyRepository, Companyrepository>();
-            //services.AddScoped<ICompanyService,Companyservice>();
-			
-   //         services.AddScoped<IInterviewService,InterviewService>();   
-   //         services.AddScoped<IInterviewRepository,InterviewRepository>();
-
-   //         services.AddScoped<IJobSeekerProfileService, ProfileService>();
-          
-   //         services.AddScoped<IJobSeekerProfileRepository, ProfileRepository>();
-
-   //         services.AddScoped<ICompanyRepository, Companyrepository>();
-   //         services.AddScoped<ICompanyService,Companyservice>();   
-
-
-			//services.AddScoped<IJobRepository,JobRepository>();
-   //         services.AddScoped<IJobServices, JobServices>();
-
-   //         services.AddScoped<IJobProviderService, JobProviderService>();
-   //         services.AddScoped<IJobProviderRepository, JobProviderRepository>();
-            
-
-            //services.AddScoped<IChatRepository, ChatRepository>();
-            //services.AddScoped<IMessageGroupRepository, MessageGroupRepository>();
 
             return services;
         }

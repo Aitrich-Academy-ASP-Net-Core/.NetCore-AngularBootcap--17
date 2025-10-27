@@ -9,15 +9,15 @@ namespace Domain.Helpers
    
         public class MailSettings
         {
-            public string FromMail { get; set; }
-            public string DisplayName { get; set; }
-            public string Host { get; set; }
-            public int Port { get; set; }
-            public bool UseSSL { get; set; }
-            public bool DoAuthenticate { get; set; }
-            public string UserMail { get; set; }
-            public string Password { get; set; }
-        }
+        public string FromMail { get; set; }
+        public string DisplayName { get; set; }
+        public string Host { get; set; }
+        public int Port { get; set; }
+        public bool UseSSL { get; set; }
+        public bool DoAuthenticate { get; set; }
+        public string UserMail { get; set; }
+        public string Password { get; set; }
+    }
     
 
 }

@@ -5,6 +5,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\users\\laptop\\batch17aitrich\\.netcore\\webapi\\jwt\\activity\\jwt-login\\jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\jwt\\activity\\jwt-login\\jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\webapi\\jwt\\activity\\jwt-login\\jwt-login\\jwt-login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\jwt-login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +25,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAFMCAAAAAAAAAAAlwGUCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-21T17:27:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeToolTip": "JWT-Login\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:26:03.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+=======
           "SelectedChildIndex": 0,
           "Children": [
+            {
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWT-Login.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+              "RelativeDocumentMoniker": "JWT-Login\\JWT-Login.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+              "RelativeToolTip": "JWT-Login\\JWT-Login.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T01:15:12.428Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +84,11 @@
               "RelativeDocumentMoniker": "JWT-Login\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
               "RelativeToolTip": "JWT-Login\\Controllers\\UserController.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+=======
               "ViewState": "AgIAAEcAAAAAAAAAAAAgwDgAAAAqAAAAAAAAAA==",
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T09:23:22.609Z",
               "EditorCaption": ""

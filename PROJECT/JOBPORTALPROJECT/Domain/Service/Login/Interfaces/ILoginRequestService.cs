@@ -10,7 +10,7 @@ namespace Domain.Service.Login.Interfaces
     public interface ILoginRequestService
     {
 
-        JobSeekerLoginDto login(string email, string password);
-        Task<AdminLoginDto> Adminlogin(string email, string password);
+        Task<JobSeekerLoginDto?> JobSeekerLoginAsync(string email, string password);
+        Task<AdminLoginDto?> AdminLoginAsync(string email, string password);
     }
 }

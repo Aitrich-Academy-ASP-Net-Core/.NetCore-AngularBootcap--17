@@ -18,12 +18,19 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+=======
     <ProjectReference Include="..\ClassLibrary1\Domain.csproj" />
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
   </ItemGroup>
 	<ItemGroup>
 		<None Update="appsettings.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="API\JobController\RequestObject\" />
 	</ItemGroup>
 
 

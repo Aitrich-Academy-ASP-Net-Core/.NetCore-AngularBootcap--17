@@ -10,19 +10,23 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeAdminPortal
 build_property.RootNamespace = EmployeeAdminPortal
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal\
 =======
 build_property.ProjectDir = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal\
 >>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3
 =======
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
 build_property.ProjectDir = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal\
->>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal
@@ -30,8 +34,8 @@ build_property.MSBuildProjectDirectory = C:\Users\Laptop\Batch17Aitrich\.netCore
 build_property.MSBuildProjectDirectory = D:\Reeshma\.netCore Bootcamp\17. batch17\.NetCore-AngularBootcap--17\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal
 >>>>>>> 8c7f5e65e4159cf13375c1b68b04c240a8e427f3
 =======
+>>>>>>> 9d16dc9c4a9e0a4b6ce14731632c7ec97e778a26
 build_property.MSBuildProjectDirectory = C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI\Activity\EmployeeAdminPortal\EmployeeAdminPortal
->>>>>>> 20a19a07b13685849889556f40209ea2ab3e58b5
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 

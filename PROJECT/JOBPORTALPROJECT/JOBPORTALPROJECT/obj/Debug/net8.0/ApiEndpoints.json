@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetCategories",
+    "RelativePath": "api/admin/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
     "Method": "AddCategory",
     "RelativePath": "api/admin/category",
     "HttpMethod": "POST",
@@ -10,6 +20,22 @@
       {
         "Name": "request",
         "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.CategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveCategory",
+    "RelativePath": "api/admin/category/{categoryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],
@@ -27,6 +53,38 @@
   },
   {
     "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveCompany",
+    "RelativePath": "api/admin/company/{companyId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveCompanyUser",
+    "RelativePath": "api/admin/companyuser/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
     "Method": "GetCompanyUsers",
     "RelativePath": "api/admin/companyusers",
     "HttpMethod": "GET",
@@ -37,8 +95,18 @@
   },
   {
     "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
-    "Method": "DebugAdmin",
-    "RelativePath": "api/admin/debug-admin",
+    "Method": "DebugToken",
+    "RelativePath": "api/admin/debug-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetIndustries",
+    "RelativePath": "api/admin/industries",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -63,8 +131,54 @@
   },
   {
     "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveIndustry",
+    "RelativePath": "api/admin/industry/{industryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "industryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobCount",
+    "RelativePath": "api/admin/jobcount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobProviderCount",
+    "RelativePath": "api/admin/jobprovidercount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
     "Method": "GetAllJobs",
     "RelativePath": "api/admin/jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetJobSeekerCount",
+    "RelativePath": "api/admin/jobseekercount",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -99,6 +213,32 @@
   },
   {
     "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "RemoveLocation",
+    "RelativePath": "api/admin/location/{locationId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "GetLocations",
+    "RelativePath": "api/admin/locations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
     "Method": "Login",
     "RelativePath": "api/admin/login",
     "HttpMethod": "POST",
@@ -109,6 +249,22 @@
         "Name": "request",
         "Type": "HireMeNow_WebApi.API.Admin.RequestObjects.AdminLoginRequests",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireMeNow_WebApi.API.Admin.AdminController",
+    "Method": "SearchCompanies",
+    "RelativePath": "api/admin/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchTerm",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -164,14 +320,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "password",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "JOBPORTALPROJECT.API.JobSeeker.RequestObject.JobSeekerLoginRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -186,7 +337,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "Domain.Models.SignUpRequest",
+        "Type": "JOBPORTALPROJECT.API.JobSeeker.RequestObject.JobSeekerRegisterRequest",
         "IsRequired": true
       }
     ],
@@ -194,21 +345,84 @@
   },
   {
     "ContainingType": "JOBPORTALPROJECT.API.JobSeeker.JobSeekerAuthController",
-    "Method": "VerifyOtp",
-    "RelativePath": "api/jobseeker/auth/verify",
+    "Method": "SetPassword",
+    "RelativePath": "api/jobseeker/auth/set-password",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "email",
-        "Type": "System.String",
+        "Name": "request",
+        "Type": "JOBPORTALPROJECT.API.JobSeeker.RequestObject.SetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeeker.JobSeekerAuthController",
+    "Method": "VerifyEmail",
+    "RelativePath": "api/jobseeker/auth/verify-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
         "IsRequired": false
       },
       {
-        "Name": "otp",
+        "Name": "email",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeekerProfile.JobSeekerProfileController",
+    "Method": "AddProfile",
+    "RelativePath": "api/jobSeekerProfile/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JOBPORTALPROJECT.API.JobSeekerProfile.Request_Object.JobSeekerProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeekerProfile.JobSeekerProfileController",
+    "Method": "GetMyProfiles",
+    "RelativePath": "api/jobSeekerProfile/myProfiles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JOBPORTALPROJECT.API.JobSeekerProfile.JobSeekerProfileController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/jobSeekerProfile/update/{profileId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "JOBPORTALPROJECT.API.JobSeekerProfile.Request_Object.JobSeekerProfileRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

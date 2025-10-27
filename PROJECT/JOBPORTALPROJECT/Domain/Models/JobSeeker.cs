@@ -11,5 +11,8 @@ namespace Domain.Models
         public DateTime DateOfBirth { get; set; }
         public string PhoneNumber { get; set; }
         public ICollection<JobSeekerProfile> Profiles { get; set; }
+
+        public ICollection<Resume> Resumes { get; set; }
+
     }
 }

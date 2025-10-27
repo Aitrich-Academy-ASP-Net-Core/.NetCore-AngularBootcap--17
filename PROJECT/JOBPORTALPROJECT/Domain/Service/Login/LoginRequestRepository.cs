@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 using Domain.Models;
 using Domain.Service.Login.Interfaces;
 
+using Domain.Helpers;
+using Domain.Models;
+
+using System.Linq;
+
 namespace Domain.Service.Login
 {
     public class LoginRequestRepository : ILoginRequestRepository
@@ -16,18 +21,42 @@ namespace Domain.Service.Login
             _context = dbContext;
         }
 
+
         public AuthUser GetUserByEmail(string email)
         {
-            var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email);
-            return user;
+            return _context.AuthUsers.FirstOrDefault(u => u.Email == email);
         }
 
-
-        public AuthUser GetUserByEmailpassword(string email, string password)
+        // Validate login with email + password
+        public AuthUser GetUserByEmailPassword(string email, string password)
         {
-            var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email && e.Password == password);
+            var user = _context.AuthUsers.FirstOrDefault(u => u.Email == email);
+            if (user == null) return null;
+
+            // Verify hashed password
+            if (!PasswordHelper.VerifyPassword(password, user.PasswordHash))
+                return null;
+
             return user;
         }
+
+
+        //public AuthUser GetUserByEmail(string email)
+        //{
+        //    return _context.AuthUsers.FirstOrDefault(e => e.Email == email);
+        //}
+
+        //public AuthUser GetUserByEmailpassword(string email, string password)
+        //{
+        //    var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email);
+        //    if (user == null) return null;
+
+        //    // ✅ Compare hashed passwords properly
+        //    if (!PasswordHelper.VerifyPassword(password, user.PasswordHash))
+        //        return null;
+
+        //    return user;
+        //}
     }
 }
 
