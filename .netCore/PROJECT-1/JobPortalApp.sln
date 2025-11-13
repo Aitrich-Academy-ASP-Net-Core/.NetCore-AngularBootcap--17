@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobPortalApp", "JobPortalApp.csproj", "{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\API\Domain\Domain.csproj", "{B7EE78E4-D96D-49D0-A08C-8858DE5C2507}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain1", "..\Domain1\Domain1.csproj", "{77B4CECC-B890-491C-AFC1-1884B3BE48DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7EE78E4-D96D-49D0-A08C-8858DE5C2507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7EE78E4-D96D-49D0-A08C-8858DE5C2507}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7EE78E4-D96D-49D0-A08C-8858DE5C2507}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7EE78E4-D96D-49D0-A08C-8858DE5C2507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B4CECC-B890-491C-AFC1-1884B3BE48DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B4CECC-B890-491C-AFC1-1884B3BE48DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B4CECC-B890-491C-AFC1-1884B3BE48DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B4CECC-B890-491C-AFC1-1884B3BE48DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

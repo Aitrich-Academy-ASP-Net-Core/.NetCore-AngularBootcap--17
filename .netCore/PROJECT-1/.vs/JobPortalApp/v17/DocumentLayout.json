@@ -3,31 +3,155 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\admin\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\jobseeker\\jobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\api\\jobseekerr\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:api\\jobseekerr\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\admin\\interfaces\\iadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\login\\loginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobseekerr\\jobseekerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobseekerr\\jobseekerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobportalapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobportalapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\job\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\user\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobportalapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobportalapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\dbhiremenowwebapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobportalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobportalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\models\\dbhiremenowwebapicontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\domain1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\admin\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\login\\interfaces\\iloginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\login\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028035222_jobportals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20251028035222_jobportals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028033243_newjobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20251028033243_newjobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobseekerr\\workexperiecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobseekerr\\workexperiecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobseekerr\\qualificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobseekerr\\qualificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\helpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Desktop\\Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\api\\admin\\requestobjects\\skillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,22 +182,6 @@
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:api\\jobseekerr\\requestobjects\\applyjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobportalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobportalapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\job\\savedjobobjects\\savejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:job\\savedjobobjects\\savejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,20 +198,8 @@
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:api\\jobseekerr\\requestobjects\\qualificationsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobseekerr\\qualificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobseekerr\\qualificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\api\\jobseekerr\\requestobjects\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:api\\jobseekerr\\requestobjects\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\jobseekerr\\workexperiecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:jobseekerr\\workexperiecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164733_initt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -269,16 +365,25 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\migrations\\20251028063600_newclm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\migrations\\20251028050800_merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\migrations\\20251028035433_newapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 43,
           "Children": [
             {
               "$type": "Bookmark",
@@ -286,512 +391,248 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobSeekerController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\JobSeekerController.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\JobSeekerController.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\JobSeekerController.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\JobSeekerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\AdminServices.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Admin\\AdminServices.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\AdminServices.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Admin\\AdminServices.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:18:04.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T07:35:29.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SignUpRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Admin\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\AdminRepository.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Admin\\AdminRepository.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAkwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T19:59:58.431Z"
+              "WhenOpened": "2025-10-27T10:56:56.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SignUpRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Authuser\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Authuser\\AuthUserRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T20:41:14.926Z"
+              "WhenOpened": "2025-10-27T15:49:06.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\AdminController.cs",
               "RelativeDocumentMoniker": "API\\Admin\\AdminController.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\AdminController.cs",
               "RelativeToolTip": "API\\Admin\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAQwJEBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:12:12.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T16:12:12.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PasswordHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T20:39:21.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LoginRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwB8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:14:50.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AuthUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T19:39:22.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ProfileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:55:48.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwKYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:56:13.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JobSeekerProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\JobSeekerProfileController.cs",
-              "RelativeDocumentMoniker": "JobSeekerr\\JobSeekerProfileController.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\JobSeekerProfileController.cs",
-              "RelativeToolTip": "JobSeekerr\\JobSeekerProfileController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwC4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:51:45.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IJobSeekerProfileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwBcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:54:05.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "Extensions\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "Extensions\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T17:25:23.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\ApplicationServiceExtension.cs",
-              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\ApplicationServiceExtension.cs",
-              "RelativeToolTip": "Extensions\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswFkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T05:25:18.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T05:21:29.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ILoginRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "JobSeekerService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\JobSeeker\\JobSeekerService.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\JobSeeker\\JobSeekerService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\JobSeeker\\JobSeekerService.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\JobSeeker\\JobSeekerService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:22:34.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SkillRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\SkillRequest.cs",
-              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\SkillRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\SkillRequest.cs",
-              "RelativeToolTip": "API\\Admin\\RequestObjects\\SkillRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:13:23.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LocationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\LocationRequest.cs",
-              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\LocationRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\LocationRequest.cs",
-              "RelativeToolTip": "API\\Admin\\RequestObjects\\LocationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:13:15.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IndustryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
-              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
-              "RelativeToolTip": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:13:07.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
-              "RelativeToolTip": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:12:56.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminLoginRequests.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
-              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
-              "RelativeToolTip": "API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:12:42.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "JobSeekerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:43:03.941Z"
+              "WhenOpened": "2025-10-30T17:09:01.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "JobseekerProfileRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T06:16:11.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplyJobRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:44:26.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-05T05:19:29.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "JobSeekerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:08:15.992Z"
+              "DocumentIndex": 13,
+              "Title": "JobPortalApp.http",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.http",
+              "RelativeDocumentMoniker": "JobPortalApp.http",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.http",
+              "RelativeToolTip": "JobPortalApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-30T17:26:14.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
+              "Title": "LoginRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\LoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Login\\LoginRequestService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\LoginRequestService.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Login\\LoginRequestService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:25:42.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobSeekerLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:21:52.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Job\\JobServices.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Job\\JobServices.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Job\\JobServices.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Job\\JobServices.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:08:05.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JobController.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\JobController.cs",
               "RelativeDocumentMoniker": "Job\\JobController.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\JobController.cs",
               "RelativeToolTip": "Job\\JobController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAqwM8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:18:49.683Z"
+              "WhenOpened": "2025-10-15T18:18:49.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "JobPortalApp.csproj",
+              "DocumentIndex": 15,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:23:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobPortalApp",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.csproj",
               "RelativeDocumentMoniker": "JobPortalApp.csproj",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.csproj",
               "RelativeToolTip": "JobPortalApp.csproj",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-04T18:41:27.247Z"
+              "WhenOpened": "2025-10-30T15:19:06.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T17:16:10.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "JobSeeker.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAwAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "JobSeekerProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\JobSeekerProfileController.cs",
+              "RelativeDocumentMoniker": "JobSeekerr\\JobSeekerProfileController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\JobSeekerProfileController.cs",
+              "RelativeToolTip": "JobSeekerr\\JobSeekerProfileController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T04:49:32.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Interview.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:42:31.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "JobSeekerService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:08:30.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "JobServices.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAIwGwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:21:30.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "JobRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:28:35.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IJobServices.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwBwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T17:54:06.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IJobRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA7wCAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T05:55:34.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:42:41.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "JobPost.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:39:41.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "SavedJobsDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T18:57:14.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "CompanyUser.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:41:49.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "20251017132553_addingtable.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:25:53.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "20251017131131_addingtables.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:11:31.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "JobProviderCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA+wBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:34:35.944Z"
+              "WhenOpened": "2025-10-11T04:51:45.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\User\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\User\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\User\\Interface\\IUserService.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\User\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:19:07.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\User\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\User\\UserServices.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\User\\UserServices.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\User\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:19:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "..\\Domain1\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:17:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbHireMeNowWebApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\DbHireMeNowWebApiContext.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\DbHireMeNowWebApiContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\DbHireMeNowWebApiContext.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\DbHireMeNowWebApiContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:30:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CompanyUser.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\CompanyUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\CompanyUser.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\CompanyUser.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\CompanyUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:19:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
@@ -803,187 +644,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "JobSeekerProfileSkill.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:06:57.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T19:20:12.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SaveJobRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SaveJobRequest.cs",
-              "RelativeDocumentMoniker": "Job\\SavedJobObjects\\SaveJobRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SaveJobRequest.cs",
-              "RelativeToolTip": "Job\\SavedJobObjects\\SaveJobRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:18:20.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "DbHireMeNowWebApiContext.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:34:38.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SavedJobObjects.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SavedJobObjects.cs",
-              "RelativeDocumentMoniker": "Job\\SavedJobObjects\\SavedJobObjects.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SavedJobObjects.cs",
-              "RelativeToolTip": "Job\\SavedJobObjects\\SavedJobObjects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:18:02.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IJobSeekerService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T17:14:47.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "resumeDto.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:02:38.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "IJobSeekerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:05:34.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "IJobSeekerProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wBsAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:54:40.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:07:38.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "JobSeekerLoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:24:57.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "QualificationsRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T21:13:53.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "QualificationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\QualificationRequest.cs",
-              "RelativeDocumentMoniker": "JobSeekerr\\QualificationRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\QualificationRequest.cs",
-              "RelativeToolTip": "JobSeekerr\\QualificationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T06:12:43.524Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "JobSeekerSignupRequest.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
-              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
-              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T17:41:15.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "AuthUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T06:23:13.412Z"
+              "Title": "JobPortalApp.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.csproj",
+              "RelativeDocumentMoniker": "JobPortalApp.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobPortalApp.csproj",
+              "RelativeToolTip": "JobPortalApp.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T18:41:27.247Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\Interview.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\Interview.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:52:37.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\SystemUser.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\SystemUser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:06:42.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbHireMeNowWebApiContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\DbHireMeNowWebApiContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Models\\DbHireMeNowWebApiContextFactory.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Models\\DbHireMeNowWebApiContextFactory.cs",
+              "RelativeToolTip": "..\\Domain1\\Models\\DbHireMeNowWebApiContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:30:06.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Domain1.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Domain1.csproj",
+              "RelativeDocumentMoniker": "..\\Domain1\\Domain1.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Domain1.csproj",
+              "RelativeToolTip": "..\\Domain1\\Domain1.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T10:09:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Admin\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Admin\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:39:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\Interfaces\\IAdminServices.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Admin\\Interfaces\\IAdminServices.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Admin\\Interfaces\\IAdminServices.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Admin\\Interfaces\\IAdminServices.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:35:03.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T05:25:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20251028063600_newclm.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028063600_newclm.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Migrations\\20251028063600_newclm.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028063600_newclm.cs",
+              "RelativeToolTip": "..\\Domain1\\Migrations\\20251028063600_newclm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:36:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:19:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoginRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:14:04.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\DTOs\\AdminLoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\Login\\DTOs\\AdminLoginDTO.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\Login\\DTOs\\AdminLoginDTO.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\Login\\DTOs\\AdminLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:13:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20251028050800_merge.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028050800_merge.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Migrations\\20251028050800_merge.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028050800_merge.cs",
+              "RelativeToolTip": "..\\Domain1\\Migrations\\20251028050800_merge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:08:00.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Enum\\Role.cs",
+              "RelativeToolTip": "..\\Domain1\\Enum\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:04:11.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20251028035433_newapi.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028035433_newapi.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Migrations\\20251028035433_newapi.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Migrations\\20251028035433_newapi.cs",
+              "RelativeToolTip": "..\\Domain1\\Migrations\\20251028035433_newapi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T03:54:33.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251028035222_jobportals.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028035222_jobportals.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20251028035222_jobportals.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028035222_jobportals.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20251028035222_jobportals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T03:52:22.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251028033243_newjobportal.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028033243_newjobportal.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20251028033243_newjobportal.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Domain\\Migrations\\20251028033243_newjobportal.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20251028033243_newjobportal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T03:32:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "WorkExperieceRequest.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\WorkExperieceRequest.cs",
               "RelativeDocumentMoniker": "JobSeekerr\\WorkExperieceRequest.cs",
@@ -995,103 +860,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "20251011051409_addqualification.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "QualificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\QualificationRequest.cs",
+              "RelativeDocumentMoniker": "JobSeekerr\\QualificationRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\JobSeekerr\\QualificationRequest.cs",
+              "RelativeToolTip": "JobSeekerr\\QualificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T05:14:09.501Z"
+              "WhenOpened": "2025-10-12T06:12:43.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "ISignUpRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Class1.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Class1.cs",
+              "RelativeToolTip": "..\\Domain1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T20:40:47.327Z"
+              "WhenOpened": "2025-10-27T09:55:14.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ISignUpRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Helpers\\PagedList.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Helpers\\PagedList.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Helpers\\PagedList.cs",
+              "RelativeToolTip": "..\\Domain1\\Helpers\\PagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:55:17.283Z"
+              "WhenOpened": "2025-10-27T15:49:49.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "20251011041101_addresume.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\EmailService.cs",
+              "RelativeToolTip": "..\\Domain1\\Service\\EmailService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:11:01.473Z"
+              "WhenOpened": "2025-10-27T10:25:17.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "20251010162125_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:21:25.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "SystemUser.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwBgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:17:01.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:14:27.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T05:24:11.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "HttpExtensions.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\HttpExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\HttpExtensions.cs",
@@ -1103,79 +921,726 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Extensions\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Extensions\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:25:23.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "..\\Domain1\\Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Enum\\Status.cs",
+              "RelativeToolTip": "..\\Domain1\\Enum\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:04:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:56:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:59:58.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SignUpRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:41:14.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Helpers\\PasswordHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:39:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:14:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\AuthUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:39:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:55:48.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\ProfileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:56:13.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IJobSeekerProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:54:05.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ILoginRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Login\\Interfaces\\ILoginRequestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:22:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SkillRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:13:23.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:13:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IndustryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:13:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:12:56.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminLoginRequests.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\AdminLoginRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:12:42.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:43:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "JobseekerProfileRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
+              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
+              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobseekerProfileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:16:11.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApplyJobRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
+              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
+              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\ApplyJobRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:44:26.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "JobSeekerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:08:15.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T17:16:10.411Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 73,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeeker.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:49:32.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Interview.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:42:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "JobSeekerService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\JobSeekerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:08:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:21:30.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\JobRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:28:35.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IJobServices.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T17:54:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\Interfaces\\IJobRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T05:55:34.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobApplication.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:42:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobPost.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:39:41.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SavedJobsDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Job\\DTOs\\SavedJobsDtos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:57:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CompanyUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\CompanyUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:41:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20251017132553_addingtable.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017132553_addingtable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:25:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20251017131131_addingtables.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251017131131_addingtables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:11:31.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "JobProviderCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobProviderCompany.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:34:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "JobSeekerProfileSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:06:57.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Enum\\Status.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:20:12.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SaveJobRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SaveJobRequest.cs",
+              "RelativeDocumentMoniker": "Job\\SavedJobObjects\\SaveJobRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SaveJobRequest.cs",
+              "RelativeToolTip": "Job\\SavedJobObjects\\SaveJobRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:18:20.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DbHireMeNowWebApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:34:38.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SavedJobObjects.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SavedJobObjects.cs",
+              "RelativeDocumentMoniker": "Job\\SavedJobObjects\\SavedJobObjects.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\SavedJobObjects\\SavedJobObjects.cs",
+              "RelativeToolTip": "Job\\SavedJobObjects\\SavedJobObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:18:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IJobSeekerService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:14:47.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "resumeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\DTOs\\resumeDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:02:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IJobSeekerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:05:34.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IJobSeekerProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Profile\\Interface\\IJobSeekerProfileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:54:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Skill.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:07:38.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JobSeekerLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
+              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
+              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobSeekerLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:24:57.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "QualificationsRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
+              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
+              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\QualificationsRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:13:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JobSeekerSignupRequest.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
+              "RelativeDocumentMoniker": "API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
+              "RelativeToolTip": "API\\JobSeekerr\\RequestObjects\\JobSeekerSignupRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:41:15.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "AuthUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\Authuser\\Dto\\AuthUserDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:23:13.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20251011051409_addqualification.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011051409_addqualification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T05:14:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ISignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:40:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ISignUpRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T00:55:17.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20251011041101_addresume.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251011041101_addresume.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:11:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20251010162125_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251010162125_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:21:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SystemUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:17:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Role.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:14:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Extensions\\ApplicationServiceExtension.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T05:24:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
               "Title": "20251009005854_initially.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251009005854_initially.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251009005854_initially.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251009005854_initially.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251009005854_initially.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T00:58:54.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 105,
               "Title": "SignUpRequest.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SignUpRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SignUpRequest.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SignUpRequest.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\SignUpRequest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAEBdwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:45:00.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 106,
               "Title": "20251008045202_initia.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251008045202_initia.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251008045202_initia.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251008045202_initia.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251008045202_initia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T04:52:02.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 107,
               "Title": "20251007183151_inittia.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007183151_inittia.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007183151_inittia.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007183151_inittia.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007183151_inittia.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T18:31:51.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 108,
               "Title": "20251007170020_initti.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007170020_initti.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007170020_initti.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007170020_initti.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007170020_initti.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T17:00:20.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 109,
               "Title": "DbHireMeNowWebApiContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContextFactory.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContextFactory.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContextFactory.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\DbHireMeNowWebApiContextFactory.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T16:02:00.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 57,
               "Title": "20251007164733_initt.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164733_initt.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164733_initt.cs",
@@ -1186,7 +1651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 58,
               "Title": "20251007164244_initiall.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164244_initiall.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164244_initiall.cs",
@@ -1197,7 +1662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 59,
               "Title": "20251007164005_initial.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164005_initial.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007164005_initial.cs",
@@ -1208,7 +1673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 60,
               "Title": "20251007163542_initia.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007163542_initia.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007163542_initia.cs",
@@ -1219,7 +1684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 61,
               "Title": "20251007163102_initi.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007163102_initi.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Migrations\\20251007163102_initi.cs",
@@ -1230,25 +1695,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 110,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Message.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Message.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Message.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Models\\Message.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:44:42.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 111,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Class1.cs",
               "ToolTip": "C:\\Users\\Laptop\\Desktop\\HTML\\API\\Domain\\Class1.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Laptop\\Desktop\\HTML\\API\\Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T18:41:20.277Z"
             }
