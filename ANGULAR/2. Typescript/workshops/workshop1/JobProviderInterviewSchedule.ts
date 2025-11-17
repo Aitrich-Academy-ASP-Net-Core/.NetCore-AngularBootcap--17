@@ -46,6 +46,7 @@ class JobProvider {
                 break;
             case '2':
                 this.scheduleInterview();
+
                 break;
                 case '3':
                    ScheduledInterviewList();
