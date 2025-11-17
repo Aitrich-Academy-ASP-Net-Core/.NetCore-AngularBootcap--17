@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library managementneha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0328d7e9ef39c92be18571e1f2cd5bec128793eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library managementneha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library managementneha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

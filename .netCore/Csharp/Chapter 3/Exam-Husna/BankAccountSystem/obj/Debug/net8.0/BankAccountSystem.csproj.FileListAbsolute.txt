@@ -27,3 +27,18 @@ C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapt
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.pdb
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.genruntimeconfig.cache
 C:\Users\Laptop\Batch17Aitrich\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\ref\BankAccountSystem.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.exe
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.deps.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.runtimeconfig.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfoInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfo.cs
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.sourcelink.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\refint\BankAccountSystem.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.genruntimeconfig.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Exam-Husna\BankAccountSystem\obj\Debug\net8.0\ref\BankAccountSystem.dll

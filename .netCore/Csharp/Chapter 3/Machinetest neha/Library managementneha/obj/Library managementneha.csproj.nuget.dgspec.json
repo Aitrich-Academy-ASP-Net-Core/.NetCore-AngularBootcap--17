@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\activity 2\\Library management\\Library managementneha.csproj": {}
+    "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Machinetest neha\\Library managementneha\\Library managementneha.csproj": {}
   },
   "projects": {
-    "C:\\activity 2\\Library management\\Library managementneha.csproj": {
+    "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Machinetest neha\\Library managementneha\\Library managementneha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\activity 2\\Library management\\Library managementneha.csproj",
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Machinetest neha\\Library managementneha\\Library managementneha.csproj",
         "projectName": "Library managementneha",
-        "projectPath": "C:\\activity 2\\Library management\\Library managementneha.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\activity 2\\Library management\\obj\\",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Machinetest neha\\Library managementneha\\Library managementneha.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Machinetest neha\\Library managementneha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

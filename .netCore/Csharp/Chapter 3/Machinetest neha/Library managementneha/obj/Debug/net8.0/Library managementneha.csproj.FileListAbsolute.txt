@@ -1,0 +1,15 @@
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\bin\Debug\net8.0\Library managementneha.exe
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\bin\Debug\net8.0\Library managementneha.deps.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\bin\Debug\net8.0\Library managementneha.runtimeconfig.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\bin\Debug\net8.0\Library managementneha.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\bin\Debug\net8.0\Library managementneha.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.AssemblyInfoInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.AssemblyInfo.cs
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.sourcelink.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\refint\Library managementneha.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\Library managementneha.genruntimeconfig.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-AngularBootcap--17\.netCore\Csharp\Chapter 3\Machinetest neha\Library managementneha\obj\Debug\net8.0\ref\Library managementneha.dll

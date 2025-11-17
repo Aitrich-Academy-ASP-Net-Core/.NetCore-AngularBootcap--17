@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\Exam-3\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\modal\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\modal\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Modal\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Interface\\IBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Interface\\IBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\main\\bankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\main\\bankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Main\\BankManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Main\\BankManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\modal\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\modal\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Modal\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|d:\\c#\\exam-3\\exam-3\\interface\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0FCF81-684F-4002-BC6E-8A4C197C52F5}|Exam-3\\Exam-3.csproj|solutionrelative:exam-3\\interface\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Enum\\AccountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam-3\\Enum\\AccountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,81 +38,76 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Bank.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Modal\\Bank.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\Bank.cs",
               "RelativeDocumentMoniker": "Exam-3\\Modal\\Bank.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Modal\\Bank.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\Bank.cs",
               "RelativeToolTip": "Exam-3\\Modal\\Bank.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:12:13.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:12:13.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IBank.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Interface\\IBank.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Interface\\IBank.cs",
               "RelativeDocumentMoniker": "Exam-3\\Interface\\IBank.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Interface\\IBank.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Interface\\IBank.cs",
               "RelativeToolTip": "Exam-3\\Interface\\IBank.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:52:55.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T06:52:55.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BankManager.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Main\\BankManager.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Main\\BankManager.cs",
               "RelativeDocumentMoniker": "Exam-3\\Main\\BankManager.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Main\\BankManager.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Main\\BankManager.cs",
               "RelativeToolTip": "Exam-3\\Main\\BankManager.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T05:30:22.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T05:30:22.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BankAccount.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Modal\\BankAccount.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\BankAccount.cs",
               "RelativeDocumentMoniker": "Exam-3\\Modal\\BankAccount.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Modal\\BankAccount.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Modal\\BankAccount.cs",
               "RelativeToolTip": "Exam-3\\Modal\\BankAccount.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T04:44:21.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T04:44:21.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Program.cs",
               "RelativeDocumentMoniker": "Exam-3\\Program.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Program.cs",
               "RelativeToolTip": "Exam-3\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwDcAAAA7AAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T04:24:59.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AccountType.cs",
-              "DocumentMoniker": "D:\\c#\\Exam-3\\Exam-3\\Enum\\AccountType.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Enum\\AccountType.cs",
               "RelativeDocumentMoniker": "Exam-3\\Enum\\AccountType.cs",
-              "ToolTip": "D:\\c#\\Exam-3\\Exam-3\\Enum\\AccountType.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Csharp\\Chapter 3\\Students\\Shemeera\\Exam-3\\Exam-3\\Enum\\AccountType.cs",
               "RelativeToolTip": "Exam-3\\Enum\\AccountType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T04:49:19.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T04:49:19.081Z"
             }
           ]
         }

@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Project Activity\\Employe_Activity\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\pages\\empdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\pages\\empdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:pages\\empdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\models\\employedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\models\\employedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:models\\employedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\migrations\\20250630154336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\migrations\\20250630154336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:migrations\\20250630154336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|c:\\project activity\\employe_activity\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|d:\\reeshma\\.netcore bootcamp\\.netcore-angularbootcap--17\\.netcore\\razor\\neha\\project activity\\employe_activity\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705C94ED-A328-4FB4-96C8-8F4EBFD6599F}|Employe_Activity.csproj|solutionrelative:models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\Pages\\Empdetails\\Index.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Pages\\Empdetails\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Empdetails\\Index.cshtml",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\Pages\\Empdetails\\Index.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Pages\\Empdetails\\Index.cshtml",
               "RelativeToolTip": "Pages\\Empdetails\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-01T05:22:51.306Z",
               "EditorCaption": ""
@@ -53,61 +53,57 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "20250630154336_Initial.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\Migrations\\20250630154336_Initial.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Migrations\\20250630154336_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250630154336_Initial.cs",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\Migrations\\20250630154336_Initial.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Migrations\\20250630154336_Initial.cs",
               "RelativeToolTip": "Migrations\\20250630154336_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T15:43:37.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T15:43:37.028Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T15:38:17.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T15:38:17.933Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\appsettings.json",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\appsettings.json",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-30T15:27:33.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T15:27:33.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmployeDbContext.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\Models\\EmployeDbContext.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Models\\EmployeDbContext.cs",
               "RelativeDocumentMoniker": "Models\\EmployeDbContext.cs",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\Models\\EmployeDbContext.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Models\\EmployeDbContext.cs",
               "RelativeToolTip": "Models\\EmployeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T15:26:57.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T15:26:57.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Employe.cs",
-              "DocumentMoniker": "C:\\Project Activity\\Employe_Activity\\Models\\Employe.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Models\\Employe.cs",
               "RelativeDocumentMoniker": "Models\\Employe.cs",
-              "ToolTip": "C:\\Project Activity\\Employe_Activity\\Models\\Employe.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\.NetCore-AngularBootcap--17\\.netCore\\Razor\\Neha\\Project Activity\\Employe_Activity\\Models\\Employe.cs",
               "RelativeToolTip": "Models\\Employe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
