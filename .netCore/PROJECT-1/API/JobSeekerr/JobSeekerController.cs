@@ -9,11 +9,12 @@ using Domain.Models;
 using Domain.Service.Profile.DTOs;
 using Domain.Service.Profile.Interface;
 using Domain.Service.Profile;
+using Microsoft.AspNetCore.Authorization;
 namespace JobPortalApp.API.JobSeekerr
 {
     [ApiController]
     [Route("api/job-seekerr")] // base route
-    
+    [Authorize(Roles = "JOB_SEEKER")]
     public class JobSeekerController : BaseApiController<JobSeekerController>
     {
         public ISignUpRequestService jobSeekerService { get; set; }
@@ -35,6 +36,7 @@ namespace JobPortalApp.API.JobSeekerr
 
         }
         // POST: api/job-seeker/signup
+        [AllowAnonymous]
         [HttpPost("signup")]
         public async Task<ActionResult> createJobSeekerSignupRequest(JobSeekerSignupRequest data)
         {
@@ -42,6 +44,8 @@ namespace JobPortalApp.API.JobSeekerr
             jobSeekerService.CreateSignupRequest(jobSeekerSignupRequestDto);
             return Ok(data);
         }
+
+
         [HttpGet]
         [Route("job-seeker/signup/{jobSeekerSignupRequestId}/verify-email")]
         public async Task<ActionResult> VerifyJobSeekerEmail(Guid jobSeekerSignupRequestId)
@@ -53,6 +57,8 @@ namespace JobPortalApp.API.JobSeekerr
             }
             return BadRequest();
         }
+
+        [AllowAnonymous]
         [HttpPost]
         [Route("job-seeker/signup/{jobSeekerSignupRequestId}/set-password")]
         public async Task<ActionResult> createJobSeekerSignupRequest(Guid jobSeekerSignupRequestId, [FromBody] string password)
@@ -61,6 +67,9 @@ namespace JobPortalApp.API.JobSeekerr
             await jobSeekerService.CreateJobseeker(jobSeekerSignupRequestId, password);
             return Ok("Password Set Successfully");
         }
+
+
+
         [HttpPost]
         [Route("job-seeker/login")]
         public async Task<ActionResult> Login(JobSeekerLoginRequest logdata)
