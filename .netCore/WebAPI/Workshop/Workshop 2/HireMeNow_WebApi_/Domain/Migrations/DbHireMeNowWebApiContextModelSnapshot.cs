@@ -28,6 +28,9 @@ namespace Domain.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<string>("ConnectionId")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -38,6 +41,9 @@ namespace Domain.Migrations
 
                     b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool?>("OnlineStatus")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Password")
                         .HasColumnType("nvarchar(max)");
@@ -63,7 +69,6 @@ namespace Domain.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<Guid?>("Company")
-                        .IsRequired()
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Email")
@@ -92,6 +97,33 @@ namespace Domain.Migrations
                     b.HasIndex("Company");
 
                     b.ToTable("CompanyUser", (string)null);
+                });
+
+            modelBuilder.Entity("Domain.Models.GroupMember", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("MessageGroupId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("ToUserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MessageGroupId");
+
+                    b.ToTable("GroupMember");
                 });
 
             modelBuilder.Entity("Domain.Models.Industry", b =>
@@ -356,6 +388,9 @@ namespace Domain.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<byte[]>("Image")
+                        .HasColumnType("varbinary(max)");
+
                     b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
@@ -435,6 +470,71 @@ namespace Domain.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Location", (string)null);
+                });
+
+            modelBuilder.Entity("Domain.Models.Message", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("From")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("FromUserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("MessageGroupId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("SentDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<string>("To")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ToGroup")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("ToUserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MessageGroupId");
+
+                    b.ToTable("Messages");
+                });
+
+            modelBuilder.Entity("Domain.Models.MessageGroup", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("IsNewMessages")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Members")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("newCount")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("MessageGroups");
                 });
 
             modelBuilder.Entity("Domain.Models.Qualification", b =>
@@ -622,11 +722,18 @@ namespace Domain.Migrations
                     b.HasOne("Domain.Models.JobProviderCompany", "CompanyNavigation")
                         .WithMany("CompanyUsers")
                         .HasForeignKey("Company")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired()
                         .HasConstraintName("FK_CompanyUser_JobProviderCompany");
 
                     b.Navigation("CompanyNavigation");
+                });
+
+            modelBuilder.Entity("Domain.Models.GroupMember", b =>
+                {
+                    b.HasOne("Domain.Models.MessageGroup", "MessageGroup")
+                        .WithMany("GroupMembers")
+                        .HasForeignKey("MessageGroupId");
+
+                    b.Navigation("MessageGroup");
                 });
 
             modelBuilder.Entity("Domain.Models.Interview", b =>
@@ -800,6 +907,15 @@ namespace Domain.Migrations
                     b.Navigation("Skill");
                 });
 
+            modelBuilder.Entity("Domain.Models.Message", b =>
+                {
+                    b.HasOne("Domain.Models.MessageGroup", "MessageGroup")
+                        .WithMany("Messages")
+                        .HasForeignKey("MessageGroupId");
+
+                    b.Navigation("MessageGroup");
+                });
+
             modelBuilder.Entity("Domain.Models.Qualification", b =>
                 {
                     b.HasOne("Domain.Models.JobPost", "JobPost")
@@ -880,6 +996,13 @@ namespace Domain.Migrations
                     b.Navigation("JobPosts");
 
                     b.Navigation("JobProviderCompanies");
+                });
+
+            modelBuilder.Entity("Domain.Models.MessageGroup", b =>
+                {
+                    b.Navigation("GroupMembers");
+
+                    b.Navigation("Messages");
                 });
 
             modelBuilder.Entity("Domain.Models.Resume", b =>

@@ -1,10 +1,13 @@
+﻿using Domain.Enum;
 using Domain.Helpers;
+using Domain.Models;
 using JobPortalApp.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
+using System;
 using System.Text;
 
 namespace JobPortalApp
@@ -94,10 +97,52 @@ namespace JobPortalApp
                 logging.ResponseBodyLogLimit = 4096;
             });
 
-            // -------------------------------
-            // Build App
-            // -------------------------------
+
+
+
+
+           
             var app = builder.Build();
+
+
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var context = scope.ServiceProvider.GetRequiredService<DbHireMeNowWebApiContext>();
+
+                var admin = context.AuthUsers.FirstOrDefault(u => u.Email == "admin@hiremenow.com");
+
+                if (admin == null)
+                {
+                    var newAdmin = new AuthUser
+                    {
+                        Id = Guid.NewGuid(),
+                        FirstName = "Admin",
+                        LastName = "User",
+                        Email = "admin@hiremenow.com",
+                        Phone = "98770000088", 
+                        Role = Role.ADMIN,
+                        ConnectionId = "14",
+                        OnlineStatus = false,
+                        CreatedAt = DateTime.UtcNow,
+                        IsEmailVerified = true
+                    };
+
+                    // ✅ Hash password safely
+                    newAdmin.Password = PasswordHelper.HashPassword(newAdmin, "Admin@123");
+
+                    context.AuthUsers.Add(newAdmin);
+                    context.SaveChanges();
+
+                    Console.WriteLine(" Admin user created with hashed password!");
+                }
+                else
+                {
+                    Console.WriteLine(" Admin already exists in DB.");
+                }
+            }
+
+
 
             // Configure the HTTP request pipeline.
             //if (app.Environment.IsDevelopment())
@@ -119,7 +164,13 @@ namespace JobPortalApp
 
             app.MapControllers();
 
-            app.Run();
+
+
+
+            
+
+            app.Run();  // <-- this must remain LAST
+
         }
     }
 }
