@@ -13,8 +13,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace JobPortalApp.Job
 {
+
     [ApiController]
-    public class JobController : BaseApiController<JobController>
+    [Route("api/job-seekerr")] // base route
+    [Authorize(Roles = "JOB_SEEKER")]
+    public class JobController : BaseApiController<JobController>   
     {
         private readonly IJobServices _jobService;
         private readonly IMapper _mapper;

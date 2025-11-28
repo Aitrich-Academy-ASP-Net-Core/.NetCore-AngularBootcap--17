@@ -10,7 +10,9 @@ using JobPortalApp.API.JobSeekerr.RequestObjects;
 namespace JobPortalApp.JobSeekerr
 {
     [ApiController]
- 
+    [Route("api/job-seekerr")] // base route
+    [Authorize(Roles = "JOB_SEEKER")]
+
     public class JobSeekerProfileController : BaseApiController<JobSeekerProfileController>
 
     {

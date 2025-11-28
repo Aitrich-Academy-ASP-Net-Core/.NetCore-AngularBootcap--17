@@ -9,10 +9,14 @@ using Domain.Service.Admin.DTOs;
 using Domain.Service.Profile.DTOs;
 using Domain.Models;
 using JobPortalApp.API.Admin.RequestObjects;
+using Microsoft.AspNetCore.Authorization;
+using Domain.Service.Authuser.Dto;
 
 namespace JobPortalApp.API.Admin
 {
     [ApiController]
+    [Route("api/admin")]
+    [Authorize(Roles = "ADMIN")]
     public class AdminController : BaseApiController<AdminController>
     {
         private readonly IAdminServices _adminService;
@@ -30,20 +34,19 @@ namespace JobPortalApp.API.Admin
             _loginRequestService = loginRequestService;
             _jobService = jobServices;
         }
-
-        [HttpPost]
-        [Route("Admin/login")]
-        public async Task<ActionResult> Login(AdminLoginRequests logdata)
+        [AllowAnonymous]
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginRequestDTO login)
         {
-            //var user = _mapper.Map<User>(userDto);
-            var user = _loginRequestService.Adminlogin(logdata.Email, logdata.Password);
+            var result = await _loginRequestService.Adminlogin(login.Email, login.Password);
 
-            if (user == null)
-            {
+            if (result == null)
                 return BadRequest("Login Failed");
-            }
-            return Ok(user);
+
+            return Ok(result);
         }
+
+
 
 
         [HttpGet]
@@ -63,6 +66,61 @@ namespace JobPortalApp.API.Admin
 
 
         }
+  
+
+       
+
+
+        [HttpPost("AddLocation")]
+        public async Task<IActionResult> AddLocation(LocationRequest location)
+        {
+            var Location = _mapper.Map<Location>(location);
+            var result = await _adminService.AddLocation(Location);
+
+            return Ok(result);
+        }
+
+        [HttpGet("GetLocations")]
+        public async Task<IActionResult> GetLocations()
+        {
+
+            try
+            {
+                var locations = await _adminService.GetLocations();
+                return Ok(_mapper.Map<List<LocationDto>>(locations));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest();
+            }
+
+        }
+
+        [HttpDelete("RemoveLocations/{id}")]
+        public async Task<IActionResult> RemoveLocation(Guid id)
+        {
+            try
+            {
+                bool isDeleted = await _adminService.DeleteByLocationIdAsync(id);
+
+                if (isDeleted)
+                    return Ok(" Location deleted successfully");
+                else
+                    return NotFound(" Location not found");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Server error: {ex.Message}");
+            }
+        }
+
+
+
+
+
+
+
+
 
 
         [HttpPost("skillAdd")]
@@ -85,21 +143,43 @@ namespace JobPortalApp.API.Admin
             }
         }
 
+
+        [HttpGet("skills")]
+        public async Task<IActionResult> GetAllSkills()
+        {
+            var skills = await _adminService.GetAllSkillsAsync();
+
+            if (skills == null || !skills.Any())
+                return NotFound("No skills found");
+
+            return Ok(skills);
+        }
+
+
+
+
+
         [HttpDelete("skillRemove/{skillId}")]
         public async Task<IActionResult> RemoveSkill(Guid skillId)
         {
-            // Call the service
             var result = await _adminService.RemoveSkillAsync(skillId);
 
             if (result)
-            {
                 return Ok("Skill deleted successfully");
-            }
-            else
-            {
-                return NotFound("Skill not found or failed to delete");
-            }
+
+            return NotFound("Skill not found or failed to delete");
         }
+
+
+
+
+
+
+
+
+
+
+
 
         [HttpGet]
         [Route("admin/GetCompanies")]
@@ -138,17 +218,15 @@ namespace JobPortalApp.API.Admin
 
         }
 
-        //New-Code Ends
 
-        [HttpGet]
-        [Route("admin/GetCompanyUsers")]
-        public async Task<IActionResult> GetCompanyUsers()
+        [HttpDelete]
+        [Route("admin/RemoveCompanies/{id}")]
+        public IActionResult RemoveCompanies(Guid id)
         {
-
             try
             {
-                var companyUsers = await _adminService.GetCompanyUsers();
-                return Ok(_mapper.Map<List<CompanyUsersDto>>(companyUsers));
+                _adminService.DeleteCompaniesById(id);
+                return NoContent();
             }
             catch (Exception ex)
             {
@@ -156,22 +234,9 @@ namespace JobPortalApp.API.Admin
             }
 
         }
-        [HttpGet]
-        [Route("admin/jobsbyName")]
-        public async Task<IActionResult> getalljobs(string Title)
-        {
 
-            try
-            {
-                var jobs = await _adminService.GetJobs(Title);
-                return Ok(_mapper.Map<List<Joblist>>(jobs));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
 
-        }
+
         [HttpGet]
         [Route("alljobs")]
         public async Task<IActionResult> alljobs()
@@ -192,14 +257,34 @@ namespace JobPortalApp.API.Admin
 
 
 
-        [HttpDelete]
-        [Route("admin/RemoveCompanyUsers/{id}")]
-        public IActionResult Remove(Guid id)
+
+        //New-Code Ends
+
+        //[HttpGet]
+        //[Route("admin/GetCompanyUsers")]
+        //public async Task<IActionResult> GetCompanyUsers()
+        //{
+
+        //    try
+        //    {
+        //        var companyUsers = await _adminService.GetCompanyUsers();
+        //        return Ok(_mapper.Map<List<CompanyUsersDto>>(companyUsers));
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest();
+        //    }
+
+        //}
+        [HttpGet]
+        [Route("admin/jobsbyName")]
+        public async Task<IActionResult> getalljobs(string Title)
         {
+
             try
             {
-                _adminService.DeleteById(id);
-                return NoContent();
+                var jobs = await _adminService.GetJobs(Title);
+                return Ok(_mapper.Map<List<Joblist>>(jobs));
             }
             catch (Exception ex)
             {
@@ -207,22 +292,28 @@ namespace JobPortalApp.API.Admin
             }
 
         }
+       
 
-        [HttpDelete]
-        [Route("admin/RemoveCompanies/{id}")]
-        public IActionResult RemoveCompanies(Guid id)
-        {
-            try
-            {
-                _adminService.DeleteCompaniesById(id);
-                return NoContent();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
 
-        }
+
+
+        //[HttpDelete]
+        //[Route("admin/RemoveCompanyUsers/{id}")]
+        //public IActionResult Remove(Guid id)
+        //{
+        //    try
+        //    {
+        //        _adminService.DeleteById(id);
+        //        return NoContent();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest();
+        //    }
+
+        //}
+
+     
 
 
         [HttpGet]
@@ -248,7 +339,7 @@ namespace JobPortalApp.API.Admin
             try
             {
                 var count = _adminService.GetJobProviderCount();
-                return Ok(new { Count = count });
+                return Ok(new { JobproviderCount = count });
             }
             catch (Exception ex)
             {
@@ -258,13 +349,13 @@ namespace JobPortalApp.API.Admin
         }
 
         [HttpGet]
-        [Route("admin/GetJobCount")]
-        public IActionResult GetJobCount()
+        [Route("admin/GetJobSeekerCount")]
+        public IActionResult GetJobSeekerCount()
         {
             try
             {
-                var count = _adminService.GetJobCount();
-                return Ok(new { Count = count });
+                var count = _adminService.GetSeekerCount();
+                return Ok(new { JobSeekerCount = count });
             }
             catch (Exception ex)
             {
@@ -274,29 +365,29 @@ namespace JobPortalApp.API.Admin
         }
 
 
+
+
+        [HttpGet]
+        [Route("admin/GetJobCount")]
+        public IActionResult GetJobCount()
+        {
+            try
+            {
+                var count = _adminService.GetJobCount();
+                return Ok(new { JobCount = count });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest();
+            }
+
+        }
+
         [HttpPost("AddIndustry")]
         public async Task<IActionResult> AddIndustry(IndustryRequest Industry)
         {
             var industry = _mapper.Map<Industry>(Industry);
             var result = await _adminService.AddIndustry(industry);
-
-            return Ok(result);
-        }
-
-        [HttpPost("AddCategory")]
-        public async Task<IActionResult> AddCategory(CategoryRequest category)
-        {
-            var Category = _mapper.Map<JobCategory>(category);
-            var result = await _adminService.AddCategory(Category);
-
-            return Ok(result);
-        }
-
-        [HttpPost("AddLocation")]
-        public async Task<IActionResult> AddLocation(LocationRequest location)
-        {
-            var Location = _mapper.Map<Location>(location);
-            var result = await _adminService.AddLocation(Location);
 
             return Ok(result);
         }
@@ -317,70 +408,6 @@ namespace JobPortalApp.API.Admin
 
         }
 
-        [HttpGet("GetLocations")]
-        public async Task<IActionResult> GetLocations()
-        {
-
-            try
-            {
-                var locations = await _adminService.GetLocations();
-                return Ok(_mapper.Map<List<LocationDto>>(locations));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
-
-        }
-
-        [HttpGet("GetCategories")]
-        public async Task<IActionResult> GetCategories()
-        {
-
-            try
-            {
-                var categories = await _adminService.GetCategories();
-                return Ok(_mapper.Map<List<JobCategory>>(categories));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
-
-        }
-
-        [HttpDelete]
-        [Route("RemoveLocations/{id}")]
-        public IActionResult RemoveLocation(Guid id)
-        {
-            try
-            {
-                _adminService.DeleteByLocationId(id);
-                return NoContent();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
-
-        }
-
-        [HttpDelete]
-        [Route("RemoveCategory/{id}")]
-        public IActionResult RemoveCategory(Guid id)
-        {
-            try
-            {
-                _adminService.DeleteByCategoryId(id);
-                return NoContent();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest();
-            }
-
-        }
-
 
         [HttpDelete]
         [Route("RemoveIndustry/{id}")]
@@ -388,15 +415,72 @@ namespace JobPortalApp.API.Admin
         {
             try
             {
-                _adminService.DeleteByIndustryId(id);
-                return NoContent();
+                bool isDeleted = _adminService.DeleteByIndustryId(id);
+
+                if (isDeleted)
+                    return Ok(new { message = "Industry deleted successfully ✅" });
+                else
+                    return NotFound(new { message = "Industry not found or could not be deleted ❌" });
             }
             catch (Exception ex)
             {
-                return BadRequest();
+                return StatusCode(500, new { message = "An error occurred while deleting the industry.", error = ex.Message });
             }
-
         }
+
+
+
+        //[HttpPost("AddCategory")]
+        //public async Task<IActionResult> AddCategory(CategoryRequest category)
+        //{
+        //    var Category = _mapper.Map<JobCategory>(category);
+        //    var result = await _adminService.AddCategory(Category);
+
+        //    return Ok(result);
+        //}
+
+
+
+
+
+
+
+        //[HttpGet("GetCategories")]
+        //public async Task<IActionResult> GetCategories()
+        //{
+
+        //    try
+        //    {
+        //        var categories = await _adminService.GetCategories();
+        //        return Ok(_mapper.Map<List<JobCategory>>(categories));
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest();
+        //    }
+
+        //}
+
+
+
+        //[HttpDelete]
+        //[Route("RemoveCategory/{id}")]
+        //public IActionResult RemoveCategory(Guid id)
+        //{
+        //    try
+        //    {
+        //        _adminService.DeleteByCategoryId(id);
+        //        return NoContent();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest();
+        //    }
+
+        //}
+
+
+
 
 
 

@@ -1,0 +1,15 @@
+{
+  "name": "exam-typescript",
+  "version": "1.0.0",
+  "main": "Cartitem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}

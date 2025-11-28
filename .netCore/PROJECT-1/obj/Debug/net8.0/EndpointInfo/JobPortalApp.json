@@ -1,11 +1,11 @@
 {
-  "openapi": "3.0.1",
+  "openapi": "3.0.4",
   "info": {
     "title": "JobPortalApp",
     "version": "1.0"
   },
   "paths": {
-    "/api/Admin/Admin/login": {
+    "/api/admin/login": {
       "post": {
         "tags": [
           "Admin"
@@ -14,41 +14,151 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AdminLoginRequests"
+                "$ref": "#/components/schemas/LoginRequestDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/AdminLoginRequests"
+                "$ref": "#/components/schemas/LoginRequestDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/AdminLoginRequests"
+                "$ref": "#/components/schemas/LoginRequestDTO"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           }
         }
       }
     },
-    "/api/Admin/admin/GetJobSeekers": {
+    "/api/admin/admin/GetJobSeekers": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/skillAdd": {
+    "/api/admin/AddLocation": {
+      "post": {
+        "tags": [
+          "Admin"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LocationRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LocationRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LocationRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/admin/GetLocations": {
+      "get": {
+        "tags": [
+          "Admin"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/admin/RemoveLocations/{id}": {
+      "delete": {
+        "tags": [
+          "Admin"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/admin/skillAdd": {
       "post": {
         "tags": [
           "Admin"
@@ -74,12 +184,46 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/skillRemove/{skillId}": {
+    "/api/admin/skills": {
+      "get": {
+        "tags": [
+          "Admin"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/admin/skillRemove/{skillId}": {
       "delete": {
         "tags": [
           "Admin"
@@ -89,7 +233,6 @@
             "name": "skillId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -98,24 +241,46 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/GetCompanies": {
+    "/api/admin/admin/GetCompanies": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/SearchCompanies": {
+    "/api/admin/admin/SearchCompanies": {
       "get": {
         "tags": [
           "Admin"
@@ -124,7 +289,6 @@
           {
             "name": "name",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string"
             }
@@ -132,24 +296,80 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/GetCompanyUsers": {
+    "/api/admin/admin/RemoveCompanies/{id}": {
+      "delete": {
+        "tags": [
+          "Admin"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/admin/alljobs": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/jobsbyName": {
+    "/api/admin/admin/jobsbyName": {
       "get": {
         "tags": [
           "Admin"
@@ -158,7 +378,6 @@
           {
             "name": "Title",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string"
             }
@@ -166,108 +385,115 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
-      }
-    },
-    "/api/Admin/alljobs": {
-      "get": {
-        "tags": [
-          "Admin"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Admin/admin/RemoveCompanyUsers/{id}": {
-      "delete": {
-        "tags": [
-          "Admin"
-        ],
-        "parameters": [
+        },
+        "security": [
           {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "style": "simple",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
+            "oauth2": [ ]
           }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
+        ]
       }
     },
-    "/api/Admin/admin/RemoveCompanies/{id}": {
-      "delete": {
+    "/api/admin/admin/GetCompanyCount": {
+      "get": {
         "tags": [
           "Admin"
         ],
-        "parameters": [
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
           {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "style": "simple",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
+            "oauth2": [ ]
           }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
+        ]
       }
     },
-    "/api/Admin/admin/GetCompanyCount": {
+    "/api/admin/admin/GetJobProviderCount": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/GetJobProviderCount": {
+    "/api/admin/admin/GetJobSeekerCount": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/admin/GetJobCount": {
+    "/api/admin/admin/GetJobCount": {
       "get": {
         "tags": [
           "Admin"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Admin/AddIndustry": {
+    "/api/admin/AddIndustry": {
       "post": {
         "tags": [
           "Admin"
@@ -293,110 +519,46 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Admin/AddCategory": {
-      "post": {
-        "tags": [
-          "Admin"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CategoryRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CategoryRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CategoryRequest"
-              }
-            }
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
         },
-        "responses": {
-          "200": {
-            "description": "Success"
+        "security": [
+          {
+            "oauth2": [ ]
           }
-        }
+        ]
       }
     },
-    "/api/Admin/AddLocation": {
-      "post": {
+    "/api/admin/GetIndustries": {
+      "get": {
         "tags": [
           "Admin"
         ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/LocationRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/LocationRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/LocationRequest"
-              }
-            }
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
         },
-        "responses": {
-          "200": {
-            "description": "Success"
+        "security": [
+          {
+            "oauth2": [ ]
           }
-        }
+        ]
       }
     },
-    "/api/Admin/GetIndustries": {
-      "get": {
-        "tags": [
-          "Admin"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Admin/GetLocations": {
-      "get": {
-        "tags": [
-          "Admin"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Admin/GetCategories": {
-      "get": {
-        "tags": [
-          "Admin"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Admin/RemoveLocations/{id}": {
+    "/api/admin/RemoveIndustry/{id}": {
       "delete": {
         "tags": [
           "Admin"
@@ -406,7 +568,6 @@
             "name": "id",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -415,72 +576,46 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
-      }
-    },
-    "/api/Admin/RemoveCategory/{id}": {
-      "delete": {
-        "tags": [
-          "Admin"
-        ],
-        "parameters": [
+        },
+        "security": [
           {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "style": "simple",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
+            "oauth2": [ ]
           }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
+        ]
       }
     },
-    "/api/Admin/RemoveIndustry/{id}": {
-      "delete": {
-        "tags": [
-          "Admin"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "style": "simple",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Job/jobs": {
+    "/api/job-seekerr/jobs": {
       "get": {
         "tags": [
           "Job"
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Job/jobs/{companyId}": {
+    "/api/job-seekerr/jobs/{companyId}": {
       "get": {
         "tags": [
           "Job"
@@ -490,7 +625,6 @@
             "name": "companyId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -499,12 +633,12 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           }
         }
       }
     },
-    "/api/Job/company/{companyId}/jobs/{jobId}": {
+    "/api/job-seekerr/company/{companyId}/jobs/{jobId}": {
       "get": {
         "tags": [
           "Job"
@@ -514,7 +648,6 @@
             "name": "companyId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -524,7 +657,6 @@
             "name": "jobId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -533,12 +665,12 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           }
         }
       }
     },
-    "/api/Job/job-seeker/SaveJob/{JobId}": {
+    "/api/job-seekerr/job-seeker/SaveJob/{JobId}": {
       "post": {
         "tags": [
           "Job"
@@ -548,7 +680,6 @@
             "name": "JobId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -557,7 +688,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           },
           "401": {
             "description": "Unauthorized"
@@ -573,7 +704,7 @@
         ]
       }
     },
-    "/api/Job/job-seeker/{jobseekerId}/savedjobs": {
+    "/api/job-seekerr/job-seeker/{jobseekerId}/savedjobs": {
       "get": {
         "tags": [
           "Job"
@@ -583,7 +714,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -592,48 +722,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/Job/job-seeker/job-application/{JobId}": {
-      "post": {
-        "tags": [
-          "Job"
-        ],
-        "parameters": [
-          {
-            "name": "JobId",
-            "in": "path",
-            "required": true,
-            "style": "simple",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          },
-          {
-            "name": "ResumeId",
-            "in": "query",
-            "style": "form",
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          },
-          {
-            "name": "CoverLetter",
-            "in": "query",
-            "style": "form",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
+            "description": "OK"
           },
           "401": {
             "description": "Unauthorized"
@@ -649,7 +738,56 @@
         ]
       }
     },
-    "/api/Job/job-seeker/{jobSeekerId}/appliedjobs": {
+    "/api/job-seekerr/job-seeker/job-application/{JobId}": {
+      "post": {
+        "tags": [
+          "Job"
+        ],
+        "parameters": [
+          {
+            "name": "JobId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "ResumeId",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "CoverLetter",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
+      }
+    },
+    "/api/job-seekerr/job-seeker/{jobSeekerId}/appliedjobs": {
       "get": {
         "tags": [
           "Job"
@@ -659,7 +797,6 @@
             "name": "jobSeekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -668,12 +805,23 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/Job/job-seeker/{jobseekerId}/job-application/{JobApplicationId}/cancel": {
+    "/api/job-seekerr/job-seeker/{jobseekerId}/job-application/{JobApplicationId}/cancel": {
       "delete": {
         "tags": [
           "Job"
@@ -683,7 +831,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -693,7 +840,6 @@
             "name": "JobApplicationId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -702,7 +848,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           },
           "401": {
             "description": "Unauthorized"
@@ -744,7 +890,7 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           }
         }
       }
@@ -759,7 +905,6 @@
             "name": "jobSeekerSignupRequestId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -768,9 +913,20 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/job-seeker/signup/{jobSeekerSignupRequestId}/set-password": {
@@ -783,7 +939,6 @@
             "name": "jobSeekerSignupRequestId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -811,7 +966,7 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
           }
         }
       }
@@ -842,9 +997,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/AddProfile": {
@@ -873,9 +1039,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/job-seeker/upload-resume": {
@@ -887,7 +1064,6 @@
           {
             "name": "jobSeekerId",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -896,7 +1072,6 @@
           {
             "name": "profileId",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -905,7 +1080,6 @@
           {
             "name": "profileName",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string"
             }
@@ -913,7 +1087,6 @@
           {
             "name": "profileSummary",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string"
             }
@@ -921,7 +1094,6 @@
           {
             "name": "title",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string"
             }
@@ -949,9 +1121,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/job-seeker/update-resume": {
@@ -963,7 +1146,6 @@
           {
             "name": "profileId",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -992,9 +1174,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/job-seeker/getResume/{profileId}": {
@@ -1007,7 +1200,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1016,7 +1208,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1037,8 +1229,19 @@
                 }
               }
             }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/api/job-seekerr/job-seeker/delete-resume": {
@@ -1050,7 +1253,6 @@
           {
             "name": "profileId",
             "in": "query",
-            "style": "form",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1059,12 +1261,23 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profile": {
+    "/api/job-seekerr/{jobseekerId}/profile": {
       "get": {
         "tags": [
           "JobSeekerProfile"
@@ -1074,7 +1287,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1083,12 +1295,23 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profile/{profileId}/skills": {
+    "/api/job-seekerr/{jobseekerId}/profile/{profileId}/skills": {
       "post": {
         "tags": [
           "JobSeekerProfile"
@@ -1098,7 +1321,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1108,7 +1330,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1148,9 +1369,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       },
       "get": {
         "tags": [
@@ -1161,7 +1393,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1171,7 +1402,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1180,7 +1410,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1207,11 +1437,22 @@
                 }
               }
             }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profile/{profileId}/Experience": {
+    "/api/job-seekerr/{jobseekerId}/profile/{profileId}/Experience": {
       "post": {
         "tags": [
           "JobSeekerProfile"
@@ -1221,7 +1462,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1231,7 +1471,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1259,12 +1498,23 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profile/{profileId}/Experince": {
+    "/api/job-seekerr/{jobseekerId}/profile/{profileId}/Experince": {
       "get": {
         "tags": [
           "JobSeekerProfile"
@@ -1274,7 +1524,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1284,7 +1533,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1293,7 +1541,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1320,11 +1568,22 @@
                 }
               }
             }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profile/{profileId}/Qualification": {
+    "/api/job-seekerr/{jobseekerId}/profile/{profileId}/Qualification": {
       "post": {
         "tags": [
           "JobSeekerProfile"
@@ -1334,7 +1593,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1344,7 +1602,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1372,9 +1629,20 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       },
       "get": {
         "tags": [
@@ -1385,7 +1653,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1395,7 +1662,6 @@
             "name": "profileId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1404,7 +1670,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1431,11 +1697,22 @@
                 }
               }
             }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/{jobseekerId}/profiledetails": {
+    "/api/job-seekerr/{jobseekerId}/profiledetails": {
       "get": {
         "tags": [
           "JobSeekerProfile"
@@ -1445,7 +1722,6 @@
             "name": "jobseekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1454,7 +1730,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1481,18 +1757,29 @@
                 }
               }
             }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/skills": {
+    "/api/job-seekerr/skills": {
       "get": {
         "tags": [
           "JobSeekerProfile"
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1523,7 +1810,7 @@
         }
       }
     },
-    "/api/JobSeekerProfile/UpdateJobSeekerProfile": {
+    "/api/job-seekerr/UpdateJobSeekerProfile": {
       "put": {
         "tags": [
           "JobSeekerProfile"
@@ -1612,12 +1899,23 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/JobSeekerProfileUpdate": {
+    "/api/job-seekerr/JobSeekerProfileUpdate": {
       "patch": {
         "tags": [
           "JobSeekerProfile"
@@ -1706,12 +2004,23 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
-    "/api/JobSeekerProfile/GetJobSeekerProfile/{jobSeekerId}": {
+    "/api/job-seekerr/GetJobSeekerProfile/{jobSeekerId}": {
       "get": {
         "tags": [
           "JobSeekerProfile"
@@ -1721,7 +2030,6 @@
             "name": "jobSeekerId",
             "in": "path",
             "required": true,
-            "style": "simple",
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -1730,9 +2038,20 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
           }
-        }
+        },
+        "security": [
+          {
+            "oauth2": [ ]
+          }
+        ]
       }
     },
     "/WeatherForecast": {
@@ -1743,7 +2062,7 @@
         "operationId": "GetWeatherForecast",
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "OK",
             "content": {
               "text/plain": {
                 "schema": {
@@ -1777,83 +2096,6 @@
   },
   "components": {
     "schemas": {
-      "AdminLoginRequests": {
-        "required": [
-          "email",
-          "password"
-        ],
-        "type": "object",
-        "properties": {
-          "email": {
-            "minLength": 1,
-            "type": "string",
-            "format": "email"
-          },
-          "password": {
-            "minLength": 1,
-            "type": "string"
-          }
-        },
-        "additionalProperties": false
-      },
-      "CategoryRequest": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "DateOnly": {
-        "type": "object",
-        "properties": {
-          "year": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "month": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "day": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "dayOfWeek": {
-            "$ref": "#/components/schemas/DayOfWeek"
-          },
-          "dayOfYear": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
-          },
-          "dayNumber": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "DayOfWeek": {
-        "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6
-        ],
-        "type": "integer",
-        "format": "int32"
-      },
       "ExperienceDto": {
         "type": "object",
         "properties": {
@@ -2027,6 +2269,20 @@
         },
         "additionalProperties": false
       },
+      "LoginRequestDTO": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "QualificationRequest": {
         "type": "object",
         "properties": {
@@ -2077,7 +2333,8 @@
         "type": "object",
         "properties": {
           "date": {
-            "$ref": "#/components/schemas/DateOnly"
+            "type": "string",
+            "format": "date"
           },
           "temperatureC": {
             "type": "integer",
