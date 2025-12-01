@@ -17,7 +17,7 @@ namespace JobPortalApp.Job
     [ApiController]
     [Route("api/job-seekerr")] // base route
     [Authorize(Roles = "JOB_SEEKER")]
-    public class JobController : BaseApiController<JobController>   C]
+    public class JobController : BaseApiController<JobController>   
     {
         private readonly IJobServices _jobService;
         private readonly IMapper _mapper;

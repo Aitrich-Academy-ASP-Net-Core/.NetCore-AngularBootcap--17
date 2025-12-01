@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\project-1\\job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4898B0CE-7950-4721-A5C8-CE8E2D4578F0}|JobPortalApp.csproj|solutionrelative:job\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77B4CECC-B890-491C-AFC1-1884B3BE48DE}|..\\Domain1\\Domain1.csproj|c:\\users\\razal\\desktop\\git\\batch -17\\.netcore-angularbootcap--17\\.netcore\\domain1\\service\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -383,7 +383,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 43,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -411,8 +411,7 @@
               "RelativeToolTip": "..\\Domain1\\Service\\Admin\\AdminRepository.cs",
               "ViewState": "AgIAAMoAAAAAAAAAAAAkwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T10:56:56.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T10:56:56.449Z"
             },
             {
               "$type": "Document",
@@ -524,13 +523,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "JobController.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\JobController.cs",
               "RelativeDocumentMoniker": "Job\\JobController.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\PROJECT-1\\Job\\JobController.cs",
               "RelativeToolTip": "Job\\JobController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwBMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:18:49.683Z",
               "EditorCaption": ""
@@ -896,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\Domain1\\Service\\EmailService.cs",
               "RelativeDocumentMoniker": "..\\Domain1\\Service\\EmailService.cs",
